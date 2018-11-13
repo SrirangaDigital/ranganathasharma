@@ -29,6 +29,40 @@ class data extends Controller {
 			$this->model->db->insertData(METADATA_TABLE, $dbh, $row);
 		}
 	}
+
+	public function modify(){
+
+		$xhtmlFiles = $this->model->getFilesIteratively(PHY_FLAT_URL . '3-Books/' , $pattern = '/xhtml$/i');
+		
+		foreach ($xhtmlFiles as $file) {
+			
+			$bookID = preg_replace('/.*\/(.*)\.xhtml/', "$1", $file);
+			$content = preg_split("/\n/", file_get_contents($file));
+
+			foreach ($content as $line) {
+
+				if(preg_match('/<li page="(.*?)-(.*?)">(.*)<\/li>/', $line, $matches)){
+					$pageNumber = $this->getRelativePage($bookID, $matches[1]);
+					if($pageNumber == 'Not Found'){
+						echo $bookID . "-->" . $line . "\n";
+					}
+				}
+			}
+		}
+	}
+
+	public function getRelativePage($bookID, $page) {
+
+		$path = PHY_PUBLIC_URL . 'Text/' . $bookID . '/';
+		$pages = glob($path . '*.txt');
+
+		sort($pages, SORT_STRING);
+		$relativePage = array_search(PHY_PUBLIC_URL . 'Text/' . $bookID . '/' . $page . '.txt', $pages);
+
+		$relativePage = ($relativePage !== false) ? $relativePage + 1 : "Not Found";
+
+		return $relativePage;
+	}
 }
 
 ?>

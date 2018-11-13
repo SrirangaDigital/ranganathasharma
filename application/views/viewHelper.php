@@ -188,7 +188,7 @@ class viewHelper extends View {
 		sort($pages, SORT_STRING);
 		$relativePage = array_search(PHY_PUBLIC_URL . 'Text/' . $bookID . '/' . $page . '.txt', $pages);
 
-		$relativePage = ($relativePage) ? $relativePage + 1 : "Not Found";
+		$relativePage = ($relativePage !== false) ? $relativePage + 1 : "Not Found";
 
 		return $relativePage;
 	}
