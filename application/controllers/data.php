@@ -63,6 +63,33 @@ class data extends Controller {
 
 		return $relativePage;
 	}
-}
 
+	public function generateCopyrightJson(){
+
+		$csvFile = PHY_PUBLIC_URL . 'csv/metadata.tsv';
+		$content = file($csvFile);
+		$data = [];
+
+		foreach ($content as $line) {
+			
+			$tmp = [];
+			$split = preg_split('/\t/', $line);
+
+			$BookId = $split[0];
+			$tmp['Title'] = $split[1];
+			$tmp['Language'] = $split[2];
+			$tmp['Year'] = $split[3];
+			$tmp['Pages'] = $split[4];
+			$tmp['Author'] = $split[5];
+			$tmp['Translator'] = $split[6];
+			$tmp['Publisher'] = $split[7];
+			$tmp['Copyrights'] = $split[8];
+			$tmp['Edition'] = $split[9];
+			$tmp['Category'] = $split[10];
+			$data[$BookId] = array_filter($tmp);
+		}
+
+		file_put_contents(PHY_BASE_URL . 'json-precast/metadata.json', json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
+	}
+}
 ?>
