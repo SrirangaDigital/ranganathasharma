@@ -1,1294 +1,909 @@
 {
     "001": {
-        "Title": "ಸುಭಾಷಿತಮಂಜರೀ",
-        "Language": "Kannada",
         "Year": "2001",
         "Pages": "558",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ.",
-        "Edition": "ತೃತೀಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ.",
+        "Edition": "ತೃತೀಯ ಮುದ್ರಣ"
     },
     "002": {
-        "Title": "ಸಂಸ್ಕೃತ ಭಾಷಾಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ ",
-        "Language": "Kannada",
         "Year": "1976",
         "Pages": "654",
         "Author": "ಡಾ || ಕೆ ಕೃಷ್ಣಮೂರ್ತಿ; ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ; ವಿದ್ವಾನ್ ಎಚ್. ಕೆ. ಸಿದ್ದಗಂಗಯ್ಯ",
-        "Publisher": "ಕರ್ನಾಟಕ ಸರ್ಕಾರಿ ಪಠ್ಯಪುಸ್ತಕಗಳ ಮುದ್ರಣಾಲಯದ ಸಹನಿರ್ದೇಶಕರಿಂದ ಮುದ್ರಿಸಲ್ಪಟ್ಟಿತು.",
-        "Category": "\r\n"
+        "Publisher": "ಕರ್ನಾಟಕ ಸರ್ಕಾರಿ ಪಠ್ಯಪುಸ್ತಕಗಳ ಮುದ್ರಣಾಲಯದ ಸಹನಿರ್ದೇಶಕರಿಂದ ಮುದ್ರಿಸಲ್ಪಟ್ಟಿತು."
     },
     "003": {
-        "Title": "ಬೋಧಾಯನಿಯ ಸಂಕ್ಷಿಪ್ತಧಾರ್ಮಿಕವಿಧಿಃ",
-        "Language": "Kannada",
         "Year": "2011",
         "Pages": "162",
         "Publisher": "ಶ್ರೀ ಅಖಿಲ ಹವ್ಯಕ ಮಹಾಸಭಾ (ರಿ) ಬೆಂಗಳೂರು",
-        "Edition": "ದ್ವಿತೀಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ದ್ವಿತೀಯ ಮುದ್ರಣ"
     },
     "004": {
-        "Title": "ಮರುಳ ಮುನಿಯನ ಕಗ್ಗ ",
-        "Language": "Kannada",
         "Year": "1998",
         "Pages": "246",
         "Author": "ಡಿ.ವಿ.ಜಿ",
         "Publisher": "ಕಾವ್ಯಾಲಯ ಪ್ರಕಾಶಕರು",
-        "Copyrights": "ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆ ಬೆಂಗಳೂರು ",
-        "Category": "\r\n"
+        "Copyrights": "© ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆ ಬೆಂಗಳೂರು "
     },
     "005": {
-        "Title": "ವೇದ-ವೇದಾಂತ ",
-        "Language": "Kannada",
         "Year": "2004",
         "Pages": "100",
         "Author": "ಡಿ.ವಿ.ಜಿ",
         "Publisher": "ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆ ಬೆಂಗಳೂರು",
-        "Copyrights": "ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆ ಬೆಂಗಳೂರು ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ವಿಚಾರ ಸಂಸ್ಥೆ ಬೆಂಗಳೂರು ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "006": {
-        "Title": "ಶ್ರೀ ಮದ್ರಾಘವೇಂದ್ರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು  ",
-        "Language": "Kannada",
         "Year": "1981",
         "Pages": "290",
         "Author": "ರಾಮಕೃಷ್ಣ ಅಡ್ಕೋಳಿ,",
         "Publisher": "ಬಿ. ಕೃಷ್ಣ ಭಟ್",
-        "Copyrights": "ಪ್ರಕಾಶಕರು",
-        "Edition": "ದ್ವಿತೀಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರಕಾಶಕರು",
+        "Edition": "ದ್ವಿತೀಯ ಮುದ್ರಣ"
     },
     "007": {
-        "Title": "Yugapurusha Shankara",
-        "Language": "English",
         "Year": "2003",
         "Pages": "76",
         "Author": "Vidwan Shri N. Ranganatha Sharma",
         "Translator": "Shri H.N. Narasimhaih",
         "Publisher": "Vedanta Bharati",
-        "Copyrights": "Vedanta Bharati",
-        "Edition": "Third Edition",
-        "Category": "\r\n"
+        "Copyrights": "© Vedanta Bharati",
+        "Edition": "Third Edition"
     },
     "008": {
-        "Title": "ಸಂಸ್ಕೃತ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷಭಾಷಣ ",
-        "Language": "Kannada",
         "Year": "1984",
         "Pages": "20",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ",
         "Translator": "ಕೆ. ಎಸ್. ಕಣ್ಣನ್",
-        "Publisher": "ಅಖಿಲ ಕರ್ಣಾಟಕ ಸಂಸ್ಕೃತ ಪರಿಷತ್ತಿನ ಪ್ರಕಾಶನ",
-        "Category": "\r\n"
+        "Publisher": "ಅಖಿಲ ಕರ್ಣಾಟಕ ಸಂಸ್ಕೃತ ಪರಿಷತ್ತಿನ ಪ್ರಕಾಶನ"
     },
     "009": {
-        "Title": "Sri Siddharudha Swamiji",
-        "Language": "English",
         "Year": "2001",
         "Pages": "100",
         "Author": "Vidwan Shri N. Ranganatha Sharma",
         "Translator": "Sri T.N. Padmanabhan",
         "Publisher": "Sri Siddharudha Mission Bangalore",
-        "Edition": "First Edition",
-        "Category": "\r\n"
+        "Edition": "First Edition"
     },
     "010": {
-        "Title": "ದೇವವಾಣಿ ಸಂಸ್ಕೃತ ವಿಶ್ವಜನೀನಾ",
-        "Language": "Kannada",
         "Year": "2011",
         "Pages": "55",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ",
-        "Publisher": "ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ",
-        "Category": "\r\n"
+        "Publisher": "ವಿದ್ಯಾಗಣಪತಿ ಪ್ರಕಾಶನ"
     },
     "011": {
-        "Title": "ಶ್ರೀಮಜ್ಜಗದ್ಗುರು ಗಂಗಾಧರೇಂದ್ರ ಸರಸ್ವತೀಸ್ವಾಮಿಗಳವರ ದಶಮಾನ ಸ್ಮರನಸಂಚಿಕೆಯಲ್ಲಿ ಲೇಖನ-ಭಗವತ್ಪಾದಪ್ರಕಾಶನ ",
-        "Language": "Kannada",
         "Year": "2002",
         "Pages": "236",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ, ತ್ಯಾಗಲಿ",
         "Publisher": "ಶ್ರೀ ಭಗವತ್ಪಾದ ಪ್ರಕಾಶನ (ರಿ)",
-        "Copyrights": "ಶ್ರೀ ಭಗವತ್ಪಾದ ಪ್ರಕಾಶನ",
-        "Category": "\r\n"
+        "Copyrights": "© ಶ್ರೀ ಭಗವತ್ಪಾದ ಪ್ರಕಾಶನ"
     },
     "012": {
-        "Title": "ಶ್ರೀಗುರುಕೃಪಾತಾರಂಗಿಣೀ-ಶ್ರೀರಾಮ ಚಂದ್ರಾಪುರಮಠ-1989   ",
-        "Language": "Kannada",
         "Year": "1989",
         "Pages": "280",
         "Publisher": "ಶ್ರೀರಾಮ ಪ್ರಸಾದ ಪೋಷಿತ ವೈದಿಕಗ್ರಂಥ ಪ್ರಕಾಶನಸಮಿತಿ",
-        "Copyrights": "All right are rescrved",
-        "Category": "\r\n"
+        "Copyrights": "© All right are rescrved"
     },
     "013": {
-        "Title": "ವಾಲ್ಮೀಕಿ ಮುನಿಗಳ ಸೀತಾ ಸಮೀಕ್ಷಣ-ಉತ್ಥಾನ-೧೯೮೪ ",
-        "Language": "Kannada",
         "Year": "1984",
         "Pages": "33",
-        "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ",
-        "Category": "\r\n"
+        "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ"
     },
     "014": {
-        "Title": "ನವರಸಗಳು ಮತ್ತು ಭಾವಗಳು-ಕ.ಸಾ.ಪ (ಸಾಹಿತ್ಯ ಚಿಂತನೆ) ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "108",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "015": {
-        "Title": "ಶ್ರಿರಾಮನಾಮಾವಲಿಃ",
-        "Language": "Kannada",
         "Year": "2011",
         "Pages": "66",
         "Publisher": "ಶ್ರೀಭಾರತೀಪ್ರಕಾಶನ",
-        "Copyrights": "Publisher",
-        "Edition": "First Edition",
-        "Category": "\r\n"
+        "Copyrights": "© Publisher",
+        "Edition": "First Edition"
     },
     "016": {
-        "Title": "ಒಂದನೆಯ ನಾಗವರ್ಮ (ಸಹಕರ್ತೃಕ) ಕ. ಸಾ.ಪ",
-        "Language": "Kannada",
         "Year": "1973",
         "Pages": "208",
         "Author": "ಪ್ರೋ|| ಎಚ್. ಎಂ. ಶಂಕರನಾರಾಯಣರಾವ್; ಶ್ರೀ ಪಿ. ವಿ. ಜೋಶಿ; ಡಾ|| ಡಿ. ಎಸ್. ಕರ್ಕಿ; ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ",
         "Publisher": "ಐ. ಬಿ ಎಚ್ ಪ್ರಕಾಶನ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "017": {
-        "Title": "ಎರಡನೆಯ ನಾಗವರ್ಮ (ಸಹಕರ್ತೃಕ) ಕ. ಸಾ.ಪ",
-        "Language": "Kannada",
         "Year": "1973",
         "Pages": "224",
         "Author": "ಪ್ರೋ|| ಎಚ್. ಎಂ. ಶಂಕರನಾರಾಯಣರಾವ್; ವಿದ್ವಾನ್ ಎಂ. ರಾಜಗೋಪಾಲಾಚಾರ್ಯ; ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮ",
         "Publisher": "ಐ. ಬಿ ಎಚ್ ಪ್ರಕಾಶನ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "018": {
-        "Title": "ಶತಾವಧಾನಶಂಸನ ",
-        "Language": "Kannada",
         "Year": "2012",
         "Pages": "80",
-        "Publisher": "ಪದ್ಯಪಾನ",
-        "Category": "\r\n"
+        "Publisher": "ಪದ್ಯಪಾನ"
     },
     "019": {
-        "Title": "ಭಾರತೀಯರ ಧರ್ಮ ಮತ್ತು ಸಂಸ್ಕೃತಿ-ಚಿಂತನ ಪ್ರಕಾಶ- ಸ್ಮರಣಸಂಚಿಕೆ ",
-        "Language": "Kannada",
         "Year": "2008",
         "Pages": "79",
-        "Publisher": "Live Happily Foundation",
-        "Category": "\r\n"
+        "Publisher": "Live Happily Foundation"
     },
     "020": {
-        "Title": "ಋಷಿಗಳ ರಾಷ್ಟ್ರಾಭಿಮಾನ-ದಶಾಸ್ಮರಣಂ-ಹರಿಹರಪುರಮಠ",
-        "Language": "Kannada",
         "Pages": "195",
         "Publisher": "Sri Swayamprakasha Trust (R)",
-        "Copyrights": "Author",
-        "Category": "\r\n"
+        "Copyrights": "© Author"
     },
     "021": {
-        "Title": "ಸಂಕ್ಷೇಪ ರಾಮಾಯಣಮ್-ಮುನ್ನುಡಿ-ರಾಮಾಯಣ ಪ್ರಸರಣ ಪರಿಷತ್  ",
-        "Language": "Kannada",
         "Year": "2004",
         "Pages": "40",
-        "Publisher": "ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣಪ್ರಸರಣಪರಿಷತ್",
-        "Category": "\r\n"
+        "Publisher": "ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣಪ್ರಸರಣಪರಿಷತ್"
     },
     "022": {
-        "Title": "ಗೀತಾಜ್ಯೋತಿ-ಸಂಪಾದಕರ ನುಡಿ-ಸ್ವರ್ಣವಲ್ಲೀ ಮಠ ",
-        "Language": "Kannada",
         "Year": "2011",
         "Pages": "154",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಭಗವತ್ಪಾದ ಪ್ರಕಾಶನ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "023": {
-        "Title": "ಸಿದ್ಧಾಂತ ಬಿಂದು-ಭದ್ರಂ. ಶಿವಂ. ಮಂಗಳಮ್",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "228",
         "Author": "ಶ್ರೀ ಮಧುಸೂದನ ಸರಸ್ವತಿ",
         "Translator": "ಪ್ರೊ. ಎಂ. ಎ. ಹೆಗಡೆ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Copyrights": "ಪ್ರೊ. ಎಂ. ಎ. ಹೆಗಡೆ",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರೊ. ಎಂ. ಎ. ಹೆಗಡೆ",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "024": {
-        "Title": "ಸಮಯೋಚಿತ ಪದ್ಯಗಳು-ಮುನ್ನುಡಿ ",
-        "Language": "Kannada",
         "Year": "2002",
         "Pages": "144",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Translator": "ಎನ್. ವಿ. ಅನಂತರಾಮಯ್ಯ",
         "Publisher": "ಶ್ರೀ ನರಸಿಂಹರಾಜಾ ಕಾಲೋನಿ ಅಸೋಸಿಯೇಷನ್",
-        "Copyrights": "ಹಕ್ಕುಗಳು ಕಾದಿರಿಸಲ್ಪಟ್ಟಿವೆ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳು ಕಾದಿರಿಸಲ್ಪಟ್ಟಿವೆ"
     },
     "025": {
-        "Title": "ವಾಲ್ಮೀಕಿ ಮುನಿಗಳ ಹಾಸ್ಯ ಪ್ರವೃತ್ತಿ ",
-        "Language": "Kannada",
         "Year": "1996",
         "Pages": "78",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
-        "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Category": "\r\n"
+        "Publisher": "ಉದಯ ಪ್ರಕಾಶನ"
     },
     "026": {
-        "Title": "ವ್ಯಾಸ ರಹಸ್ಯ",
-        "Language": "Kannada",
         "Year": "1996",
         "Pages": "78",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Copyrights": "Author",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© Author",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "027": {
-        "Title": "ಯುಗ ಪುರುಷ ಶಂಕರ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "80",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ವೇದಾಂತಭಾರತೀ",
-        "Copyrights": "ವೇದಾಂತಭಾರತೀ",
-        "Edition": "ತೃತೀಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ವೇದಾಂತಭಾರತೀ",
+        "Edition": "ತೃತೀಯ ಮುದ್ರಣ"
     },
     "028": {
-        "Title": "ಮಾನವ ಧರ್ಮಶಾಸ್ತ್ರ ಮತ್ತು ಮಹಿಳೆ",
-        "Language": "Kannada",
         "Year": "2004",
         "Pages": "180",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಭಗವತ್ಪಾದ ಪ್ರಕಾಶನ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "029": {
-        "Title": "ಹೊಸಗನ್ನಡ ವ್ಯಾಕರಣ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "138",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ"
     },
     "030": {
-        "Title": "ವ್ಯಾಕರಣ ಶಾಸ್ತ್ರದ ಪರಿವಾರ",
-        "Language": "Kannada",
         "Year": "2002",
         "Pages": "218",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರಕವಿ ಗೋವಿಂದ ಪೈ ಸಂಶೋಧನ ಕೇಂದ್ರ ",
-        "Copyrights": "All Rights Reseved",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© All Rights Reseved",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "031": {
-        "Title": "ಪಂಚದಶೀ ಪ್ರವಚನ ",
-        "Language": "Kannada",
         "Year": "2003",
         "Pages": "574",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ವೇದಾಂತಭಾರತೀ",
-        "Copyrights": "ವೇದಾಂತಭಾರತೀ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ವೇದಾಂತಭಾರತೀ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "032": {
-        "Title": "ಶ್ರೀರಾಮಕಥಾ ಮಂಜರಿ",
-        "Language": "Kannada",
         "Year": "2000",
         "Pages": "535",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ಲೇಖಕರರು",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಲೇಖಕರರು",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "033": {
-        "Title": "ವಾಲಿವಧಪ್ರಸಂಗ",
-        "Language": "Kannada",
         "Year": "1998",
         "Pages": "41",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ನರಸಿಂಹರಾಜಾ ಕಾಲೋನಿ ಅಸೋಸಿಯೇಷನ್",
-        "Copyrights": "Reserved",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© Reserved",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "034": {
-        "Title": "ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣದ ನಾಲ್ಕು ಪತ್ರಗಳು",
-        "Language": "Kannada",
         "Year": "1996",
         "Pages": "92",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರಕವಿ ಗೋವಿಂದ ಪೈ ಸಂಶೋಧನ ಕೇಂದ್ರ ಮತ್ತು ಶ್ರೀ ಜನಾರ್ದನ ಮತ್ತು ಮಹಾಕಾಳೀ ದೇವಾಲಯ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "035": {
-        "Title": "ವರದ ಪುರದ ವರದ ಯೋಗಿ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "76",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಶ್ರೀಧರಸೇವಾ ಮಹಾ ಮಂಡಲ (ರಿ)",
-        "Edition": "ಎರಡನೆ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಎರಡನೆ ಮುದ್ರಣ"
     },
     "036": {
-        "Title": "ಹುಬ್ಬಳ್ಳಿಯ ಸಿದ್ಧಪುರುಷ ",
-        "Language": "Kannada",
         "Year": "2001",
         "Pages": "100",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಸಿದ್ಧಾರೂಢ ಮಿಷನ್",
-        "Copyrights": "ಪ್ರಕಾಶಕರ ಅಧೀನ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರಕಾಶಕರ ಅಧೀನ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "037": {
-        "Title": "ದಿವ್ಯಜ್ಯೋತಿ ಶಂಕರ",
-        "Language": "Kannada",
         "Year": "2002",
         "Pages": "74",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ವೇದಾಂತಭಾರತೀ",
-        "Copyrights": "ವೇದಾಂತಭಾರತೀ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ವೇದಾಂತಭಾರತೀ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "038": {
-        "Title": "ಆಸ್ತಿಕ ಪರ್ವ ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "86",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಭಗವತ್ಪಾದ ಪ್ರಕಾಶನ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "039": {
-        "Title": "ಪುರಾಣಗಳ ನೆಲೆ ತತ್ತ್ವವಿಚಾರ ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "90",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "040": {
-        "Title": "ಉಪನಿಷತ್ತಿನ ಕಥೆಗಳು ",
-        "Language": "Kannada",
         "Pages": "50",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಶಾರದಾ ಟ್ರಸ್ಟ್",
-        "Copyrights": "ಎಲ್ಲಾ ಹಕ್ಕುಗಳೂ ಪ್ರಕಾಶಕರದು",
-        "Category": "\r\n"
+        "Copyrights": "© ಎಲ್ಲಾ ಹಕ್ಕುಗಳೂ ಪ್ರಕಾಶಕರದು"
     },
     "041": {
-        "Title": "ವಸಿಷ್ಠ ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "43",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Copyrights": "ಪ್ರಕಾಶಕರು",
-        "Edition": "ಮೂರನೇ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರಕಾಶಕರು",
+        "Edition": "ಮೂರನೇ ಮುದ್ರಣ"
     },
     "042": {
-        "Title": "ನಾರದ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "43",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Copyrights": "ಪ್ರಕಾಶಕರು",
-        "Edition": "ಮೂರನೇ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರಕಾಶಕರು",
+        "Edition": "ಮೂರನೇ ಮುದ್ರಣ"
     },
     "043": {
-        "Title": "ಲಕ್ಷ್ಮಿ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "44",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Copyrights": "ಪ್ರಕಾಶಕರು",
-        "Edition": "ನಾಲ್ಕನೆ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರಕಾಶಕರು",
+        "Edition": "ನಾಲ್ಕನೆ ಮುದ್ರಣ"
     },
     "044": {
-        "Title": "ಭಾರತಿಯ ದರ್ಶನ",
-        "Language": "Kannada",
         "Year": "1997",
         "Pages": "552",
-        "Publisher": "ಸರ್ಕಾರಿ ಪಠ್ಯ ಪುಸ್ತಕ ಮುದ್ರಣಾಲಯ, ಮೈಸೂರು",
-        "Category": "\r\n"
+        "Publisher": "ಸರ್ಕಾರಿ ಪಠ್ಯ ಪುಸ್ತಕ ಮುದ್ರಣಾಲಯ, ಮೈಸೂರು"
     },
     "045": {
-        "Title": "ವರದಹಳ್ಳಿ ಶ್ರಿಧರಸ್ವಾಮಿಗಳು",
-        "Language": "Kannada",
         "Year": "1981",
         "Pages": "60",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಐ. ಬಿ ಎಚ್ ಪ್ರಕಾಶನ",
-        "Copyrights": "1981 by the Publisher",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© 1981 by the Publisher",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "046": {
-        "Title": "ವೀರಕಂಪಣರಾಯ",
-        "Language": "Kannada",
         "Year": "1988",
         "Pages": "60",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಐ. ಬಿ ಎಚ್ ಪ್ರಕಾಶನ",
-        "Copyrights": "1988 by the Publisher",
-        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ 1988",
-        "Category": "\r\n"
+        "Copyrights": "© 1988 by the Publisher",
+        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ 1988"
     },
     "047": {
-        "Title": "ಮಾಂಡೂಕ್ಯಪ್ರವಚನ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "236",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಸ್ವಯಂಪ್ರಕಾಶ ಗ್ರಂಥಮಾಲಾ",
-        "Copyrights": "Publisher",
-        "Edition": "First Edition",
-        "Category": "\r\n"
+        "Copyrights": "© Publisher",
+        "Edition": "First Edition"
     },
     "048": {
-        "Title": "ಸಂದರ್ಭ ಸೂಕ್ತಿ",
-        "Language": "Kannada",
         "Year": "1987",
         "Pages": "132",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಐ. ಬಿ ಎಚ್ ಪ್ರಕಾಶನ",
-        "Copyrights": "Author 1987",
-        "Edition": "First Edition",
-        "Category": "\r\n"
+        "Copyrights": "© Author 1987",
+        "Edition": "First Edition"
     },
     "049": {
-        "Title": "ಸಂಜಯ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "44",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Copyrights": "ಪ್ರಕಾಶಕರು",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಪ್ರಕಾಶಕರು",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "050": {
-        "Title": "ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ ",
-        "Language": "Kannada",
         "Year": "1995",
         "Pages": "158",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Edition": "First Edition 1995",
-        "Category": "\r\n"
+        "Edition": "First Edition 1995"
     },
     "051": {
-        "Title": "ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ ೧ ",
-        "Language": "Kannada",
         "Year": "1994",
         "Pages": "190",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Edition": "ಎರಡನೆ ಮುದ್ರಣ ೧೯೯೪",
-        "Category": "\r\n"
+        "Edition": "ಎರಡನೆ ಮುದ್ರಣ ೧೯೯೪"
     },
     "052": {
-        "Title": "ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ ೨",
-        "Language": "Kannada",
         "Year": "2002",
         "Pages": "174",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Copyrights": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Edition": "ಎರಡನೆ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
+        "Edition": "ಎರಡನೆ ಮುದ್ರಣ"
     },
     "053": {
-        "Title": "ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ ೩",
-        "Language": "Kannada",
         "Year": "2004",
         "Pages": "104",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Copyrights": "ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಷ್ಟ್ರೋತ್ಥಾನ ಸಾಹಿತ್ಯ",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "054": {
-        "Title": "ಸಂಕ್ಷೇಪ ರಾಮಾಯಣ ",
-        "Language": "Kannada",
         "Year": "2005",
         "Pages": "60",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀಭಾರತೀಪ್ರಕಾಶನ",
-        "Copyrights": "ಶ್ರೀಭಾರತೀ ಪ್ರಕಾಶನ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಶ್ರೀಭಾರತೀ ಪ್ರಕಾಶನ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "055": {
-        "Title": "ಶ್ರೀಶಂಕರಚರಿತಾಮೃತಮ್ ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "70",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Copyrights": "N. Ranganatha Sharma",
-        "Edition": "Third Edition",
-        "Category": "\r\n"
+        "Copyrights": "© N. Ranganatha Sharma",
+        "Edition": "Third Edition"
     },
-    "056": {
-        "Language": "Kannada",
-        "Category": "\r\n"
-    },
+    "056": [
+
+    ],
     "057": {
-        "Title": "ಮಾಧವೀಯ ಶಂಕರ ದಿಗ್ವಿಜಯ-೧",
-        "Language": "Kannada",
         "Year": "1996",
         "Pages": "384",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಜಗದ್ಗುರು ಶಂಕರಾಚಾರ್ಯ ಮಹಾಸಂಸ್ಥಾನಮ್",
-        "Copyrights": "ಹಕ್ಕನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
-        "Edition": "ಪ್ರ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
+        "Edition": "ಪ್ರ್ರಥಮ ಮುದ್ರಣ"
     },
     "058": {
-        "Title": "ಮಾಧವೀಯ ಶಂಕರ ದಿಗ್ವಿಜಯ-೨",
-        "Language": "Kannada",
         "Year": "1997",
         "Pages": "389",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಜಗದ್ಗುರು ಶಂಕರಾಚಾರ್ಯ ಮಹಾಸಂಸ್ಥಾನಮ್",
-        "Copyrights": "ಹಕ್ಕನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
-        "Edition": "ಪ್ರ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
+        "Edition": "ಪ್ರ್ರಥಮ ಮುದ್ರಣ"
     },
     "059": {
-        "Title": "ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಬಾಲ ಕಾಂಡ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "486",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಆರನೇ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಆರನೇ ಮುದ್ರಣ"
     },
     "060": {
-        "Title": "ಅಯೋಧ್ಯಾಕಾಂಡ ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "464",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ಹಕ್ಕಗಳನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
-        "Edition": "ಆರನೇ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕಗಳನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
+        "Edition": "ಆರನೇ ಮುದ್ರಣ"
     },
     "061": {
-        "Title": "ಅಯೋಧ್ಯಾಕಾಂಡ-೨",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "452",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ಹಕ್ಕಗಳನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
-        "Edition": "ಆರನೇ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕಗಳನ್ನು ಕಾದರಿಸಲಾಗಿದೆ",
+        "Edition": "ಆರನೇ ಮುದ್ರಣ"
     },
     "062": {
-        "Title": "ಅರಣ್ಯ ಕಾಂಡ ",
-        "Language": "Kannada",
         "Year": "1986",
         "Pages": "522",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಮೂರನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಮೂರನೆಯ ಮುದ್ರಣ"
     },
     "063": {
-        "Title": "ಕಿಷ್ಕಿಂಧಾ ಕಾಂಡ ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "536",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ನಾಲ್ಕನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ನಾಲ್ಕನೆಯ ಮುದ್ರಣ"
     },
     "064": {
-        "Title": "ಯುದ್ಧಕಾಂಡ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "616",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಐದನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಐದನೆಯ ಮುದ್ರಣ"
     },
     "065": {
-        "Title": "ಯುದ್ಧಕಾಂಡ-೨",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "621",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಐದನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಐದನೆಯ ಮುದ್ರಣ"
     },
     "066": {
-        "Title": "ಉತ್ತರ ಕಾಂಡ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "688",
         "Translator": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "067": {
-        "Title": "ಶ್ರೀಮದ್ಭಾಗವತಮ್ (ಪುರ್ವಾಧ ದಶಮ)  ",
-        "Language": "Kannada",
         "Year": "1978",
         "Pages": "504",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ"
     },
     "068": {
-        "Title": "ಶ್ರೀಮದ್ಭಾಗವತಮ್ (ಉತ್ತರ ದಶಮ)  ",
-        "Language": "Kannada",
         "Year": "1983",
         "Pages": "472",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ"
     },
     "069": {
-        "Title": "ಶ್ರೀಮದ್ಭಾಗವತಮ್ -11-12",
-        "Language": "Kannada",
         "Year": "1990",
         "Pages": "634",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "070": {
-        "Title": "ಶ್ರೀವಿಷ್ಣುಪುರಾಣ- 1",
-        "Language": "Kannada",
         "Year": "2011",
         "Pages": "686",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಕೃಷ್ಣ ಮಠ ಬೆಂಗಳೂರು",
-        "Copyrights": "ಎಲ್ಲ ಹಕ್ಕುಗಳೂ ಪ್ರಕಾಶಕರಿಗೆ ಸೇರಿವೆ.",
-        "Edition": "ಮೂರನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಎಲ್ಲ ಹಕ್ಕುಗಳೂ ಪ್ರಕಾಶಕರಿಗೆ ಸೇರಿವೆ.",
+        "Edition": "ಮೂರನೆಯ ಮುದ್ರಣ"
     },
     "071": {
-        "Title": "ಶ್ರೀವಿಷ್ಣುಪುರಾಣ-2",
-        "Language": "Kannada",
         "Year": "2000",
         "Pages": "676",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಕೃಷ್ಣ ಮಠ ಬೆಂಗಳೂರು",
-        "Copyrights": "ಎಲ್ಲ ಹಕ್ಕುಗಳೂ ಪ್ರಕಾಶಕರಿಗೆ ಸೇರಿದ್ದು",
-        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಎಲ್ಲ ಹಕ್ಕುಗಳೂ ಪ್ರಕಾಶಕರಿಗೆ ಸೇರಿದ್ದು",
+        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ"
     },
     "072": {
-        "Title": "ಶ್ರೀಗುರುಪರಂಪರಾ ಚರಿತಮ್",
-        "Language": "Kannada",
         "Year": "1969",
         "Pages": "33",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಎನ್. ಶ್ರೀಪತಿ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "073": {
-        "Title": "ಗೀತಸಪ್ತಕ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "114",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "Shri Shankaraseva Samithi (R)",
-        "Copyrights": "Vidwan N Ranganatha Sharma",
-        "Category": "\r\n"
+        "Copyrights": "© Vidwan N Ranganatha Sharma"
     },
     "074": {
-        "Title": "ಅಮರಕೋಶ",
-        "Language": "Kannada",
         "Year": "2008",
         "Pages": "492",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕಾವ್ಯಾಲಯ ಪ್ರಕಾಶಕರು ಜಯನಗರ ಮೈಸೂರು",
-        "Copyrights": "All Rights Reseved by Kavyalaya Publishers, Jayangar, Mysore - 14",
-        "Category": "\r\n"
+        "Copyrights": "© All Rights Reseved by Kavyalaya Publishers, Jayangar, Mysore - 14"
     },
     "075": {
-        "Title": "ಉತ್ತರಗೀತಾಭಾಷ್ಯ",
-        "Language": "Kannada",
         "Year": "2008",
         "Pages": "64",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
-        "Publisher": "ಶ್ರೀ. ಯು. ಪುಂಡಲೀಕ ಶೆಣೈ ಮೆಮೋರಿಯಲ್ ಟ್ರಸ್ಟ್ (R)",
-        "Category": "\r\n"
+        "Publisher": "ಶ್ರೀ. ಯು. ಪುಂಡಲೀಕ ಶೆಣೈ ಮೆಮೋರಿಯಲ್ ಟ್ರಸ್ಟ್ (R)"
     },
     "076": {
-        "Title": "ಸಾಂಖ್ಯ ಕಾರಿಕಾ ಭಾಷ್ಯ",
-        "Language": "Kannada",
         "Year": "2008",
         "Pages": "80",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
-        "Publisher": "ಶ್ರೀ. ಯು. ಪುಂಡಲೀಕ ಶೆಣೈ ಮೆಮೋರಿಯಲ್ ಟ್ರಸ್ಟ್ (R)",
-        "Category": "\r\n"
+        "Publisher": "ಶ್ರೀ. ಯು. ಪುಂಡಲೀಕ ಶೆಣೈ ಮೆಮೋರಿಯಲ್ ಟ್ರಸ್ಟ್ (R)"
     },
     "077": {
-        "Title": "ಜೈಮಿನಿ ಭಾರತ",
-        "Language": "Kannada",
         "Year": "2009",
         "Pages": "336",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "078": {
-        "Title": "ಹದಿ ಬದೆಯ ಧರ್ಮ",
-        "Language": "Kannada",
         "Year": "2011",
         "Pages": "154",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "079": {
-        "Title": "ಹರಿಭಕ್ತಿ ಸಾರ",
-        "Language": "Kannada",
         "Year": "2009",
         "Pages": "54",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "080": {
-        "Title": "ವಿದುರ ನೀತಿ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "66",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "081": {
-        "Title": "ಪ್ರಾರ್ಥನಾ ಶ್ಲೋಕಗಳು",
-        "Language": "Kannada",
         "Year": "1991",
         "Pages": "20",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಮೂರನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಮೂರನೆಯ ಮುದ್ರಣ"
     },
     "082": {
-        "Title": "ಶ್ರುತಿ ಸಾರ ಸಮುದ್ಧರಣಮ್",
-        "Language": "Kannada",
         "Year": "1993",
         "Pages": "110",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Copyrights": "All Rights Rescrved by the Translator",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© All Rights Rescrved by the Translator",
+        "Edition": "First Eiditon"
     },
     "083": {
-        "Title": "ಶ್ರೀ ಗೀತಾರ್ಥ ಪ್ರಕಾಶ",
-        "Language": "Kannada",
         "Year": "1997",
         "Pages": "316",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಗೀತಾ ಬುಕ್ ಹೌಸ್ ಪ್ರಕಾಶಕರು ಮೈಸೂರು",
-        "Copyrights": "ಎನ್ ರಂಗನಾಥಶರ್ಮಾ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಎನ್ ರಂಗನಾಥಶರ್ಮಾ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "084": {
-        "Title": "ದಶಶ್ಲೋಕೀ",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "40",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Edition": "ಎರಡನೆಯ ಮುದ್ರಣ"
     },
     "085": {
-        "Title": "ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಚರಿತೆ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "138",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
-        "Edition": "ಎರಡನೇ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಿದೆ",
+        "Edition": "ಎರಡನೇ ಮುದ್ರಣ"
     },
     "086": {
-        "Title": "ಶ್ರೀರಾಮ ಕಥಾವೈಭವ",
-        "Language": "Kannada",
         "Year": "1987",
         "Pages": "198",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ನರಸಿಂಹರಾಜ ಕಾಲೋನಿ ಅಸೋಸಿಯೇಷನ್ (ರಿ.)",
-        "Copyrights": "ಶ್ರೀ ನರಸಿಂಹರಾಜ ಕಾಲೋನಿ ಅಸೋಸಿಯೇಷನ್ (ರಿ.)",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಶ್ರೀ ನರಸಿಂಹರಾಜ ಕಾಲೋನಿ ಅಸೋಸಿಯೇಷನ್ (ರಿ.)",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "087": {
-        "Title": "ಕಾವ್ಯೋದ್ಯಾನಮ್",
-        "Language": "Kannada",
         "Year": "2009",
         "Pages": "148",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "ग्रन्थकर्ता",
-        "Copyrights": "Author",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© Author",
+        "Edition": "First Eiditon"
     },
     "088": {
-        "Title": "ಕುಸುಮಾಂಜಲಿಃ",
-        "Language": "Kannada",
         "Year": "2001",
         "Pages": "62",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "उदयप्रकाशनम्",
-        "Copyrights": "Author",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© Author",
+        "Edition": "First Eiditon"
     },
     "089": {
-        "Title": "ಸಂಸ್ಕೃತ ಪ್ರಥಮ್ ಪ್ರವೇಶ ",
-        "Language": "Kannada",
         "Year": "1970",
         "Pages": "72",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "संस्कृतसंवर्धिनीसभायाः ग्रन्थमाला",
-        "Copyrights": "All Rights reserved by the Author",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© All Rights reserved by the Author",
+        "Edition": "First Eiditon"
     },
     "090": {
-        "Title": "ಭಾಷಾಂತರ ಪಾಠ ",
-        "Language": "Kannada",
         "Year": "1964",
         "Pages": "50",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
-        "Edition": "चतुर्थं मुद्रणम्",
-        "Category": "\r\n"
+        "Edition": "चतुर्थं मुद्रणम्"
     },
     "091": {
-        "Title": "ಶಬ್ದ ಚಂದ್ರಿಕಾ ",
-        "Language": "Kannada",
         "Year": "1998",
         "Pages": "180",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀ ಜಗದ್ಗುರು ಶಂಕರಾಚಾರ್ಯ ಮಹಾಸಂಸ್ಥಾನಮ್",
-        "Copyrights": "ಹಕ್ಕುಗಳು ಕಾದಿರಿಸಲ್ಪಟ್ಟಿವೆ.",
-        "Edition": "ತೃತೀಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳು ಕಾದಿರಿಸಲ್ಪಟ್ಟಿವೆ.",
+        "Edition": "ತೃತೀಯ ಮುದ್ರಣ"
     },
     "092": {
-        "Title": "ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ  - ೧",
-        "Language": "Kannada",
         "Pages": "48",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "श्रीसुरसरस्वतीसभा",
-        "Edition": "प्रथम मुद्रणम्",
-        "Category": "\r\n"
+        "Edition": "प्रथम मुद्रणम्"
     },
     "093": {
-        "Title": "ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ  - ೨",
-        "Language": "Kannada",
         "Year": "1993",
         "Pages": "82",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "श्रीसुरसरस्वतीसभा",
-        "Edition": "प्रथम मुद्रणम्",
-        "Category": "\r\n"
+        "Edition": "प्रथम मुद्रणम्"
     },
     "094": {
-        "Title": "ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ  - ೩",
-        "Language": "Kannada",
         "Year": "1993",
         "Pages": "74",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "श्रीसुरसरस्वतीसभा",
-        "Copyrights": "ಹಕ್ಕನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
-        "Edition": "प्रथम मुद्रणम्",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
+        "Edition": "प्रथम मुद्रणम्"
     },
     "095": {
-        "Title": "ಅನುವಾದ ಪ್ರದೀಪಃ - ೧",
-        "Language": "Kannada",
         "Year": "1993",
         "Pages": "59",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "श्रीसुरसरस्वतीसभा",
-        "Copyrights": "ಹಕ್ಕನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
-        "Edition": "ಪಂಚಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
+        "Edition": "ಪಂಚಮ ಮುದ್ರಣ"
     },
     "096": {
-        "Title": "ಅನುವಾದ ಪ್ರದೀಪಃ - ೨",
-        "Language": "Kannada",
         "Year": "2006",
         "Pages": "66",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "श्रीसुरसरस्वतीसभा",
-        "Copyrights": "All rights reserved",
-        "Edition": "प्रथम मुद्रणम्",
-        "Category": "\r\n"
+        "Copyrights": "© All rights reserved",
+        "Edition": "प्रथम मुद्रणम्"
     },
     "097": {
-        "Title": "ವ್ಯಾಸತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಸಂ )",
-        "Language": "Kannada",
         "Year": "1995",
         "Pages": "108",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "उदयप्रकाशनम्",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Edition": "First Eiditon"
     },
     "098": {
-        "Title": "ವ್ಯಾಸತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಕ)",
-        "Language": "Kannada",
         "Year": "1995",
         "Pages": "158",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಉದಯ ಪ್ರಕಾಶನ",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Edition": "First Eiditon"
     },
     "099": {
-        "Title": "ಸಂಸ್ಕೃತಂ ನಾಮ ದೈವೀ ವಾಕ್",
-        "Language": "Kannada",
         "Pages": "36",
-        "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
-        "Category": "\r\n"
+        "Author": "विद्वान् एन्. रङ्गनाथशर्मा"
     },
     "100": {
-        "Title": "ಸಂಸ್ಕೃತ ವ್ಯಾಕರಣಸ್ಯ  ಪ್ರಾಶಸ್ತ್ಯಮ್ ",
-        "Language": "Kannada",
         "Pages": "12",
-        "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
-        "Category": "\r\n"
+        "Author": "विद्वान् एन्. रङ्गनाथशर्मा"
     },
     "101": {
-        "Title": "ಸಂಸ್ಕೃತ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷಭಾಷಣ ",
-        "Language": "Kannada",
         "Year": "1984",
         "Pages": "20",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
-        "Publisher": "अखिलकर्णाटकसंस्कृतपरिषदा प्रकाशितम्",
-        "Category": "\r\n"
+        "Publisher": "अखिलकर्णाटकसंस्कृतपरिषदा प्रकाशितम्"
     },
     "102": {
-        "Title": "ಕುಕ್ಕೆಸುಬ್ರಹ್ಮಣ್ಯ ಸುಪ್ರಭಾತ ",
-        "Language": "Kannada",
         "Year": "1994",
         "Pages": "25",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕುಕ್ಕೆ ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ದೇವಸ್ಥಾನದ ಆಡಳಿತ ಮಂಡಳಿ",
-        "Copyrights": "ಈ ಗ್ರಂಥದ ಸಂಪೂರ್ಣ ಹಕ್ಕು ದೇವಳದ ಆಡಳಿತ ಮಂಡಳಿಗೆ ಸೇರಿದೆ",
-        "Edition": "ತೃತೀಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಈ ಗ್ರಂಥದ ಸಂಪೂರ್ಣ ಹಕ್ಕು ದೇವಳದ ಆಡಳಿತ ಮಂಡಳಿಗೆ ಸೇರಿದೆ",
+        "Edition": "ತೃತೀಯ ಮುದ್ರಣ"
     },
     "103": {
-        "Title": "ಏಕಚಕ್ರಮ್",
-        "Language": "Kannada",
         "Year": "1990",
         "Pages": "36",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "अखिल कर्णाटक संस्कृत परिषत्",
-        "Copyrights": "AKhila Karnataka Samskrita Parishat",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© AKhila Karnataka Samskrita Parishat",
+        "Edition": "First Eiditon"
     },
     "104": {
-        "Title": "ಶಾಂಕರಸೂಕ್ತಿ ಮಣಿಹಾರ ",
-        "Language": "Kannada",
         "Year": "2008",
         "Pages": "212",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಕಾವ್ಯಾಲಯ ಪ್ರಕಾಶಕರು ಜಯನಗರ, ಮೈಸೂರು",
-        "Copyrights": "Vidwan N. Ranganatha Sharma",
-        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© Vidwan N. Ranganatha Sharma",
+        "Edition": "ಮೊದಲನೆಯ ಮುದ್ರಣ"
     },
     "105": {
-        "Title": "ಶ್ರೀದೇವೀ ಸ್ತೋತ್ರಮಾಲಾ",
-        "Language": "Kannada",
         "Year": "1999",
         "Pages": "60",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಅದ್ವೈತ ವಿದ್ಯಾ ಪ್ರತಿಷ್ಠಾನ",
-        "Copyrights": "Academy of Advaitha Studies",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© Academy of Advaitha Studies",
+        "Edition": "First Eiditon"
     },
     "106": {
-        "Title": "ಸಾಹಿತ್ಯದ ಚತುರ್ಮುಖರು",
-        "Language": "Kannada",
         "Year": "1993",
         "Pages": "200",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಸತ್ಯಶ್ರೀ ಪ್ರಕಾಶನ ಬೆಂಗಳೂರು",
-        "Copyrights": "Rights reserved",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© Rights reserved",
+        "Edition": "First Eiditon"
     },
     "107": {
-        "Title": "ರಂಗಾಭಿನಂದನಮ್",
-        "Language": "Kannada",
         "Year": "1994",
         "Pages": "107",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "श्रीरङ्गनाथशर्मणामभिनन्दनसमितिः",
-        "Copyrights": "Publisher",
-        "Edition": "First Eiditon",
-        "Category": "\r\n"
+        "Copyrights": "© Publisher",
+        "Edition": "First Eiditon"
     },
     "108": {
-        "Title": "ವಿವೇಕ ಚೂಡಾಮಣಿ -ಪರಿಚಯ",
-        "Language": "Kannada",
-        "Pages": "6",
-        "Category": "\r\n"
+        "Pages": "6"
     },
     "109": {
-        "Title": "ಗಮಕಸಮಾಸ",
-        "Language": "Kannada",
-        "Pages": "16",
-        "Category": "\r\n"
+        "Pages": "16"
     },
     "110": {
-        "Title": "ಆಧುನಿಕ ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಅದ್ವೈತ",
-        "Language": "Kannada",
-        "Pages": "15",
-        "Category": "\r\n"
+        "Pages": "15"
     },
     "111": {
-        "Title": "ಶ್ರೀಧರ ಸ್ತುತಿ ಪುಷ್ಪಮಾಲೆ",
-        "Language": "Kannada",
-        "Pages": "2",
-        "Category": "\r\n"
+        "Pages": "2"
     },
     "112": {
-        "Title": "ರಂಗನಾಥ ಲೇಖಮಂಜೂಷಾ",
-        "Language": "Kannada",
         "Year": "2016",
         "Pages": "232",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "संस्कृतभारती",
-        "Copyrights": "डा. शारदा चैत्र",
-        "Edition": "द्वितीयं मुद्रणम् ",
-        "Category": "\r\n"
+        "Copyrights": "© डा. शारदा चैत्र",
+        "Edition": "द्वितीयं मुद्रणम् "
     },
     "113": {
-        "Title": "ವಾಣೀವಾಹನ",
-        "Language": "Kannada",
         "Year": "2008",
         "Pages": "126",
         "Author": "ಡಾ. ಆರ್ ಗಣೇಶ್",
         "Publisher": "ವಿ. ಸೀ. ಸಂಪದ",
-        "Copyrights": "Author",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© Author",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "114": {
-        "Title": "ಶಿಷ್ಯಕಂಡಂತೆ ಗುರುಗಳು ",
-        "Language": "Kannada",
-        "Pages": "14",
-        "Category": "\r\n"
+        "Pages": "14"
     },
     "115": {
-        "Title": "ದೀಪ್ತಶೃಂಗಗಳು",
-        "Language": "Kannada",
         "Year": "2017",
         "Pages": "174",
         "Author": "ಎಸ್. ಆರ್. ರಾಮಸ್ವಾಮಿ",
         "Publisher": "ಸಾಹಿತ್ಯ ಸಿಂಧು ಪ್ರಕಾಶನ",
-        "Copyrights": "ಸಾಹಿತ್ಯ ಸಿಂಧು ಪ್ರಕಾಶನ",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಸಾಹಿತ್ಯ ಸಿಂಧು ಪ್ರಕಾಶನ",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "116": {
-        "Title": "ಸಾಹಿತಿ ಮಾಹಿತಿ ಕೋಶ",
-        "Language": "Kannada",
         "Year": "2010",
         "Pages": "302",
         "Author": "ಬಿ.ಜಿ. ಸತ್ಯಮೂರ್ತಿ",
         "Publisher": "ಲೇಖಕರೇ ಪ್ರಕಾಶಕರು",
-        "Copyrights": "ಕಾದಿರಿಸಿದೆ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಕಾದಿರಿಸಿದೆ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "117": {
-        "Title": "ಒಂದು ಚಿಂತನೆ ",
-        "Language": "Kannada",
         "Year": "1990",
-        "Pages": "17",
-        "Category": "\r\n"
+        "Pages": "17"
     },
     "118": {
-        "Title": "ಶ್ರೀ ರಾಮಕರ್ಣಾಮೃತಮ್ ",
-        "Language": "Kannada",
         "Year": "1985",
         "Pages": "28",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
-        "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Category": "\r\n"
+        "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ"
     },
     "119": {
-        "Title": "ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯ ತರಗತಿಗಳಿಗೆ ",
-        "Language": "Kannada",
         "Year": "1997",
         "Pages": "406",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
-        "Publisher": "ಸರ್ಕಾರಿ ಪಠ್ಯಪುಸ್ಕಕ ಮುದ್ರಣಾಲಯ",
-        "Category": "\r\n"
+        "Publisher": "ಸರ್ಕಾರಿ ಪಠ್ಯಪುಸ್ಕಕ ಮುದ್ರಣಾಲಯ"
     },
     "120": {
-        "Title": "Shaankara Stotrani",
-        "Language": "English",
         "Year": "2017",
         "Pages": "304",
         "Author": "विद्वान् एन्. रङ्गनाथशर्मा",
         "Publisher": "वेदान्तभारती",
-        "Copyrights": "वेदान्तभारती",
-        "Edition": "First Print",
-        "Category": "\r\n"
+        "Copyrights": "© वेदान्तभारती",
+        "Edition": "First Print"
     },
     "121": {
-        "Title": "ತೈತ್ತಿರೀಯೋಪನಿಷತ್ ಪ್ರವಚನ ",
-        "Language": "Kannada",
         "Year": "2007",
         "Pages": "126",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ವೇದಾಂತಭಾರತೀ",
-        "Copyrights": "ವೇದಾಂತಭಾರತೀ",
-        "Edition": "First Print",
-        "Category": "\r\n"
+        "Copyrights": "© ವೇದಾಂತಭಾರತೀ",
+        "Edition": "First Print"
     },
     "122": {
-        "Title": "Samskrita Shabda Chandrika",
-        "Language": "English",
         "Year": "2003",
         "Pages": "192",
         "Author": "Vidwan N. Ranganatha Sharma",
         "Publisher": "Sri Surasaraswathi Sabha",
-        "Copyrights": "All rights reserved",
-        "Edition": "Second Edition",
-        "Category": "\r\n"
+        "Copyrights": "© All rights reserved",
+        "Edition": "Second Edition"
     },
     "123": {
-        "Title": "ವಿದ್ವಾನ್. ಶ್ರೀ ನಡಹಳ್ಳಿ ರಂಗನಾಥಶರ್ಮ ",
-        "Language": "Kannada",
         "Year": "2014",
         "Pages": "60",
         "Author": "ವಿದ್ವಾನ್ ಶ್ರೀ ಅನಂತಶರ್ಮಾ ಭುವನಗಿರಿ",
         "Publisher": "ಶ್ರೀ ರಂಗನಾಥಶರ್ಮಾ ಶತಶಾರದೋತ್ಸವ ಸಮಿತಿ,",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
-        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
+        "Edition": "ಪ್ರಥಮ ಮುದ್ರಣ"
     },
     "124": {
-        "Title": "ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ  ರಾಮಾಯಣಮ್ ಸುಂದರಕಾಂಡಃ ",
-        "Language": "Kannada",
         "Pages": "564",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ರಾಮಾಯಣ ಪ್ರಕಾಶನ ಸಮಿತಿ",
-        "Copyrights": "ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
-        "Edition": "ಹನ್ನೊಂದನೆಯ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ಹಕ್ಕುಗಳನ್ನು ಕಾದಿರಿಸಲಾಗಿದೆ",
+        "Edition": "ಹನ್ನೊಂದನೆಯ ಮುದ್ರಣ"
     },
     "125": {
-        "Title": "ಶ್ರೀ ಭಾಗವನ್ನಮಾವಲಿಃ",
-        "Language": "Kannada",
         "Pages": "300",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ಶ್ರೀರಾಮ ಮಂದಿರಂ ಟ್ರಸ್ಟ್ (ರಿ)",
-        "Copyrights": "Reserved by the Publishe",
-        "Edition": "ಏಳನೆಯ ಪರಿಷ್ಕೃತ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© Reserved by the Publishe",
+        "Edition": "ಏಳನೆಯ ಪರಿಷ್ಕೃತ ಮುದ್ರಣ"
     },
     "126": {
-        "Title": "ರಂಗಾಭಿನಂದನ ",
-        "Language": "Kannada",
         "Year": "1994",
         "Pages": "492",
         "Author": "ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥ ಶರ್ಮಾ",
         "Publisher": "ವಿದ್ವಾನ್ ಶ್ರೀ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ಅಭಿನಂದನ ಸಮಿತಿ",
-        "Copyrights": "ವಿದ್ವಾನ್ ಶ್ರೀ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ಅಭಿನಂದನ ಸಮಿತಿ",
-        "Edition": "ಮೊದಲ ಮುದ್ರಣ",
-        "Category": "\r\n"
+        "Copyrights": "© ವಿದ್ವಾನ್ ಶ್ರೀ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ಅಭಿನಂದನ ಸಮಿತಿ",
+        "Edition": "ಮೊದಲ ಮುದ್ರಣ"
     },
     "127": {
-        "Title": "ಶ್ರೀಚಾಮರಾಜೋಕ್ತಿವಿಲಾಸ ಕನ್ನಡ ರಾಮಾಯಣ ",
-        "Language": "Kannada",
-        "Pages": "44",
-        "Category": "\r\n"
+        "Pages": "44"
     },
     "128": {
-        "Title": "Bio-data",
-        "Language": "English",
-        "Pages": "2",
-        "Category": "\r\n"
+        "Pages": "2"
     },
     "999": {
-        "Title": "ಶ್ರೀ ಗುರುಸಂಹಿತೆ (ಸಮಶ್ಲೋಕಿ ಗುರುಚರಿತ್ರೆ)",
-        "Language": "Kannada",
         "Year": "2003",
-        "Pages": "804",
-        "Category": "\r\n"
+        "Pages": "804"
     }
 }

@@ -79,6 +79,13 @@ a {
 .toc li{
     padding-bottom: 5px;
 }
+.copyright{
+    padding-top: 5px;
+}
+.copyright dl {
+    font-size: 14px;
+    margin-left: 40px;
+}
 .dynamic-page .title{
     font-size: 28px;
     margin-bottom: 25px;

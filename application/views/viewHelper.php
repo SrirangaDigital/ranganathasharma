@@ -193,5 +193,13 @@ class viewHelper extends View {
 		return $relativePage;
 	}
 
+	public function getcopyrightDetails($bookID){
+
+		$jsonFile = PHY_BASE_URL . 'json-precast/metadata.json';
+		$contentString = file_get_contents($jsonFile);
+		$content = json_decode($contentString, true);
+		return $content[$bookID];
+	}
+
 }
 ?>
