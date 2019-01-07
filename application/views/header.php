@@ -16,7 +16,7 @@
     <!-- Basic Page Needs
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <meta charset="utf-8">
-    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>Vidwan Ranganatha Sharma</title>
+    <title><?php if($pageTitle) echo $pageTitle . ' | '; ?>ಡಾ॥ ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ</title>
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -57,12 +57,12 @@
     <nav id="mainNavBar" class="navbar navbar-light navbar-expand-lg fixed-top">
         <div class="container-fluid clear-paddings">
             <a class="navbar-brand" href="<?=BASE_URL?>"><img src="<?=PUBLIC_URL?>images/logo.png" alt="Logo" class="logo"></a>
-            <p class="navbar-text" id="navbarText"><small>Vidwan</small><br />Ranganatha Sharma</p>
+            <p class="navbar-text" id="navbarText"><small>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ</small><br />ಡಾ॥ ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ</p>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
-                    <li><a href="<?=BASE_URL?>listing/books">Books</a></li>
-                    <li><a href="#">About</a></li>
+                    <li><a href="https://vidwannrs.in/">ಮುಖಪುಟ</a></li>
+                    <li><a href="<?=BASE_URL?>">ಕೃತಿಗಳು</a></li>
                 </ul>
             </div>
         </div>

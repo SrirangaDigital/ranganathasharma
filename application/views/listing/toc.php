@@ -1,5 +1,5 @@
 <div class="container dynamic-page">
-	<h6>Table of content of</h6>
+	<!-- <h6>Table of content of</h6> -->
 	<div class="row justify-content-center">
 		<div class="col-md-7 toc">
 			<?php 

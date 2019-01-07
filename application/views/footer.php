@@ -1,7 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
             <div class="col-md-12 text-center">
-                <p><small>© Mysuru, INDIA</small></p>
+                <!-- <p><small>© Mysuru, INDIA</small></p> -->
             </div>
         </div>
     </div>
