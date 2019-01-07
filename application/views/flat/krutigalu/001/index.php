@@ -105,6 +105,5 @@
 				</div>
 			</div>
 		</div>
-		<a class="homepage scrollMore goTo" data-destination="#wordOfTheDay"><span></span>&nbsp;</a>
 	</div>
 </div>

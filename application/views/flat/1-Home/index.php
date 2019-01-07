@@ -17,22 +17,22 @@
 						</div>
 						<div class="card bg-light">
 							<div class="card-body text-center">
-								<p class="card-text">ವ್ಯಾಖ್ಯಾನ ಗ್ರಂಥಗಳು</p>
+								<p class="card-text"><a href="<?=BASE_URL?>krutigalu/003">ವ್ಯಾಖ್ಯಾನ ಗ್ರಂಥಗಳು</a></p>
 							</div>
 						</div>
 						<div class="card bg-light">
 							<div class="card-body text-center">
-								<p class="card-text">ಸಂಪಾದಿತ ಗ್ರಂಥಗಳು</p>
+								<p class="card-text"><a href="<?=BASE_URL?>krutigalu/004">ಸಂಪಾದಿತ ಗ್ರಂಥಗಳು</a></p>
 							</div>
 						</div>  
 						<div class="card bg-light">
 							<div class="card-body text-center">
-								<p class="card-text">ಸಹಕರ್ತೃ ಗ್ರಂಥಗಳು</p>
+								<p class="card-text"><a href="<?=BASE_URL?>krutigalu/005">ಸಹಕರ್ತೃ ಗ್ರಂಥಗಳು</a></p>
 							</div>
 						</div>
 						<div class="card bg-light">
 							<div class="card-body text-center">
-								<p class="card-text">ಲೇಖನಗಳು</p>
+								<p class="card-text"><a href="<?=BASE_URL?>krutigalu/006">ಲೇಖನಗಳು</a></p>
 							</div>
 						</div>
 					</div>
