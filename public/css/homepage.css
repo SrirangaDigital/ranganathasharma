@@ -73,7 +73,7 @@ a {
     font-size: 24px;
 }
 .booksCollection img{
-    padding: 20px;
+    padding: 5px;
     height: 250px;
 }
 .toc li{
@@ -126,6 +126,20 @@ a {
 }
 .blessing img{
     margin-bottom: 20px;
+}
+.card{
+border: none !important;
+}
+
+.card-title {
+    font-family: 'Nudi';
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.card-title, a:link {
+  text-decoration: none;
 }
 
 @media(min-width:768px) {
