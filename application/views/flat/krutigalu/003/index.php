@@ -36,6 +36,9 @@
 							<div class="col-md-2 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/076"><img src="<?=IMAGE_URL?>books/076.jpg" alt="Books images" /><h5 class="card-title">ಸಾಂಖ್ಯಕಾರಿಕಾ ಭಾಷ್ಯ</h5></a>
 							</div>
+							<div class="col-md-2 booksCollection">
+								<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ವಾಕ್ಯಪದೀಯ</h5></a>
+							</div>
 						</div>
 					</div>
 					<!-- <div id="sanskrit" class="container tab-pane fade"><br>

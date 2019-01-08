@@ -116,6 +116,9 @@
 							<div class="col-md-2 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/089"><img src="<?=IMAGE_URL?>books/089.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಪ್ರಥಮ ಪ್ರವೇಶ</h5></a>
 							</div>
+							<div class="col-md-2 booksCollection">
+								<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ಕಾವ್ಯೋದ್ಯಾನಮ್</h5></a>
+							</div>	
 						</div>	
 					</div>
 				</div>

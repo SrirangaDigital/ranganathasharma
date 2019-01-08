@@ -103,19 +103,22 @@
 								<a href="<?=BASE_URL?>listing/toc/073"><img src="<?=IMAGE_URL?>books/073.jpg" alt="Books images" /><h5 class="card-title">ಗೀತಸಪ್ತಕ</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
+								<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ಹರಿಭಕ್ತಿ ಸಾರ</h5></a>
+							</div>
+							<div class="col-md-2 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/079"><img src="<?=IMAGE_URL?>books/079.jpg" alt="Books images" /><h5 class="card-title">ಹರಿಭಕ್ತಿ ಸಾರ</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/077"><img src="<?=IMAGE_URL?>books/077.jpg" alt="Books images" /><h5 class="card-title">ಜೈಮಿನಿ ಭಾರತ</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
-								<a href="<?=BASE_URL?>listing/toc/021"><img src="<?=IMAGE_URL?>books/021.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣಮ್</h5></a>
+								<a href="<?=BASE_URL?>listing/toc/054"><img src="<?=IMAGE_URL?>books/054.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣ</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/058"><img src="<?=IMAGE_URL?>books/058.jpg" alt="Books images" /><h5 class="card-title">ಮಾಧವೀಯ ಶಂಕರ ದಿಗ್ವಿಜಯ-೨</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
-								<a href="<?=BASE_URL?>listing/toc/054"><img src="<?=IMAGE_URL?>books/054.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣ</h5></a>
+								<a href="<?=BASE_URL?>listing/toc/021"><img src="<?=IMAGE_URL?>books/021.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣಮ್</h5></a>
 							</div>
 						</div>
 					</div>
