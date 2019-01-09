@@ -79,14 +79,17 @@ class data extends Controller {
 			//$tmp['Title'] = $split[1];
 			//$tmp['Language'] = $split[2];
 			$tmp['Year'] = $split[3];
-			$tmp['Pages'] = $split[4];
-			$tmp['Author'] = $split[5];
-			$tmp['Translator'] = $split[6];
-			$tmp['Publisher'] = $split[7];
-			if($split[8] != '')
-			$tmp['Copyrights'] = '© ' . $split[8];
-			$tmp['Edition'] = $split[9];
-			$tmp['Category'] = trim($split[10]);
+			$tmp['Rs'] = $split[4];
+			$tmp['Pages'] = $split[5];
+			$tmp['Author'] = $split[7];
+			$tmp['Available'] = $split[6];
+			$tmp['Translator'] = $split[8];
+			$tmp['Publisher'] = $split[9];
+			$tmp['Phone'] = $split[10];
+			if($split[11] != '')
+			$tmp['Copyrights'] = '© ' . $split[11];
+			$tmp['Edition'] = $split[12];
+			$tmp['Category'] = trim($split[13]);
 			$data[$BookId] = array_filter($tmp);
 		}
 
