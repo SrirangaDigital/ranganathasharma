@@ -35,6 +35,11 @@
 								<p class="card-text"><a href="<?=BASE_URL?>krutigalu/006">ಲೇಖನಗಳು</a></p>
 							</div>
 						</div>
+						<div class="card bg-light">
+							<div class="card-body text-center">
+								<p class="card-text"><a href="<?=BASE_URL?>krutigalu/007">ಇತರ ಗ್ರಂಥಗಳು</a></p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
