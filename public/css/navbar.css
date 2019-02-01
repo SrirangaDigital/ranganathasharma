@@ -1,5 +1,10 @@
+@font-face {
+    font-family: 'Nudi';
+    src: url('NUDIUNI01K.ttf');
+    unicode-range: U+0C80-0CFF;
+}
 .navbar{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Nudi', sans-serif;
 	margin-bottom: 0;
 	background-color: #FFF;
 	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
@@ -15,7 +20,7 @@
 	padding-left: 8px;
 }
 .navbar #navbarText{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Nudi', sans-serif;
 	font-size: 18px;
 	color: #D50000;
 	font-weight: 300;
@@ -108,8 +113,8 @@
 }
 .navbar .navbar-nav > li > a,
 .navbar .form-inline input {
-  font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-family: 'Nudi', sans-serif;
+  font-size: 20px;
   color: #333;
   font-weight: 400;
   text-decoration: none;
