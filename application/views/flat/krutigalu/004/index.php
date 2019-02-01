@@ -19,10 +19,10 @@
 					<div id="kannada" class="container tab-pane active"><br>
 						<div class="row">
 							<div class="col-md-2 booksCollection">
-								<a href="<?=BASE_URL?>listing/toc/125"><img src="<?=IMAGE_URL?>books/125.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಭಗವನ್ನಾಮಾವಲಿಃ</h5></a>
+								<a href="<?=BASE_URL?>listing/toc/004"><img src="<?=IMAGE_URL?>books/004.jpg" alt="Books images" /><h5 class="card-title">ಮರುಳ ಮುನಿಯನ ಕಗ್ಗ</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
-								<a href="<?=BASE_URL?>listing/toc/004"><img src="<?=IMAGE_URL?>books/004.jpg" alt="Books images" /><h5 class="card-title">ಮರುಳ ಮುನಿಯನ ಕಗ್ಗ</h5></a>
+								<a href="<?=BASE_URL?>listing/toc/125"><img src="<?=IMAGE_URL?>books/125.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಭಗವನ್ನಾಮಾವಲಿಃ</h5></a>
 							</div>
 							<div class="col-md-2 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/005"><img src="<?=IMAGE_URL?>books/005.jpg" alt="Books images" /><h5 class="card-title">ವೇದ -ವೇದಾಂತ</h5></a>
