@@ -23,6 +23,9 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/097"><img src="<?=IMAGE_URL?>books/097.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಸತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</h5></a>
 					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/044"><img src="<?=IMAGE_URL?>books/044.jpg" alt="Books images" /><h5 class="card-title">ಭಾರತಿಯ ದರ್ಶನ</h5></a>
+					</div>
 				</div>
 			</div>
 		</div>

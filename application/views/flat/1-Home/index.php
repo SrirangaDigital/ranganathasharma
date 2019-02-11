@@ -40,6 +40,11 @@
 								<div class="card-body text-center">ಇತರ ಗ್ರಂಥಗಳು</div>
 							</a>
 						</div>
+						<div class="card bg-light">
+							<a href="<?=BASE_URL?>krutigalu/008">
+								<div class="card-body text-center">ಭಾಷಾಂತರ ಗ್ರಂಥಗಳು</div>
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>

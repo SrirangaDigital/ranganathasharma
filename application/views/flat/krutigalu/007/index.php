@@ -8,15 +8,15 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/006"><img src="<?=IMAGE_URL?>books/006.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಮದ್ರಾಘವೇಂದ್ರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು </h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
+					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/007"><img src="<?=IMAGE_URL?>books/007.jpg" alt="Books images" /><h5 class="card-title">Yugapurusha Shankara</h5></a>
-					</div>
+					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/008"><img src="<?=IMAGE_URL?>books/008.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷಭಾಷಣ </h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
+					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/009"><img src="<?=IMAGE_URL?>books/009.jpg" alt="Books images" /><h5 class="card-title">Sri Siddharudha Swamiji</h5></a>
-					</div>
+					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/010"><img src="<?=IMAGE_URL?>books/010.jpg" alt="Books images" /><h5 class="card-title">ದೇವವಾಣಿ ಸಂಸ್ಕೃತ ವಿಶ್ವಜನೀನಾ</h5></a>
 					</div>
@@ -44,24 +44,24 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/018"><img src="<?=IMAGE_URL?>books/018.jpg" alt="Books images" /><h5 class="card-title">ಶತಾವಧಾನಶಂಸನ </h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
+				<!-- 	<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/019"><img src="<?=IMAGE_URL?>books/019.jpg" alt="Books images" /><h5 class="card-title">ಭಾರತೀಯರ ಧರ್ಮ ಮತ್ತು ಸಂಸ್ಕೃತಿ-ಚಿಂತನ ಪ್ರಕಾಶ- ಸ್ಮರಣಸಂಚಿಕೆ </h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/020"><img src="<?=IMAGE_URL?>books/020.jpg" alt="Books images" /><h5 class="card-title">ಋಷಿಗಳ ರಾಷ್ಟ್ರಾಭಿಮಾನ-ದಶಾಸ್ಮರಣಂ-ಹರಿಹರಪುರಮಠ</h5></a>
-					</div>
-					<div class="col-md-3 booksCollection">
+					</div> -->
+				<!-- 	<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/022"><img src="<?=IMAGE_URL?>books/022.jpg" alt="Books images" /><h5 class="card-title">ಗೀತಾಜ್ಯೋತಿ-ಸಂಪಾದಕರ ನುಡಿ-ಸ್ವರ್ಣವಲ್ಲೀ ಮಠ </h5></a>
-					</div>
+					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/023"><img src="<?=IMAGE_URL?>books/023.jpg" alt="Books images" /><h5 class="card-title">ಸಿದ್ಧಾಂತ ಬಿಂದು-ಭದ್ರಂ. ಶಿವಂ. ಮಂಗಳಮ್</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/024"><img src="<?=IMAGE_URL?>books/024.jpg" alt="Books images" /><h5 class="card-title">ಸಮಯೋಚಿತ ಪದ್ಯಗಳು-ಮುನ್ನುಡಿ </h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
+					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/044"><img src="<?=IMAGE_URL?>books/044.jpg" alt="Books images" /><h5 class="card-title">ಭಾರತಿಯ ದರ್ಶನ</h5></a>
-					</div>
+					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/049"><img src="<?=IMAGE_URL?>books/049.jpg" alt="Books images" /><h5 class="card-title">ಸಂಜಯ</h5></a>
 					</div>
@@ -134,9 +134,9 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/120"><img src="<?=IMAGE_URL?>books/120.jpg" alt="Books images" /><h5 class="card-title">Shaankara Stotrani</h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
+				<!-- 	<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/122"><img src="<?=IMAGE_URL?>books/122.jpg" alt="Books images" /><h5 class="card-title">Samskrita Shabda Chandrika</h5></a>
-					</div>
+					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/123"><img src="<?=IMAGE_URL?>books/123.jpg" alt="Books images" /><h5 class="card-title">ವಿದ್ವಾನ್. ಶ್ರೀ ನಡಹಳ್ಳಿ ರಂಗನಾಥಶರ್ಮ </h5></a>
 					</div>
