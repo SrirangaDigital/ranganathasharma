@@ -35,14 +35,14 @@
 								<div class="card-body text-center">ಲೇಖನಗಳು</div>
 							</a>
 						</div>
-						<div class="card bg-light">
+						<!-- <div class="card bg-light">
 							<a href="<?=BASE_URL?>krutigalu/007">
 								<div class="card-body text-center">ಇತರ ಗ್ರಂಥಗಳು</div>
 							</a>
-						</div>
+						</div> -->
 						<div class="card bg-light">
 							<a href="<?=BASE_URL?>krutigalu/008">
-								<div class="card-body text-center">ಭಾಷಾಂತರ ಗ್ರಂಥಗಳು</div>
+								<div class="card-body text-center">ಭಾಷಾಂತರಗೊಂಡ ಗ್ರಂಥಗಳು</div>
 							</a>
 						</div>
 					</div>
