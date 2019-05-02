@@ -1,4 +1,4 @@
-<div class="container-fluid flat-page firstDiv">
+<div class="container-fluid flat-page">
 	<div class="row justify-content-center overlay">
 		<div class="col-md-12 align-self-center">
 			<div class="container mt-4">

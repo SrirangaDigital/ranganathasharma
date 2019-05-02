@@ -1,6 +1,6 @@
 #carousel {
     margin-bottom: 0;
-    margin-top: 0px;
+    margin-top: 90px;
 }
 .carousel-indicators{
     left: inherit;
@@ -144,5 +144,8 @@
 @media(max-width:768px) {
     .caption-content{
         display: none;
+    }
+    #carousel {
+        margin-top: 100px;
     }
 }

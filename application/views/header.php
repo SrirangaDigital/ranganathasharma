@@ -62,8 +62,11 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
-                    <li><a href="https://vidwannrs.in/">ಮುಖಪುಟ</a></li>
+                    <li><a href="<?=BASE_URL?>">ಮುಖಪುಟ</a></li>
+                    <li><a href="<?=BASE_URL?>about">ಶರ್ಮರ ಬಗ್ಗೆ</a></li>
                     <li><a href="<?=BASE_URL?>krutigalu">ಕೃತಿಗಳು</a></li>
+                    <li><a href="<?=BASE_URL?>aboutOurself">ನಮ್ಮ ಬಗ್ಗೆ</a></li>
+                    <li><a href="<?=BASE_URL?>#contact">ನಮ್ಮ ಸಂಪರ್ಕ</a></li>
                 </ul>
             </div>
         </div>
