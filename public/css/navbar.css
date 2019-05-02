@@ -150,10 +150,10 @@ li.navSeparator{
 		display: inline-block !important;
 	}
 	.navbar{
-		padding: 0 30px;
+		padding: 0 20px;
 	}
 	.navbar .navbar-nav {
-	  margin-top: 30px;
+	  margin-top: 10px;
 	}
 	.navbar .navbar-nav > li {
   		display: inline-block;
