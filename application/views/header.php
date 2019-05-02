@@ -45,8 +45,8 @@
 
     <!-- Fonts
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:200,300,400|Roboto:300,400&amp;subset=latin-ext" rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
+    
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link rel="icon" type="image/png" href="<?=PUBLIC_URL?>images/favicon.ico">
@@ -63,7 +63,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
                     <li><a href="https://vidwannrs.in/">ಮುಖಪುಟ</a></li>
-                    <li><a href="<?=BASE_URL?>">ಕೃತಿಗಳು</a></li>
+                    <li><a href="<?=BASE_URL?>krutigalu">ಕೃತಿಗಳು</a></li>
                 </ul>
             </div>
         </div>
