@@ -63,9 +63,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav nav ml-auto">
                     <li><a href="<?=BASE_URL?>">ಮುಖಪುಟ</a></li>
+                    <li><a href="javascript:void();">◦</a></li>
                     <li><a href="<?=BASE_URL?>about">ಶರ್ಮರ ಬಗ್ಗೆ</a></li>
+                    <li><a href="javascript:void();">◦</a></li>
                     <li><a href="<?=BASE_URL?>krutigalu">ಕೃತಿಗಳು</a></li>
+                    <li><a href="javascript:void();">◦</a></li>
                     <li><a href="<?=BASE_URL?>aboutOurself">ನಮ್ಮ ಬಗ್ಗೆ</a></li>
+                    <li><a href="javascript:void();">◦</a></li>
                     <li><a href="<?=BASE_URL?>#contact">ನಮ್ಮ ಸಂಪರ್ಕ</a></li>
                 </ul>
             </div>
