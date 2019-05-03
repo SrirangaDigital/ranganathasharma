@@ -110,6 +110,12 @@ border: none !important;
 .card-title, a:link {
   text-decoration: none;
 }
+.gallery figure{
+  margin: 10px;
+}
+.gallery figcaption{
+  font-size: 17px;
+}
 
 @media(min-width:768px) {
     .flat-page, .dynamic-page{

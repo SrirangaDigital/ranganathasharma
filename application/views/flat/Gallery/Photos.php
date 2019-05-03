@@ -1,8 +1,517 @@
-<div class="container bio">
+<div class="container gallery">
 	<div class="row">
-		<h2>ನಮ್ಮ ಪರಿಚಯ</h2>
-		<p>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ವಿದ್ವಾನ್. ಎನ್ ರಂಗನಾಥಶರ್ಮಾರವರ ಬದುಕು ಹಾಗೂ ಬರಹಗಳನ್ನು ಜನಸಾಮಾನ್ಯರಿಗೆ ಸುಲಭವಾಗಿ ತಲುಪಿಸುವುದು ಈ ತಾಣದ ಮುಖ್ಯೋದ್ದೇಶವಾಗಿದೆ. ಶ್ರೀಯುತ ವಿದ್ವಾನ್ ಎನ್.ರಂಗನಾಥಶರ್ಮರ ಅಪೇಕ್ಷೆಯಂತೆ ಈ ತಾಣದಲ್ಲಿ ಎಲ್ಲಾ ಪ್ರಕಾಶಕರನ್ನು ಕೃತಜ್ಞತಾಪೂರ್ವಕವಾಗಿ ಸ್ಮರಿಸುತ್ತಾ ಓದುಗರ ಅನುಕೂಲಕ್ಕಾಗಿ ಗ್ರಂಥ ಪರಿಚಯದೊಂದಿಗೆ ಸಮಗ್ರ ಗ್ರಂಥವನ್ನು ಪಿ.ಡಿ.ಎಫ್ ರೂಪದಲ್ಲಿ ನೀಡಿದ್ದೇವೆ. ಇದನ್ನು ಉಚಿತವಾಗಿ ಡೌನ್ಲೋಡ್ ಮಾಡಿಕೊಂಡು ಆಸಕ್ತರು ಅಧ್ಯಯನ ಮಾಡಬಹುದು. ಪ್ರಸ್ತುತ ಗ್ರಂಥದ ಲಭ್ಯತೆ, ಬೆಲೆ, ಪುಟಗಳ ಸಂಖ್ಯೆ, ಪ್ರಕಾಶಕರು ಇತ್ಯಾದಿ ವಿವರಗಳನ್ನು ನೀಡಲಾಗಿದೆ. ಆಸಕ್ತರು ಪ್ರಕಾಶಕರನ್ನು ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸಿ ಪ್ರತಿಗಳನ್ನು ಖರೀದಿಸಬಹುದು. ಗ್ರಾಹಕರ ಅನುಕೂಲಕ್ಕಾಗಿ ಗ್ರಂಥದಲ್ಲಿ ಲಭ್ಯವಿರುವಂತೆ ಪ್ರಕಾಶಕರ ವಿಳಾಸ ಹಾಗೂ ದೂರವಾಣಿ ಸಂಖ್ಯೆಯನ್ನೂ ನೀಡಲಾಗಿದೆ.</p>
-		<p>ಎಲ್ಲಾ ಗ್ರಂಥಗಳ ಅಧ್ಯಾಯಗಳನ್ನು ಹುಡುಕಲು ಈ ತಾಣದಲ್ಲಿ ಅವಕಾಶ ಕಲ್ಪಿಸಲಾಗಿದೆ. ವಿಷಯಸೂಚಿಯಲ್ಲಿರುವ ವಿಷಯಗಳನ್ನು ನೇರವಾಗಿ ಹುಡುಕಲು ಹಾಗೂ ಅದೇ ಪುಟಕ್ಕೆ ತೆರಳಲು ಅವಕಾಶ ಕಲ್ಪಿಸಲಾಗಿದೆ. ಮುಂದಿನ ದಿನಗಳಲ್ಲಿ ಎಲ್ಲಾ ಗ್ರಂಥಗಳನ್ನೂ ಇ ಫಾರ್ಮೆಟ್ ನಲ್ಲಿ ನೀಡುವ ಯೋಜನೆಯನ್ನೂ ಹೊಂದಿದ್ದೇವೆ. ಇದರಿಂದ ಚಲದೂರವಾಣಿಗಳಲ್ಲಿ ಶರ್ಮರ ಲೇಖನಗಳನ್ನು ಓದುವ ಸೌಲಭ್ಯ ದೊರಕಲಿದೆ. ಶ್ರೀಯುತರ ಸರ್ವತೋಮುಖವಾದ ಪರಿಚಯ ಮಾಡಿಕೊಡುವ ಉದ್ದೇಶದಿಂದ ಅವರ ಬಗ್ಗೆ ಶಿಷ್ಯರು , ಮಕ್ಕಳು, ಹಾಗೂ ಅಭಿಮಾನಿಗಳು ಬರೆದ ಪರಿಚಯ ಗ್ರಂಥಗಳನ್ನೂ ಲೇಖನಗಳನ್ನೂ ವಾರ್ತಾಪತ್ರಿಕೆ ಮಾಹಿತಿಗಳನ್ನೂ ನೀಡಲಾಗಿದೆ.</p>
-		<p>ಇಲ್ಲಿ ನಮಗೆ ಲಭ್ಯವಿರುವ ಮಾಹಿತಿಗಳನ್ನು ಹಾಕಿದ್ದೇವೆ, ಇನ್ನೂ ಅನೇಕ ಲೇಖನ, ಮುನ್ನುಡಿಗಳು,ಬರಹಗಳು, ಹಸ್ತಪ್ರತಿಗಳು ನಮಗೆ ದೊರಕಿಲ್ಲ. ತಮ್ಮಲ್ಲಿ ಯಾವುದಾದರೂ ಲೇಖನ, ಚಿತ್ರಗಳು ಅಥವಾ ನಿಮಗೆ ಶ್ರೀಯುತರು ಬರೆದ ಪತ್ರಗಳು ಇದ್ದಲ್ಲಿ ದಯವಿಟ್ಟು ನಮಗೆ ನೀಡಿ ತಾಣದಲ್ಲಿ ಪ್ರಕಟಿಸಲು ಸಹಕರಿಸಲು ವಿನಂತಿ. ಈ ತಾಣವನ್ನು ಇನ್ನೂ ಉತ್ತಮಗೊಳಿಸುವ ನಿಟ್ಟಿನಲ್ಲಿ ಸಹೃದಯರ ಪ್ರಾಮಾಣಿಕ ಸಲಹೆ ಸೂಚನೆಗಳಿಗೆ ಸದಾ ಸ್ವಾಗತ.</p>
+		<div class="col-md-12 text-center my-3 bio"><h2>ಚಿತ್ರಗಳು</h2></div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/066.jpg" />
+				<figcaption>
+					ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿ ಡಾ॥ ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/065.jpg" />
+				<figcaption>
+					ಧರ್ಮಸ್ಥಳದಲ್ಲಿ ನಡೆದ ಸರ್ವಧರ್ಮ ಸಮ್ಮೇಳನದಲ್ಲಿ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/064.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಕ್ಕಳೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/063.jpg" />
+				<figcaption>
+					ರಾಷ್ಟ್ರಿಯ ಸಂಸ್ಕೃತ ವಿದ್ಯಾಪೀಠ ತಿರುಪತಿಯಿಂದ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/062.jpg" />
+				<figcaption>
+					ರಾಷ್ಟ್ರಿಯ ಸಂಸ್ಕೃತ ವಿದ್ಯಾಪೀಠ ತಿರುಪತಿಯಿಂದ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/061.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಗಳ ವಿವಾಹದ ಸಂದರ್ಭದಲ್ಲಿ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/060.jpg" />
+				<figcaption>
+					ದಿನಪತ್ರಿಕೆಯನ್ನು ಓದುತ್ತಿರುವ ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/059.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/058.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/057.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/056.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/055.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/054.jpg" />
+				<figcaption>
+					ಮರಿಮಗಳೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/053.jpg" />
+				<figcaption>
+					ಮರಿಮಗಳೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/052.jpg" />
+				<figcaption>
+					ಹಿರಿಯ ಪುತ್ರಿ ಡಾ॥ ಶಾರದಾ ಚೈತ್ರರವರ ಬೆಂಗಳೂರಿನಲ್ಲಿರುವ ಗೃಹಪ್ರವೇಶದ ಸಂದರ್ಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/051.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/050.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/049.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/048.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/047.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/046.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/045.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/044.jpg" />
+				<figcaption>
+					ವಾಕ್ಯಪದೀಯ ಗ್ರಂಥದ ಕುರಿತು ಭಾಷಣ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/043.jpg" />
+				<figcaption>
+					ವಾಕ್ಯಪದೀಯ ಗ್ರಂಥ ಸಂಪಾದಕ ಡಾ| ರಾಮಕೃಷ್ಣ ಭಟ್ಟರಿಗೆ ಆಶೀಃಪೂರ್ವಕ ಗ್ರಂಥಪ್ರದಾನ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/042.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಶ್ರೀಯುತ ಶರ್ಮರು ಅನುವಾದಿಸಿದ ವಾಕ್ಯಪದೀಯ ಗ್ರಂಥಬಿಡುಗಡೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/041.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಶ್ರೀಯುತ ಶರ್ಮರು ಅನುವಾದಿಸಿದ ವಾಕ್ಯಪದೀಯ ಗ್ರಂಥಬಿಡುಗಡೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/040.jpg" />
+				<figcaption>
+					ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಶ್ರೀಯುತ ಶರ್ಮರು ಅನುವಾದಿಸಿದ ವಾಕ್ಯಪದೀಯ ಗ್ರಂಥಬಿಡುಗಡೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/038.jpg" />
+				<figcaption>
+					ಡಿ.ವಿ.ಜಿ. ಬಳಗದಿಂದ ಸಮ್ಮಾನ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/037.jpg" />
+				<figcaption>
+					ಶ್ರೀರಾಮನಾಮಾವಲಿ ಗ್ರಂಥ ಬಿಡುಗಡೆ ಸಂದರ್ಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/036.jpg" />
+				<figcaption>
+					ವೇದಮೂರ್ತಿ ಪುರೋಹಿತ ಕೂಟೇಲು ಕೇಶವಪ್ರಸಾದ ಭಟ್ಟರೊಂದಿಗೆ ಕರ್ಮಕಾಂಡದ ಚಿಂತನೆ.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/035.jpg" />
+				<figcaption>
+					ಶಿಷ್ಯರೊಡಗೂಡಿದ ಪ್ರೀತಿಯ ನಾಯಿಯೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/034.jpg" />
+				<figcaption>
+					ವಿದ್ವಾನ್ ಹೆಚ್.ವಿ.ನಾಗರಾಜರಾವ್ ಹಾಗೂ ಡಾ॥ವಿಶ್ವಾಸರೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/033.jpg" />
+				<figcaption>
+					ಆಪ್ತಶಿಷ್ಯ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಜಿ.ಮಹಾಬಲೇಶ್ವರ ಭಟ್ಟರು ಹಾಗೂ ಧರ್ಮಪತ್ನಿ ವಿದುಷೀ ವಿಜಯಲಕ್ಶ್ಮಿಯವರೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/032.jpg" />
+				<figcaption>
+					ಆಪ್ತಶಿಷ್ಯ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಜಿ.ಮಹಾಬಲೇಶ್ವರ ಭಟ್ಟರೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/031.jpg" />
+				<figcaption>
+					ಮಂಡ್ಯದ ಸಮ್ಮಾನ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/030.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ರಾಮಸ್ವಾಮಿಯವರೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/029.jpg" />
+				<figcaption>
+					ವಿದ್ವಾನ್ ಯ.ಕೃಷ್ಣಶರ್ಮರೊಂದಿಗೆ ಗೀತಾಭಾಷ್ಯ ಚಿಂತನೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/028.jpg" />
+				<figcaption>
+					ಆಪ್ತ ಬಂಧುಗಳೊಂದಿಗೆ ಸಂತಸದ ಹೆಜ್ಜೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/027.jpg" />
+				<figcaption>
+					ಆಪ್ತ ಬಂಧುಗಲೊಂದಿಗೆ ಉಭಯಕುಶಲೋಪರಿ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/026.jpg" />
+				<figcaption>
+					ಹಿರಿಯಪುತ್ರ ಶ್ರೀಯುತ ಸದಾನಂದರವರೊಂದಿಗೆ ಆನಂದದ ಕ್ಷಣ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/025.jpg" />
+				<figcaption>
+					ಶಿಷ್ಯಪರಂಪರೆಯೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/024.jpg" />
+				<figcaption>
+					ಅಖಿಲ ಹವ್ಯಕ ಮಹಾಸಭಾದ ಕಾರ್ಯಕ್ರಮವೊಂದರಲ್ಲಿ ಶ್ರೀಯುತ ಶರ್ಮರ ಭಾಷಣ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/023.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರ ಗ್ರಂಥಾಲಯದ ನೋಟ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/022.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರ ಅಧ್ಯಯನ ಪೀಠ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/021.jpg" />
+				<figcaption>
+					ಬಂಧುಗಳೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/020.jpg" />
+				<figcaption>
+					ಗೌರವಾನ್ವಿತ ಶಂಕರದಯಾಳ್ ಶರ್ಮಾರವರಿಂದ ರಾಷ್ಟ್ರಪತಿ ಪ್ರಶಸ್ತಿ ಸ್ವೀಕರಿಸುವ ಸಂದರ್ಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/019.jpg" />
+				<figcaption>
+					ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ ಸ್ವೀಕರಿಸುವ ಸಂದರ್ಭ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/018.jpg" />
+				<figcaption>
+					ಅಮೇರಿಕಾದ ವೈಟ್ ಹೌಸ್ ಮುಂಭಾಗದಲ್ಲಿ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/017.jpg" />
+				<figcaption>
+					ಅಮೇರಿಕಾದ ಸುಪ್ರಸಿದ್ಧ ನಯಾಗಾರ ಜಲಪಾತದೆದುರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/016.jpg" />
+				<figcaption>
+					ಅಮೇರಿಕಾದಲ್ಲಿ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/015.jpg" />
+				<figcaption>
+					ಪ್ರೀತಿಯ ನಾಯಿಯೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/014.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಗಳೊಂದಿಗೆ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/013.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಗ ಅಭಿರಾಮನಿಗೆ ಸಂಧ್ಯಾವಂದನೆ ಪಾಠ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/012.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರ ಕುಟುಂಬ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/011.jpg" />
+				<figcaption>
+					ಶರ್ಮರ ಕಾಲು ಒತ್ತುತ್ತಿರುವ ಮೊಮ್ಮಕ್ಕಳು.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/010.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಕ್ಕಳ ಕಾಲು ಒತ್ತುತ್ತಿರುವ ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/009.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಕ್ಕಳೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/008.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಕ್ಕಳೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/007.jpg" />
+				<figcaption>
+					ಮೊಮ್ಮಕ್ಕಳೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು.
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/006.jpg" />
+				<figcaption>
+					ಕಿರಿಯಪುತ್ರಿ ಶ್ರೀಮತಿ ಜಯಶ್ರೀಯವರೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/004.jpg" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/002.jpg" />
+				<figcaption>
+					ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಡಾ॥ ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/005.jpg" />
+				<figcaption>
+					ಬರವಣಿಗೆಯಲ್ಲಿ ನಿರತರಾದ ಶ್ರೀಯುತ ಶರ್ಮರು
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
+				<img class="img-fluid" src="<?=IMAGE_URL?>gallery/thumbs/001.jpg" />
+				<figcaption>
+					ಗೋಖಲೆ ಸಾರ್ವಜನಿಕ ಸಂಸ್ಥೆಯಿಂದ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಪಂಚಲೋಹದ ಶ್ರೀರಾಮಸೀತಾಲಕ್ಷ್ಮಣರ ವಿಗ್ರಹ
+				</figcaption>
+			</figure>
+		</div>
 	</div>
 </div>
