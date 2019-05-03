@@ -6,7 +6,8 @@ $(document).ready(function() {
 
     $('.dropdown-item').on('mouseenter', function(event){
 
-        $( this ).css( 'background-color', '#CAE1F4' );
+        $( this ).css( 'background-color', '#DDEDFA' );
+        $( this ).css( 'border-radius', '8px' );
     });
 
     $('.dropdown-item').on('mouseleave', function(event){

@@ -6,8 +6,8 @@
 				<h4 class="text-center">ಕನ್ನಡ ಪುಸ್ತಕಗಳು</h4><br />
 				<div class="row">
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/002"><img src="<?=IMAGE_URL?>books/002.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಭಾಷಾಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ</h5></a>
-					</div>
+						<!-- <a href="<?=BASE_URL?>listing/toc/002"> --><img src="<?=IMAGE_URL?>books/002.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಭಾಷಾಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ</h5><!-- </a>
+ -->					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/001"><img src="<?=IMAGE_URL?>books/001.jpg" alt="Books images" /><h5 class="card-title">ಸುಭಾಷಿತ ಮಂಜರೀ</h5></a>
 					</div>
@@ -32,8 +32,11 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/096"><img src="<?=IMAGE_URL?>books/096.jpg" alt="Books images" /><h5 class="card-title">ಅನುವಾದ ಪ್ರದೀಪಃ-೨</h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
+					<!-- <div class="col-md-3 booksCollection">
 						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಕರಣ ಪ್ರದೀಪ</h5></a>
+					</div> -->
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/119"><img src="<?=IMAGE_URL?>books/119.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಕರಣ ಪ್ರದೀಪ ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯ ತರಗತಿಗಳಿಗೆ </h5></a>
 					</div>
 				</div>
 			</div>

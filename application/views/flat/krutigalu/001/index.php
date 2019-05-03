@@ -17,10 +17,7 @@
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/045"><img src="<?=IMAGE_URL?>books/045.jpg" alt="Books images" /><h5 class="card-title">ವರದಹಳ್ಳಿ ಶ್ರೀಧರಸ್ವಾಮಿಗಳು</h5></a>
-					</div>
-					<div class="col-md-3 booksCollection">
-						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀರಾಮಚಂದ್ರ</h5></a>
-					</div>
+					</div>					
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/046"><img src="<?=IMAGE_URL?>books/046.jpg" alt="Books images" /><h5 class="card-title">ವೀರಕಂಪಣರಾಯ</h5></a>
 					</div>
@@ -72,6 +69,18 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/029"><img src="<?=IMAGE_URL?>books/029.jpg" alt="Books images" /><h5 class="card-title">ಹೊಸಗನ್ನಡ ವ್ಯಾಕರಣ</h5></a>
 					</div>
+					<!-- <div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/019"><img src="<?=IMAGE_URL?>books/019.jpg" alt="Books images" /><h5 class="card-title">ಭಾರತೀಯರ ಧರ್ಮ ಮತ್ತು ಸಂಸ್ಕೃತಿ-ಚಿಂತನ ಪ್ರಕಾಶ- ಸ್ಮರಣಸಂಚಿಕೆ </h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/020"><img src="<?=IMAGE_URL?>books/020.jpg" alt="Books images" /><h5 class="card-title">ಋಷಿಗಳ ರಾಷ್ಟ್ರಾಭಿಮಾನ-ದಶಾಸ್ಮರಣಂ-ಹರಿಹರಪುರಮಠ</h5></a>
+					</div> -->
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/049"><img src="<?=IMAGE_URL?>books/049.jpg" alt="Books images" /><h5 class="card-title">ಸಂಜಯ</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀರಾಮಚಂದ್ರ</h5></a>
+					</div>
 					<div class="col-md-3 booksCollection">
 						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ನಾಲ್ವರು ಸಹೋದರರು</h5></a>
 					</div>
@@ -81,9 +90,9 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/072"><img src="<?=IMAGE_URL?>books/072.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಗುರುಪರಂಪರಾ ಚರಿತಮ್</h5></a>
 					</div>	
-					<div class="col-md-3 booksCollection">
+					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/091"><img src="<?=IMAGE_URL?>books/091.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಶಬ್ದ ಚಂದ್ರಿಕಾ</h5></a>
-					</div>	
+					</div>	 -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/055"><img src="<?=IMAGE_URL?>books/055.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಶಂಕರಚರಿತಾಮೃತಮ್</h5></a>
 					</div>	
@@ -95,6 +104,27 @@
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/090"><img src="<?=IMAGE_URL?>books/090.jpg" alt="Books images" /><h5 class="card-title">ಭಾಷಾಂತರ ಪಾಠ</h5></a>
+					</div>
+					<!-- <div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/022"><img src="<?=IMAGE_URL?>books/022.jpg" alt="Books images" /><h5 class="card-title">ಗೀತಾಜ್ಯೋತಿ-ಸಂಪಾದಕರ ನುಡಿ-ಸ್ವರ್ಣವಲ್ಲೀ ಮಠ </h5></a>
+					</div> -->
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/088"><img src="<?=IMAGE_URL?>books/088.jpg" alt="Books images" /><h5 class="card-title">ಕುಸುಮಾಂಜಲಿಃ</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/102"><img src="<?=IMAGE_URL?>books/102.jpg" alt="Books images" /><h5 class="card-title">ಕುಕ್ಕೆಸುಬ್ರಹ್ಮಣ್ಯ ಸುಪ್ರಭಾತ </h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/103"><img src="<?=IMAGE_URL?>books/103.jpg" alt="Books images" /><h5 class="card-title">ಏಕಚಕ್ರಮ್</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/111"><img src="<?=IMAGE_URL?>books/111.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಧರ ಸ್ತುತಿ ಪುಷ್ಪಮಾಲೆ</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/112"><img src="<?=IMAGE_URL?>books/112.jpg" alt="Books images" /><h5 class="card-title">ರಂಗನಾಥ ಲೇಖಮಂಜೂಷಾ</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/122"><img src="<?=IMAGE_URL?>books/122.jpg" alt="Books images" /><h5 class="card-title">Samskrita Shabda Chandrika</h5></a>
 					</div>
 				</div>
 			</div>
