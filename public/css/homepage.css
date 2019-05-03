@@ -64,7 +64,7 @@ border: none !important;
 .bio h2, .bio h4{
   color: #1565C0;
 }
-.bio{
+.bio, .feedback{
   padding: 10px;
   line-height: 1.5em;
   text-align: justify;

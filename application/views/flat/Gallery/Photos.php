@@ -2,10 +2,12 @@
 	<div class="row" id="viewimages">
 		<div class="col-md-12 text-center my-3 bio"><h2>ದೃಶ್ಯ</h2></div>
 		<div class="col-md-6 text-center">
-			<iframe src="https://www.youtube.com/embed/N1GSzxCq3Q8" width="75%" height="300px"></iframe>
+			<iframe src="https://www.youtube.com/embed/N1GSzxCq3Q8" width="100%" height="400px"></iframe>
 		</div>
 		<div class="col-md-6 text-center">
-			<iframe src="https://www.youtube.com/embed/N1GSzxCq3Q8" width="75%" height="300px"></iframe>
+			<video width="99%" height="400px" controls>
+  				<source src="<?=IMAGE_URL?>gallery/samskriti.mp4" type="video/mp4">
+			</video>
 		</div>
 		<div class="col-md-12 text-center my-3 bio"><h2>ಚಿತ್ರಗಳು</h2></div>
 

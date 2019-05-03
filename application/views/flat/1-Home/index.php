@@ -71,23 +71,25 @@
 			ಭರತಖಂಡ ಕಂಡ ಅತಿವಿಶಿಷ್ಟ ಪಂಡಿತರು ಶ್ರೀಯುತ ಶರ್ಮರು. ಇವರ ಸಾಧನೆಯನ್ನು ಕಂಡು ಅರಸಿ ಬಂದ ಪ್ರಶಸ್ತಿಗಳು ನೂರಾರು. ನಡಹಳ್ಳಿಯ ಗ್ರಾಮಸ್ಥರ ಪ್ರೀತಿಯ ಸಮ್ಮಾನದಿಂದಾರಂಭಿಸಿ ರಾಷ್ಟ್ರಪತಿ ಪುರಸ್ಕಾರದವರೆಗಿನ ಎಲ್ಲ ಪ್ರಶಸ್ತಿಗಳೂ ಇವರಿಗೆ ಸಂದಿವೆ. ಅನೇಕ ಮಠಗಳು, ವಿಶ್ವವಿದ್ಯಾಲಯಗಳು, ಸಾರ್ವಜನಿಕ ಸಂಸ್ಥೆಗಳು, ಸರಕಾರ ಇವರಿಗೆ ಪ್ರಶಸ್ತಿ ನೀಡುವ ಮೂಲಕ ತಮ್ಮ ಸಂಸ್ಥಯ ಗೌರವವನ್ನು ಹೆಚ್ಚಿಸಿಕೊಂಡಿವೆ. <a href="" >ಇನ್ನಷ್ಟು ನೋಡಿ...</a>
 		</div>
 	</div>
-	<div class="row mt-5 contact" id="contact">
-		<div class="col-md-12 subtitle">
-			<h4 class="text-right">ನಮ್ಮ ಸಂಪರ್ಕ</h4>
-		</div>
-		<div class="col-md-5">
+	<div class="row mt-4" id="contact">
+		<div class="col-md-6 mt-3">
+			<h4 class="subtitle">ನಮ್ಮ ಸಂಪರ್ಕ</h4>
 			ಡಾ॥ ರಾಮಕೃಷ್ಣ ಭಟ್ ಕೆ<br />
 			ನಿರ್ದೇಶಕರು
 			ಮಹಾಮಹೋಪಾಧ್ಯಾಯ<br />
 			ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ<br />
 			ಶೋಧ ಕೇಂದ್ರ, ನಂ : ೧೬೬/ಎ, ನೆಲಮಹಡಿ,<br />
 			ಮೊದಲನೆಯ ಮನೆ, ೧೩ನೆಯ ಅಡ್ಡರಸ್ತೆ,<br />
-			ಗಿರಿನಗರ ಮೂರನೆಯ ಹಂತ<br />
-			ಬೆಂಗಳೂರು -೫೬೦೦೮೫<br />
+			ಗಿರಿನಗರ ಮೂರನೆಯ ಹಂತ, ಬೆಂಗಳೂರು - ೫೬೦೦೮೫<br />
 			ಮಿಂಚಂಚೆ : <span class="en">vidwannrs@gmail.com</span>
 		</div>
-		<div class="col-md-7">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.442278507226!2d77.53695091437494!3d12.943526590874296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3e1535a7b539%3A0x64b47bc9a0325ae8!2s13th+Cross+Rd%2C+Banashankari+Stage+I%2C+Banashankari%2C+Bengaluru%2C+Karnataka!5e0!3m2!1sen!2sin!4v1518611968593" frameborder="0" allowfullscreen="" width="100%" height="100%"></iframe>
+		<div class="col-md-6 mt-3 feedback">
+			<h4 class="subtitle">ನೋಡುಗರಾಭಿಪ್ರಾಯ</h4>
+			<p>
+				ನಮಗೆ ಲಭ್ಯವಿರುವ ಮಾಹಿತಿಗಳನ್ನಾಧರಿಸಿ ಈ ತಾಣವನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ. ಯಾವುದೇ ತಪ್ಪುಗಳು, ತಿದ್ದುಪಡಿಗಳಿದ್ದಲ್ಲಿ ದಯವಿಟ್ಟು ನಮ್ಮ ಮಿಂಚಂಚೆಗೆ ಬರೆದು ತಿಳಿಸಿ. ಈ ತಾಣವನ್ನು ಇನ್ನೂ ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ಸಲಹೆ ಸಹಕಾರಗಳನ್ನು ಸದಾ ಸ್ವೀಕರಿಸುತ್ತೇವೆ. ಶ್ರೀಯುತ ಶರ್ಮರ ಯಾವುದೇ ಫೋಟೋಗಳು, ಆಡಿಯೋ, ವೀಡಿಯೋ, ಗ್ರಂಥಗಳು, ಲೇಖನಗಳು ನಿಮ್ಮಲ್ಲಿ ಲಭ್ಯವಿದ್ದಲ್ಲಿ ದಯವಿಟ್ಟು ನಮಗೆ ಕಳುಹಿಸಿಕೊಡಬೇಕಾಗಿ ವಿನಂತಿ. <br />
+				<a target="_blank" href="https://goo.gl/forms/FNPxNASgcdGLswLr1">ಅಭಿಪ್ರಾಯ ತಿಳಿಸಿ</a>
+			</p>
+			<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.442278507226!2d77.53695091437494!3d12.943526590874296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3e1535a7b539%3A0x64b47bc9a0325ae8!2s13th+Cross+Rd%2C+Banashankari+Stage+I%2C+Banashankari%2C+Bengaluru%2C+Karnataka!5e0!3m2!1sen!2sin!4v1518611968593" frameborder="0" allowfullscreen="" width="100%" height="100%"></iframe> -->
 		</div>
 	</div>
 </div>
