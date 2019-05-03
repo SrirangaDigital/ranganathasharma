@@ -31,6 +31,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
     <script src="<?=PUBLIC_URL?>js/jquery.columnizer.js"></script>
+    <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
     
     <!-- CSS
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -68,14 +69,15 @@
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>Krutigalu">ಕೃತಿಗಳು</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
-                    <li class="dropdown">
+                    <li><a href="<?=BASE_URL?>Gallery/Photos">ಚಿತ್ರಶಾಲೆ</a></li>
+                    <!-- <li class="dropdown">
                         <a class="dropdown-toggle" href="http://example.com" data-toggle="dropdown" aria-haspopup="true">ಚಿತ್ರಶಾಲೆ</a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <a class="dropdown-item" href="<?=BASE_URL?>Gallery/Photos">ಚಿತ್ರಗಳು</a>
                           <p class="divider">&nbsp;</p>
                           <a class="dropdown-item" href="#">ದೃಶ್ಯಗಳು</a>
                         </div>
-                      </li>
+                      </li> -->
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>AboutOurself">ನಮ್ಮ ಬಗ್ಗೆ</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>

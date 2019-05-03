@@ -1580,7 +1580,7 @@
         var width = imageData.naturalWidth;
         var height = imageData.naturalHeight;
 
-        setText(title, alt);
+        setText(title, alt + ' (' + width + ' × ' + height + ')');
       }, true);
 
       if (image.complete) {

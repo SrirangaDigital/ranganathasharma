@@ -1,6 +1,9 @@
 var vieweroptions = { url: 'data-original' };
-if(document.getElementById('describeWord'))
-    var viewer = new Viewer(document.getElementById('describeWord'), vieweroptions);
+
+if(document.getElementById('viewimages')){
+    var viewer = new Viewer(document.getElementById('viewimages'), vieweroptions);
+    console.log('suresh');
+}
 
 $(document).ready(function() {
 

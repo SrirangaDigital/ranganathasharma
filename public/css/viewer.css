@@ -312,19 +312,17 @@
 }
 
 .viewer-title {
-  font-size: 16px;
-  line-height: 1;
+  font-size: 21px;
+  line-height: 1.5;
 
   display: inline-block;
   overflow: hidden;
 
   max-width: 90%;
-  margin: 0 5% 5px;
+  margin: 0 10% 10px;
 
   white-space: nowrap;
   text-overflow: ellipsis;
-
-  opacity: .9;
   color: #fff;
 }
 
