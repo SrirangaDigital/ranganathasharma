@@ -39,10 +39,6 @@
 	color: #333;
 	text-align: center;
 }
-.navbar a{
-	font-size: 13px;
-}
-
 .navbar .navbar-nav>.open>a, 
 .navbar .navbar-nav>.open>a:focus, 
 .navbar .navbar-nav>.open>a:hover {
@@ -60,10 +56,11 @@
 }
 .navbar-nav .dropdown-menu {
 	box-shadow: 2px 2px 10px rgba(0,0,0,0.175);
-	border-radius: 0px;
+	border-radius: 5px;
 	top: 99%;
 	border: none;
 	border-top: 2px solid #32557f;
+	padding: 8px 8px 8px 8px;
 }
 .navbar-nav .dropdown-menu li a{
 	line-height: 22px; 
@@ -148,6 +145,15 @@ ul.nav-pills>li{
 }
 li.navSeparator{
 	display: none !important;
+}
+.dropdown-toggle::after{
+	padding-bottom: 0px;
+	font-size: 16px;
+	color: #1565C0;
+}
+.dropdown-item{
+	font-size: 16px;
+	text-align: center;
 }
 @media(min-width:768px) {
 	li.navSeparator{

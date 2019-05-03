@@ -4,6 +4,16 @@ if(document.getElementById('describeWord'))
 
 $(document).ready(function() {
 
+    $('.dropdown-item').on('mouseenter', function(event){
+
+        $( this ).css( 'background-color', '#CAE1F4' );
+    });
+
+    $('.dropdown-item').on('mouseleave', function(event){
+
+        $( this ).css( 'background-color', '#FFF' );
+    });
+
     // Home page snippets - UI related
 
     $('#openNavbarSearch').on('click', function(event){

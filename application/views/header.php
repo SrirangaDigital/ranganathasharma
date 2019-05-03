@@ -68,6 +68,15 @@
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>krutigalu">ಕೃತಿಗಳು</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" href="http://example.com" data-toggle="dropdown" aria-haspopup="true">ಚಿತ್ರಶಾಲೆ</a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                          <a class="dropdown-item" href="#">ಚಿತ್ರಗಳು</a>
+                          <p class="divider">&nbsp;</p>
+                          <a class="dropdown-item" href="#">ದೃಶ್ಯಗಳು</a>
+                        </div>
+                      </li>
+                    <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>aboutOurself">ನಮ್ಮ ಬಗ್ಗೆ</a></li>
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>#contact">ನಮ್ಮ ಸಂಪರ್ಕ</a></li>
