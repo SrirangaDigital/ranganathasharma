@@ -1,7 +1,7 @@
 <div class="container-fluid flat-page firstDiv">
 	<div class="row justify-content-center overlay">
 		<div class="col-md-12 align-self-center">
-			<div class="container">
+			<div class="container bio">
 				<h2>ಅನುವಾದ ಗ್ರಂಥಗಳು</h2>
 				<br>
 				<!-- Nav tabs -->

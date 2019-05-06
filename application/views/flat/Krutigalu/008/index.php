@@ -1,7 +1,7 @@
 <div class="container-fluid flat-page firstDiv">
 	<div class="row justify-content-center overlay">
 		<div class="col-md-12 align-self-center">
-			<div class="container">
+			<div class="container bio">
 				<h2>ಭಾಷಾಂತರಗೊಂಡ ಗ್ರಂಥಗಳು</h2><br />
 				<h4 class="text-center">ಕನ್ನಡ ಪುಸ್ತಕಗಳು</h4><br />
 				<div class="row">

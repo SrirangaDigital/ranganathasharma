@@ -1,7 +1,7 @@
 <div class="container-fluid flat-page firstDiv">
 	<div class="row justify-content-center overlay">
 		<div class="col-md-12 align-self-center">
-			<div class="container">
+			<div class="container bio">
 				<h2>ಸಹಕರ್ತೃ ಗ್ರಂಥಗಳು</h2>
 				<h4 class="text-center">ಕನ್ನಡ ಪುಸ್ತಕಗಳು</h4><br />
 				<div class="row">
@@ -9,7 +9,7 @@
 						<!-- <a href="<?=BASE_URL?>listing/toc/002"> --><img src="<?=IMAGE_URL?>books/002.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಭಾಷಾಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ</h5><!-- </a>
  -->					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/001"><img src="<?=IMAGE_URL?>books/001.jpg" alt="Books images" /><h5 class="card-title">ಸುಭಾಷಿತ ಮಂಜರೀ</h5></a>
+						<!-- <a href="<?=BASE_URL?>listing/toc/001"> --><img src="<?=IMAGE_URL?>books/001.jpg" alt="Books images" /><h5 class="card-title">ಸುಭಾಷಿತ ಮಂಜರೀ</h5><!-- </a> -->
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/003"><img src="<?=IMAGE_URL?>books/003.jpg" alt="Books images" /><h5 class="card-title">ಬೋಧಾಯನೀಯ ಸಂಕ್ಷಿಪ್ತ ಧಾರ್ಮಿಕ ವಿಧಿ</h5></a>
