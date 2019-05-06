@@ -80,8 +80,8 @@
                       </li> -->
                     <li><small><a class="dot" href="javascript:void();">•</a></small></li>
                     <li><a href="<?=BASE_URL?>AboutOurself">ನಮ್ಮ ಬಗ್ಗೆ</a></li>
-                    <li><small><a class="dot" href="javascript:void();">•</a></small></li>
-                    <li><a href="<?=BASE_URL?>#contact">ನಮ್ಮ ಸಂಪರ್ಕ</a></li>
+                    <!-- <li><small><a class="dot" href="javascript:void();">•</a></small></li>
+                    <li><a href="<?=BASE_URL?>#contact">ನಮ್ಮ ಸಂಪರ್ಕ</a></li> -->
                 </ul>
             </div>
         </div>
