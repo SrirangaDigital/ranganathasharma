@@ -17,13 +17,13 @@
 			<!-- Tab panes -->
 			<div class="row">
 				<div class="col-md-3 booksCollection">
-					<a href="<?=BASE_URL?>listing/toc/006"><img src="<?=IMAGE_URL?>books/006.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಮದ್ರಾಘವೇಂದ್ರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</h5></a>
+					<img src="<?=IMAGE_URL?>books/006.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಮದ್ರಾಘವೇಂದ್ರ ಭಾರತೀ ಮಹಾಸ್ವಾಮಿಗಳು</h5>
 				</div>
 					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/007"><img src="<?=IMAGE_URL?>books/007.jpg" alt="Books images" /><h5 class="card-title">Yugapurusha Shankara</h5></a>
 					</div> -->
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/008"><img src="<?=IMAGE_URL?>books/008.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷಭಾಷಣ</h5></a>
+						<a href="<?=PUBLIC_URL?>pdf/008.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/008.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷಭಾಷಣ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=PUBLIC_URL?>pdf/011_1.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/011.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಮಜ್ಜಗದ್ಗುರು ಗಂಗಾಧರೇಂದ್ರ ಸರಸ್ವತೀಸ್ವಾಮಿಗಳವರ ದಶಮಾನ ಸ್ಮರನಸಂಚಿಕೆಯಲ್ಲಿ ಲೇಖನ-ಭಗವತ್ಪಾದಪ್ರಕಾಶನ</h5></a>

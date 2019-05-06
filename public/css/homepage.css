@@ -144,7 +144,7 @@ a {
     .about-tabs.nav-tabs .nav-link.active,
     .about-tabs.nav-tabs .nav-link:focus,
     .about-tabs.nav-tabs .nav-link:hover {
-        border-bottom: 1px solid #ddd;
+        /*border-bottom: 1px solid #ddd;*/
     }
     .about-content .tab-pane .prelims{
         padding-left: 15px;

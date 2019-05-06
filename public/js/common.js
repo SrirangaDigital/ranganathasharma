@@ -2,10 +2,17 @@ var vieweroptions = { url: 'data-original' };
 
 if(document.getElementById('viewimages')){
     var viewer = new Viewer(document.getElementById('viewimages'), vieweroptions);
-    console.log('suresh');
 }
 
 $(document).ready(function() {
+
+    var url = $(location).attr('href');
+
+    if(url.indexOf('#') != -1){
+
+        var hash = url.substr(url.indexOf('#') - url.length, url.indexOf('#'));
+        $('.nav-tabs a[href="' + hash + '"]').tab('show');
+    }
 
     $('.dropdown-item').on('mouseenter', function(event){
 
