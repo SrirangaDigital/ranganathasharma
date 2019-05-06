@@ -43,11 +43,11 @@ a {
 .blessing img{
     margin-bottom: 20px;
 }
-.card{
-border: none !important;
-}
 .padding-zero{
   padding: 0px;
+}
+.card-body{
+  color: 
 }
 .small-bio{
   background-color: #F0F0F0;
@@ -116,12 +116,16 @@ border: none !important;
   margin-bottom: 20px;
 }
 .card-title {
-    font-family: 'Nudi';
     font-size: 20px;
     margin-top: 15px;
+    color: #0056b3;
 }
 .card-title, a:link {
   text-decoration: none;
+}
+.kruthigalu img{
+  box-shadow: 0 1px 15px rgba(0,0,0,0.5);
+  border-radius: 5px;
 }
 .gallery figure{
   margin: 10px;
