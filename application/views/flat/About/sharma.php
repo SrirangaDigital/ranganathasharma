@@ -66,4 +66,156 @@
 			<p>ನಡಹಳ್ಳಿಯಲ್ಲಿ ಜನಿಸಿ ಬೆಂಗಳೂರಿನಲ್ಲಿ ಬೆಳೆದು ಮೈಸೂರಿನಲ್ಲಿ ತನ್ನ ಹಿರಿಯ ಮಗನಾದ ಸದಾನಂದರೊಂದಿಗೆ ಸದಾ ಆನಂದದಿಂದಿದ್ದ ಶ್ರೀಯುತ ಶರ್ಮರು ೨೫-೦೧-೨೦೧೪ ರಲ್ಲಿ ಸರಸ್ವತೀ ಯಾಮದಲ್ಲಿ ಪಂಚಭೂತಗಳಲ್ಲಿ ಲೀನವಾಗುವ ಮೂಲಕ ಭರತಖಂಡದ ಅತಿದೊಡ್ಡ ಜ್ಞಾನರಾಶಿಯೇ ಉಪರತವಾಯಿತು. <a href="<?=BASE_URL?>Awards">ಇನ್ನಷ್ಟು ನೋಡಿ...</a></p>
 		</div>
 	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<table class="table table-striped">
+				<tbody>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಹೆಸರು :</strong></td>
+						<td class="col-md-6">ಎನ್.ರಂಗನಾಥಶರ್ಮಾ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ತಂದೆಯ ಹೆಸರು :</strong></td>
+						<td class="col-md-6">ಶ್ರೀ ಎನ್.ತಿಮ್ಮಪ್ಪ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ತಾಯಿಯ ಹೆಸರು :</strong></td>
+						<td class="col-md-6">ಶ್ರೀಮತೀ ಜಾನಕಮ್ಮ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಪತ್ನಿಯ ಹೆಸರು</strong></td>
+						<td class="col-md-6">ಶ್ರೀಮತೀ ಕಮಲಾಕ್ಷಮ್ಮ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಹಿರಿಯ ಪುತ್ರ</strong></td>
+						<td class="col-md-6">ಶ್ರೀ ಸದಾನಂದ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಕಿರಿಯ ಪುತ್ರ :</strong></td>
+						<td class="col-md-6">ಡಾ॥ ನಾಗಭೂಷಣ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಹಿರಿಯ ಪುತ್ರಿ :</strong></td>
+						<td class="col-md-6">ಡಾ॥ ಶಾರದಾ ಚೈತ್ರ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಕಿರಿಯ ಪುತ್ರಿ :</strong></td>
+						<td class="col-md-6">ಶ್ರೀಮತೀ ಜಯಶ್ರೀ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಜನ್ಮ ದಿನಾಂಕ :</strong></td>
+						<td class="col-md-6">೭-೪-೧೯೧೬ : ನಲ ಸಂವತ್ಸರದ ವೈಶಾಖ ಶುದ್ಧ ಪಂಚಮೀ ಶಂಕರ ಜಯಂತಿಯ ಶುಭದಿನ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಜನ್ಮ ನಕ್ಷತ್ರ :</strong></td>
+						<td class="col-md-6">ಪುನರ್ವಸು</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ದೇಹತ್ಯಾಗ :</strong></td>
+						<td class="col-md-6">೨೫-೦೧-೨೦೧೪ :ವಿಜಯ ಸಂವತ್ಸರದ ಪುಷ್ಯ ಬಹುಳ ನವಮೀ.</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಹುಟ್ಟಿದ ಸ್ಥಳ :</strong></td>
+						<td class="col-md-6">ದಂಡವತೀ ನದೀ ತೀರದ ನಡಹಳ್ಳಿ, ಸೊರಬ ತಾಲ್ಲೂಕು, ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆ , ಕರ್ನಾಟಕ,</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ರಾಷ್ಟ್ರಿಯತೆ :</strong></td>
+						<td class="col-md-6">ಭಾರತೀಯ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಧರ್ಮ :</strong></td>
+						<td class="col-md-6">ಹಿಂದೂ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಜಾತಿ :</strong></td>
+						<td class="col-md-6">ಬ್ರಾಹ್ಮಣ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಉಪಜಾತಿ :</strong></td>
+						<td class="col-md-6">ಹವ್ಯಕ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಗೋತ್ರ :</strong></td>
+						<td class="col-md-6">ವಿಶ್ವಾಮಿತ್ರ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಸೂತ್ರ :</strong></td>
+						<td class="col-md-6">ಬೋಧಾಯನ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ವೇದ :</strong></td>
+						<td class="col-md-6">ಯಜುರ್ವೇದ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ವಿದ್ಯಾಭ್ಯಾಸ :</strong></td>
+						<td class="col-md-6">
+							<ul>
+								<li>ವಿದ್ಯಾಭ್ಯಾಸ : – ಪ್ರಾಥಮಿಕ ವಿದ್ಯಾಭ್ಯಾಸ – ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ನಡಹಳ್ಳಿ</li>
+								<li>ಸಂಸ್ಕೃತ ಪ್ರಥಮ : – ಕೆಳದಿ ಶ್ರೀರಾಮೇಶ್ವರ ದೇವಾಲಯದ ಸಂಸ್ಕೃತ ಪಾಠಶಾಲೆ</li>
+								<li>ಕಾವ್ಯ : – ಕೆಳದಿ ಶ್ರೀರಾಮೇಶ್ವರ ದೇವಾಲಯದ ಸಂಸ್ಕೃತ ಪಾಠಶಾಲೆ</li>
+								<li>ಸಾಹಿತ್ಯ : – ಶ್ರೀಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆ, ಬೆಂಗಳೂರು</li>
+								<li>ವ್ಯಾಕರಣ ಶಾಸ್ತ್ರ ವಿದ್ವತ್ : – ಶ್ರೀಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆ, ಬೆಂಗಳೂರು</li>
+								<li>ಅಲಂಕಾರ ಶಾಸ್ತ್ರ ವಿದ್ವತ್ : – ಶ್ರೀಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆ, ಬೆಂಗಳೂರು</li>
+								<li>ವೇದಾಂತ ಶಾಸ್ತ್ರ ವಿದ್ವತ್ : – ಶ್ರೀಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆ, ಬೆಂಗಳೂರು</li>
+								<li>ಕನ್ನಡ ವಿದ್ವಾನ್ : – ಮದ್ರಾಸ್ ವಿಶ್ವವಿದ್ಯಾಲಯ</li>
+								<li>ಕನ್ನಡ ಪಂಡಿತ : – ಕರ್ನಾಟಕ ಸರಕಾರ</li>
+							</ul>
+						</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ವಿದ್ಯಾಗುರುಗಳು :</strong></td>
+						<td class="col-md-6">
+							<ul>
+								<li>ಸಂಸ್ಕೃತ ಬಾಲ ಪಾಠ : – ವೇದಬ್ರಹ್ಮಶ್ರೀ ಕೇಶವಶಾಸ್ತ್ರಿ ಮತ್ತೂರು ಹಾಗೂ ವೇದಬ್ರಹ್ಮಶ್ರೀ ನಾರಾಯಣ ಶಾಸ್ತ್ರೀವಿದ್ಯಾಗುರುಗಳು</li>
+								<li>ವ್ಯಾಕರಣಶಾಸ್ತ್ರ : – ವೇದಬ್ರಹ್ಮಶ್ರೀ ನುಗ್ಗೇಹಳ್ಳಿ ತಿರುನಾರಾಯಣ ಅಯ್ಯಂಗಾರ್, ವಿದ್ವಾನ್ ಶ್ರೀಕಂಠಶಾಸ್ತ್ರಿಗಳು, ವೇದಬ್ರಹ್ಮ ಶ್ರೀ ಲಕ್ಷ್ಮೀನಾರಾಯಣಶಾಸ್ತ್ರಿಗಳು</li>
+								<li>ಅಲಂಕಾರ ಶಾಸ್ತ್ರ : – ವಿದ್ವಾನ್ ಕೆ. ಕೃಷ್ಣ ಜೋಯಿಸರು</li>
+								<li>ವೇದಾಂತಶಾಸ್ತ್ರ : – ವಿದ್ವಾನ್ ಕೃಷ್ಣ ಜೋಯಿಸರು, ವಿದ್ವಾನ್ ಕೆ.ಪಿ.ಶಂಕರಶಾಸ್ತ್ರಿಗಳು.</li>
+							</ul>
+						</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ವೃತ್ತಿ :</strong></td>
+						<td class="col-md-6">
+							<ul>
+								<li>ಹಾಸನದಲ್ಲಿ ಪ್ರೌಢಶಾಲೆಯಲ್ಲಿ ಸಂಸ್ಕೃತಾಧ್ಯಾಪನ</li>
+								<li>ಬೇಲೂರಿನಲ್ಲಿ ಸಂಸ್ಕೃತ ಪಾಠಶಾಲೆಯಲ್ಲಿ ಸಂಸ್ಕೃತಾಧ್ಯಾಪನ</li>
+								<li>೧೯೪೮ ರಿಂದ ೨೮ ವರ್ಷಗಳ ಕಾಲ ವ್ಯಾಕರಣ ಶಾಸ್ತ್ರ ಪ್ರಾಧ್ಯಾಪಕ , ಶ್ರೀಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಕಾಲೇಜ್, ಪಂಪ ಮಹಾಕವಿ ರಸ್ತೆ , ಚಾಮರಾಜಪೇಟೆ, ಬೆಂಗಳೂರು ೫೬೦೦೧೮, ಕರ್ಣಾಟಕ</li>
+							</ul>
+						</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಇಷ್ಟ ದೈವ :</strong></td>
+						<td class="col-md-6">ಶ್ರೀರಾಮಚಂದ್ರ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಇಷ್ಟಗುರು :</strong></td>
+						<td class="col-md-6">ಭಗವತ್ಪಾದ ಶಂಕರಾಚಾರ್ಯರು</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಆಪ್ತ ಶಿಷ್ಯರು :</strong></td>
+						<td class="col-md-6">ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ವಿದ್ವಾನ್ ಜಿ. ಮಹಾಬಲೇಶ್ವರ ಭಟ್ಟರು ಮತ್ತು ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ವಿದ್ವಾನ್ ಸೋ.ತಿ.ನಾಗರಾಜರು</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಹವ್ಯಾಸ :</strong></td>
+						<td class="col-md-6">ಗ್ರಂಥಾಧ್ಯಯನ, ಅಧ್ಯಾಪನ, ಲೇಖನ, ಪ್ರವಚನ, ವೃತ್ತಪತ್ರಿಕೆ ವಾಚನ, ನಿಯತವಾಗಿ ರೇಡಿಯೋ ವಾರ್ತೆ ಶ್ರವಣ</td>
+					</tr>
+					<tr class="row justify-content-center">
+						<td class="d-flex col-md-4 align-middle"><strong>ಸಾಮಾಜಿಕ ಸೇವೆ :</strong></td>
+						<td class="col-md-6">
+							<ul>
+								<li>ಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆಯ ವಿದ್ಯಾರ್ಥಿ ಸಂಘದ ಕಾರ್ಯದರ್ಶಿಯಾಗಿ ಸೇವೆ.</li>
+								<li>ವ್ಯಾಸಮಂದಿರ ವಿದ್ಯಾರ್ಥಿ ನಿಲಯದ ವಿದ್ಯಾರ್ಥಿ ವ್ಯವಸ್ಥಾಪಕರಾಗಿ ಸೇವೆ.</li>
+								<li>ಚಾಮರಾಜೇಂದ್ರ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆಯ ಗ್ರಂಥಾಲಯದ ಉಸ್ತುವಾರಿಯಾಗಿ ಸೇವೆ.</li>
+								<li>ಪಠ್ಯಪುಸ್ತಕ ರಚನಾ ಸಮಿತಿಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ಸೇವೆ.</li>
+								<li>ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಹಳೆಗನ್ನಡ – ನಡುಗನ್ನಡ ಅನುವಾದ ಮಂಡಳಿಯ ಪ್ರಧಾನ ಸಂಪಾದಕರಾಗಿ ಸೇವೆ.</li>
+								<li>ಸುರಸರಸ್ವತೀ ಸಭಾ ಪುಸ್ತಕ ರಚನಾ ಸಮಿತಿಯ ಅಧ್ಯಕ್ಷರು</li>
+								<li>ವಿದ್ವದ್ಗೋಷ್ಠಿಗಳ ಆಯೋಜನೆ, ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು ಮಾರ್ಗದರ್ಶನ.</li>
+							</ul>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p><strong>ಅನೇಕ ಲೇಖನಗಳು ಗ್ರಂಥಗಳ ರಚನೆ</strong></p>
+		</div>
+	</div>
 </div>
