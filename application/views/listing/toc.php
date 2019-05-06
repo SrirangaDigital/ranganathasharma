@@ -1,6 +1,6 @@
 <div class="container dynamic-page">
 	<!-- <h6>Table of content of</h6> -->
-	<div class="row justify-content-center">
+	<div class="row justify-content-center mt-5">
 		<div class="col-md-7 toc">
 			<?php 
 				foreach ($data as $line) {
@@ -13,12 +13,15 @@
 						$pageNumber = $viewHelper->getRelativePage($bookID, $matches[1]);
 						echo '<li><a href="' . PUBLIC_URL .  'pdf/' . $bookID . '.pdf#page=' . $pageNumber . '" target="_blank">' . $matches[3] . '</a></li>';
 					}
+					elseif(preg_match('/<h1 class="title">(.*?)<\/h1>/', $line, $matches)) {
+						echo '<h2>' . $matches[1] . "</h2>\n";
+					}
 					else
-						echo $line . "\n";
+							echo $line . "\n";
 				}
 			?>
 		</div>
-		<div class="col-md-2">
+		<div class="col-md-2 text-center">
 			<img src="<?=PUBLIC_URL?>images/books/<?=$bookID?>.jpg" alt="images" />
 		</div>
 		<?php
