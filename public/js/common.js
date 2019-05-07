@@ -4,6 +4,10 @@ if(document.getElementById('viewimages')){
     var viewer = new Viewer(document.getElementById('viewimages'), vieweroptions);
 }
 
+if(document.getElementById('nav-award')){
+    var viewer = new Viewer(document.getElementById('nav-award'), vieweroptions);
+}
+
 $(document).ready(function() {
 
     var url = $(location).attr('href');
