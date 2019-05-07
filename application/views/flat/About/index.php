@@ -335,13 +335,13 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/001.jpg" src="<?=IMAGE_URL?>awards/thumbs/001.jpg" alt="ಗೌರವ ಡಾಕ್ಟರೇಟ್ – ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ – ಬೆಂಗಳೂರು ೦೯-೧೧-೨೦೧೨" />
-						<figcaption>ಗೌರವ ಡಾಕ್ಟರೇಟ್ – ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ – ಬೆಂಗಳೂರು ೦೯-೧೧-೨೦೧೨</figcaption>
+						<figcaption>विद्यावारिधिसम्माननम् (डाक्टर् आफ् लिटरेचर्) – कर्णाटकसंस्कृतविश्वविद्यालयः, बेङ्गलूरु – ०९।११।२०१२</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/002.jpg" src="<?=IMAGE_URL?>awards/thumbs/002.jpg" alt="ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ – ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ – ಬೆಂಗಳೂರು ೧೦-೦೩-೨೦೧೨" />
-						<figcaption>ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ – ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ – ಬೆಂಗಳೂರು ೧೦-೦೩-೨೦೧೨</figcaption>
+						<figcaption>संस्कृतग्रन्थपुरस्कारः – कर्णाटकसंस्कृतविश्वविद्यालयः, बेङ्गलूरु – १०।०३।२०१२</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -353,13 +353,13 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/004.jpg" src="<?=IMAGE_URL?>awards/thumbs/004.jpg" alt="ಸುಧರ್ಮಾ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಡಿತರತ್ನ – ಸುಧರ್ಮಾ ಸಂಸ್ಕೃತ ದಿನಪತ್ರಿಕೆ, ಮೈಸೂರು – ೧೯-೦೭-೨೦೦೯" />
-						<figcaption>ಸುಧರ್ಮಾ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಡಿತರತ್ನ – ಸುಧರ್ಮಾ ಸಂಸ್ಕೃತ ದಿನಪತ್ರಿಕೆ, ಮೈಸೂರು – ೧೯-೦೭-೨೦೦೯</figcaption>
+						<figcaption>सुधर्माप्रशस्तिः, पण्डितरत्नम् – सुधर्मा संस्कृतदिनपत्रिका, मैसूरु – ०९।०७।२००९</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
-						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/005.jpg" src="<?=IMAGE_URL?>awards/thumbs/005.jpg" alt="ಸುಧರ್ಮಾ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಡಿತರತ್ನ – ಸುಧರ್ಮಾ ಸಂಸ್ಕೃತ ದಿನಪತ್ರಿಕೆ, ಮೈಸೂರು – ೧೯-೦೭-೨೦೦೯" />
-						<figcaption>ಸುಧರ್ಮಾ ಪ್ರಶಸ್ತಿ ಮತ್ತು ಪಂಡಿತರತ್ನ – ಸುಧರ್ಮಾ ಸಂಸ್ಕೃತ ದಿನಪತ್ರಿಕೆ, ಮೈಸೂರು – ೧೯-೦೭-೨೦೦೯</figcaption>
+						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/005.jpg" src="<?=IMAGE_URL?>awards/thumbs/005.jpg" alt="सुधर्माप्रशस्तिः, पण्डितरत्नम् – सुधर्मा संस्कृतदिनपत्रिका, मैसूरु – ०९।०७।२००९" />
+						<figcaption>सुधर्माप्रशस्तिः, पण्डितरत्नम् – सुधर्मा संस्कृतदिनपत्रिका, मैसूरु – ०९।०७।२००९</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -389,13 +389,13 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/010.jpg" src="<?=IMAGE_URL?>awards/thumbs/010.jpg" alt="ವ್ಯಾಸಜ್ಯೋತಿ – ಜ್ಯೋತಿಸಾಂಸ್ಕೃತಿಕಪ್ರತಿಷ್ಠಾನ, ಬೆಂಗಳೂರು – ೧೮-೦೭-೨೦೦೮" />
-						<figcaption>ವ್ಯಾಸಜ್ಯೋತಿ – ಜ್ಯೋತಿಸಾಂಸ್ಕೃತಿಕಪ್ರತಿಷ್ಠಾನ, ಬೆಂಗಳೂರು – ೧೮-೦೭-೨೦೦೮</figcaption>
+						<figcaption>व्यासज्योतिः – ज्योतिसांस्कृतिकप्रतिष्ठानम्, बेङ्गलूरु – १८।०७।२००८</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/011.jpg" src="<?=IMAGE_URL?>awards/thumbs/011.jpg" alt="ವ್ಯಾಸಜ್ಯೋತಿ – ಜ್ಯೋತಿಸಾಂಸ್ಕೃತಿಕಪ್ರತಿಷ್ಠಾನ, ಬೆಂಗಳೂರು – ೧೮-೦೭-೨೦೦೮" />
-						<figcaption>ವ್ಯಾಸಜ್ಯೋತಿ – ಜ್ಯೋತಿಸಾಂಸ್ಕೃತಿಕಪ್ರತಿಷ್ಠಾನ, ಬೆಂಗಳೂರು – ೧೮-೦೭-೨೦೦೮</figcaption>
+						<figcaption>व्यासज्योतिः – ज्योतिसांस्कृतिकप्रतिष्ठानम्, बेङ्गलूरु – १८।०७।२००८</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -419,7 +419,7 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/015.jpg" src="<?=IMAGE_URL?>awards/thumbs/015.jpg" alt="ಸಮ್ಮಾನ – ವೈಯಾಕರಣಸಮಾವೇಶಸಂಚಾಲನಸಮಿತಿ, ಬೆಂಗಳೂರು – ೮-೧೦-೨೦೦೬" />
-						<figcaption>ಸಮ್ಮಾನ – ವೈಯಾಕರಣಸಮಾವೇಶಸಂಚಾಲನಸಮಿತಿ, ಬೆಂಗಳೂರು – ೮-೧೦-೨೦೦೬</figcaption>
+						<figcaption>सम्माननम् – वैयाकरणसमावेशसञ्चालनसमितिः, बेङ्गलूरु – ८।१०।२००६</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -479,7 +479,7 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/025.jpg" src="<?=IMAGE_URL?>awards/thumbs/025.jpg" alt="ವಿದ್ಯಾವಾಚಸ್ಪತಿ ( ಡಿ.ಲಿಟ್) – ಕಾಮೇಶ್ವರಸಿಂಹ ದರ್ಭಾಂಗಾ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ, ದರ್ಭಾಂಗಾ –೧೭-೧೨- ೨೦೦೩" />
-						<figcaption>ವಿದ್ಯಾವಾಚಸ್ಪತಿ ( ಡಿ.ಲಿಟ್) – ಕಾಮೇಶ್ವರಸಿಂಹ ದರ್ಭಾಂಗಾ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ, ದರ್ಭಾಂಗಾ –೧೭-೧೨- ೨೦೦೩</figcaption>
+						<figcaption>विद्यावाचस्पतिः (डि.लिट्) – कामेश्वरसिंह-दर्भाङ्ग-संस्कृतविश्वविद्यालयः, दर्भाङ्गम् – १७।१२।२००३</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -497,7 +497,7 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/028.jpg" src="<?=IMAGE_URL?>awards/thumbs/028.jpg" alt="ಪಂಡಿತರಾಜ – ಶ್ರೀಸೋಂದಾಸ್ವರ್ಣವಲ್ಲೀಮಹಾಸಂಸ್ಥಾನ, ಸ್ವರ್ಣವಲ್ಲೀ – ೦೬-೦೫-೨೦೦೩" />
-						<figcaption>ಪಂಡಿತರಾಜ – ಶ್ರೀಸೋಂದಾಸ್ವರ್ಣವಲ್ಲೀಮಹಾಸಂಸ್ಥಾನ, ಸ್ವರ್ಣವಲ್ಲೀ – ೦೬-೦೫-೨೦೦೩</figcaption>
+						<figcaption>पण्डितराजः – श्रीसोन्दास्वर्णवल्लीमहासंस्थानम्, स्वर्णवल्ली – ०६।०५।२००३</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -533,7 +533,7 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/034.jpg" src="<?=IMAGE_URL?>awards/thumbs/034.jpg" alt="ಮಹಾಮಹೋಪಾಧ್ಯಾಯ – ರಾಷ್ಟ್ರಿಯಸಂಸ್ಕೃತವಿದ್ಯಾಪೀಠ, ತಿರುಪತಿ. – ೧೭-೦೩-೨೦೦೧" />
-						<figcaption>ಮಹಾಮಹೋಪಾಧ್ಯಾಯ – ರಾಷ್ಟ್ರಿಯಸಂಸ್ಕೃತವಿದ್ಯಾಪೀಠ, ತಿರುಪತಿ. – ೧೭-೦೩-೨೦೦೧</figcaption>
+						<figcaption>महामहोपाध्यायः – राष्ट्रियसंस्कृतविद्यापीठम्, तिरुपतिः – १७।०३।२००१</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -557,19 +557,19 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/038.jpg" src="<?=IMAGE_URL?>awards/thumbs/038.jpg" alt="ಸಮ್ಮಾನ –ಶ್ರೀಯೋಗಾನಂದೇಶ್ವರಸರಸ್ವತೀಮಠ, ಯಡತೊರೆ – ಈಶ್ವರಸಂವತ್ಸರ ಶ್ರಾವಣಕೃಷ್ಣ ಚತುರ್ಥೀ ಭಾನುವಾರ ೧೯೯೭" />
-						<figcaption>ಸಮ್ಮಾನ –ಶ್ರೀಯೋಗಾನಂದೇಶ್ವರಸರಸ್ವತೀಮಠ, ಯಡತೊರೆ – ಈಶ್ವರಸಂವತ್ಸರ ಶ್ರಾವಣಕೃಷ್ಣ ಚತುರ್ಥೀ ಭಾನುವಾರ ೧೯೯೭</figcaption>
+						<figcaption>सम्माननम् – श्रीयोगानन्देश्वरसरस्वतीमठः, यडतोरे – ईश्वरसंवत्सरस्य श्रावणकृष्णचतुर्थी भानुवासरः – १९९७</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/039.jpg" src="<?=IMAGE_URL?>awards/thumbs/039.jpg" alt="ರಾಷ್ಟ್ರಪತಿ ಪ್ರಶಸ್ತಿ - 1995" />
-						<figcaption>ರಾಷ್ಟ್ರಪತಿ ಪ್ರಶಸ್ತಿ - 1995</figcaption>
+						<figcaption>राष्ट्रपतिप्रशस्तिः – १९९५</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/040.jpg" src="<?=IMAGE_URL?>awards/thumbs/040.jpg" alt="ರಾಷ್ಟ್ರಪತಿ ಪ್ರಶಸ್ತಿ - 1995" />
-						<figcaption>ರಾಷ್ಟ್ರಪತಿ ಪ್ರಶಸ್ತಿ - 1995</figcaption>
+						<figcaption>राष्ट्रपतिप्रशस्तिः – १९९५</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -587,7 +587,7 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/043.jpg" src="<?=IMAGE_URL?>awards/thumbs/043.jpg" alt="ಪಂಡಿತ ಭೂಷಣ – ಪೇಜಾವರ ಅಧೋಕ್ಷಜ ಮಠ, ಉಡುಪಿ-ಶಾಖೆ ಬೆಂಗಳೂರು – ೨೩-೦೯-೧೯೯೪" />
-						<figcaption>ಪಂಡಿತ ಭೂಷಣ – ಪೇಜಾವರ ಅಧೋಕ್ಷಜ ಮಠ, ಉಡುಪಿ-ಶಾಖೆ ಬೆಂಗಳೂರು – ೨೩-೦೯-೧೯೯೪</figcaption>
+						<figcaption>पण्डितभूषणः – पेजावर-अधोक्षज-मठः, उडुपिशाखा, बेङ्गलूरु – २३।०९।१९९४</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -611,13 +611,13 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/047.jpg" src="<?=IMAGE_URL?>awards/thumbs/047.jpg" alt="ವ್ಯಾಕರಣಶಾಸ್ತ್ರನಿಧಿ – ಸಾರಸ್ವತಮಹಾವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು- ೨೬-೦೮-೧೯೮೪" />
-						<figcaption>ವ್ಯಾಕರಣಶಾಸ್ತ್ರನಿಧಿ – ಸಾರಸ್ವತಮಹಾವಿಶ್ವವಿದ್ಯಾಲಯ, ಬೆಂಗಳೂರು- ೨೬-೦೮-೧೯೮೪</figcaption>
+						<figcaption>व्याकरणशास्त्रनिधिः – सारस्वतमहाविश्वविद्यालयः, बेङ्गलूरु – २६।०८।१९७४</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/048.jpg" src="<?=IMAGE_URL?>awards/thumbs/048.jpg" alt="ವ್ಯಾಕರಣವಿಚಕ್ಷಣ – ಶ್ರೀಮತ್ಸಮೀರಸಮಯಸಂವರ್ಧಿನೀವಿದ್ವತ್ಸಭಾ, ಮಂತ್ರಾಲಯ – ೧೦-೦೮-೧೯೭೯" />
-						<figcaption>ವ್ಯಾಕರಣವಿಚಕ್ಷಣ – ಶ್ರೀಮತ್ಸಮೀರಸಮಯಸಂವರ್ಧಿನೀವಿದ್ವತ್ಸಭಾ, ಮಂತ್ರಾಲಯ – ೧೦-೦೮-೧೯೭೯</figcaption>
+						<figcaption>व्याकरणविचक्षणः – श्रीमत्समीरसमयसंवर्धिनीविद्वत्सभा, मन्त्रालयः – १०।०४।१९७९</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
@@ -635,19 +635,19 @@
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/051.jpg" src="<?=IMAGE_URL?>awards/thumbs/051.jpg" alt="ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ - ಭಾರತ ಸರಕಾರ – ೨೭-೦೩-೧೯೭೬" />
-						<figcaption>ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ - ಭಾರತ ಸರಕಾರ – ೨೭-೦೩-೧೯೭೬</figcaption>
+						<figcaption>Nation’s Best Teacher Award – Government of India – 27.03.1976</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/052.jpg" src="<?=IMAGE_URL?>awards/thumbs/052.jpg" alt=". ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ - ಭಾರತ ಸರಕಾರ – ೨೭-೦೩-೧೯೭೬" />
-						<figcaption>. ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ - ಭಾರತ ಸರಕಾರ – ೨೭-೦೩-೧೯೭೬</figcaption>
+						<figcaption>राष्ट्रस्य अत्युत्तमशिक्षकप्रशस्तिः – भारतसर्वकारः – २७।०३।१९७६</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/053.jpg" src="<?=IMAGE_URL?>awards/thumbs/053.jpg" alt="ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ - ಭಾರತ ಸರಕಾರ – ೨೭-೦೩-೧೯೭೬" />
-						<figcaption>ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ - ಭಾರತ ಸರಕಾರ – ೨೭-೦೩-೧೯೭೬</figcaption>
+						<figcaption>राष्ट्रस्य अत्युत्तमशिक्षकप्रशस्तिः – भारतसर्वकारः – २७।०३।१९७६</figcaption>
 					</figure>
 				</div>
 				<div class="col-md-3 text-center">
