@@ -1,8 +1,8 @@
 <div class="container-fluid flat-page firstDiv">
 	<div class="row justify-content-center overlay">
 		<div class="col-md-12 align-self-center">
-			<div class="container bio">
-				<h2>ಇತರ ಗ್ರಂಥಗಳು</h2><br />
+			<div class="container bio my-3">
+				<h2 class="text-center">ಇತರ ಗ್ರಂಥಗಳು</h2><br />
 				<h4 class="text-center">ಕನ್ನಡ ಪುಸ್ತಕಗಳು</h4><br />
 				<div class="row">
 					<div class="col-md-3 booksCollection">

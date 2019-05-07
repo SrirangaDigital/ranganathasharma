@@ -1,8 +1,8 @@
 <div class="container-fluid flat-page firstDiv">
 	<div class="row justify-content-center overlay">
 		<div class="col-md-12 align-self-center">
-			<div class="container bio">
-				<h2>ಲೇಖನಗಳು</h2>
+			<div class="container bio my-3">
+				<h2 class="text-center">ಲೇಖನಗಳು</h2>
 				<br>
 				<!-- Nav tabs -->
 <!-- 				<ul class="nav nav-tabs" role="tablist">
