@@ -880,7 +880,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="tab-pane fade" id="nav-english" role="tabpanel" aria-labelledby="nav-english-tab">
+		<div class="tab-pane fade english" id="nav-english" role="tabpanel" aria-labelledby="nav-english-tab">
 			<!-- about -->
 			<div class="container bio">
 				<div class="row" id="viewimages">

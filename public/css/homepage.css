@@ -2,6 +2,9 @@ body{
 	font-family: 'Nudi', sans-serif;
   font-size: 18px;
 }
+.english{
+  font-family: 'Roboto', sans-serif;
+}
 a {
   color: #1565C0;
 }
