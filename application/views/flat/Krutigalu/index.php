@@ -5,6 +5,12 @@
 				<h2 class="text-center my-3">ಕೃತಿಗಳು</h2>
 				<div class="row kruthigalu">
 					<div class="col-md-3 text-center my-3">
+						<a href="<?=BASE_URL?>Krutigalu/aakaradi">
+							<img class="img-fluid" src="<?=IMAGE_URL?>kruthigalu/kruthi-8.jpg" />
+							<div class="card-title text-center">‘ಅ’ ಕಾರಾದಿ</div>
+						</a>
+					</div>
+					<div class="col-md-3 text-center my-3">
 						<a href="<?=BASE_URL?>Krutigalu/001">
 							<img class="img-fluid" src="<?=IMAGE_URL?>kruthigalu/kruthi-1.jpg" />
 							<div class="card-title text-center">ಸ್ವತಂತ್ರ ಗ್ರಂಥಗಳು</div>

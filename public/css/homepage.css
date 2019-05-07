@@ -136,7 +136,7 @@ a {
 
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
-        margin-top: 140px;
+        margin-top: 90px;
     }
     .dedication h2, .author h2{
         text-align: left;
