@@ -68,7 +68,7 @@
 						<a href="<?=PUBLIC_URL?>pdf/106_1.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/106.jpg" alt="Books images" /><h5 class="card-title">ಸಾಹಿತ್ಯದ ಚತುರ್ಮುಖರು</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=PUBLIC_URL?>pdf/107_1.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/107.jpg" alt="Books images" /><h5 class="card-title">ರಂಗಾಭಿನಂದನಮ್</h5></a>
+						<a href="<?=PUBLIC_URL?>pdf/107_1.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/107.jpg" alt="Books images" /><h5 class="card-title">रङ्गाभिनन्दनम्</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=PUBLIC_URL?>pdf/108.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/108.jpg" alt="Books images" /><h5 class="card-title">ವಿವೇಕ ಚೂಡಾಮಣಿ -ಪರಿಚಯ</h5></a>

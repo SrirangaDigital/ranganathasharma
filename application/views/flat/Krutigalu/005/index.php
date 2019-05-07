@@ -18,25 +18,25 @@
 				<h4 class="text-center">ಸಂಸ್ಕೃತ ಪುಸ್ತಕಗಳು</h4><br />
 				<div class="row">
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/092"><img src="<?=IMAGE_URL?>books/092.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ -೧</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/092"><img src="<?=IMAGE_URL?>books/092.jpg" alt="Books images" /><h5 class="card-title">संस्कृतभाषादीपिका -१</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/093"><img src="<?=IMAGE_URL?>books/093.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ-೨</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/093"><img src="<?=IMAGE_URL?>books/093.jpg" alt="Books images" /><h5 class="card-title">संस्कृतभाषादीपिका -२</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/094"><img src="<?=IMAGE_URL?>books/094.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ-೩</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/094"><img src="<?=IMAGE_URL?>books/094.jpg" alt="Books images" /><h5 class="card-title">संस्कृतभाषादीपिका -३</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/095"><img src="<?=IMAGE_URL?>books/095.jpg" alt="Books images" /><h5 class="card-title">ಅನುವಾದ ಪ್ರದೀಪಃ -೧</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/095"><img src="<?=IMAGE_URL?>books/095.jpg" alt="Books images" /><h5 class="card-title">अनुवादप्रदीपः -१</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/096"><img src="<?=IMAGE_URL?>books/096.jpg" alt="Books images" /><h5 class="card-title">ಅನುವಾದ ಪ್ರದೀಪಃ-೨</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/096"><img src="<?=IMAGE_URL?>books/096.jpg" alt="Books images" /><h5 class="card-title">अनुवादप्रदीपः -२</h5></a>
 					</div>
 					<!-- <div class="col-md-3 booksCollection">
 						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಕರಣ ಪ್ರದೀಪ</h5></a>
 					</div> -->
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/119"><img src="<?=IMAGE_URL?>books/119.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಕರಣ ಪ್ರದೀಪ ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯ ತರಗತಿಗಳಿಗೆ </h5></a>
+						<a href="<?=BASE_URL?>listing/toc/119"><img src="<?=IMAGE_URL?>books/119.jpg" alt="Books images" /><h5 class="card-title">व्याकरणप्रदीपः</h5></a>
 					</div>
 				</div>
 			</div>

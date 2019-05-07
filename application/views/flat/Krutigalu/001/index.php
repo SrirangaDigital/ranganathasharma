@@ -97,34 +97,34 @@
 						<a href="<?=BASE_URL?>listing/toc/055"><img src="<?=IMAGE_URL?>books/055.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಶಂಕರಚರಿತಾಮೃತಮ್</h5></a>
 					</div>	
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/087"><img src="<?=IMAGE_URL?>books/087.jpg" alt="Books images" /><h5 class="card-title">ಕಾವ್ಯೋದ್ಯಾನಮ್</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/087"><img src="<?=IMAGE_URL?>books/087.jpg" alt="Books images" /><h5 class="card-title">काव्योद्यानम्</h5></a>
 					</div>	
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/089"><img src="<?=IMAGE_URL?>books/089.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಪ್ರಥಮ ಪ್ರವೇಶ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/089"><img src="<?=IMAGE_URL?>books/089.jpg" alt="Books images" /><h5 class="card-title">संस्कृत प्रथम प्रवेशः</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/090"><img src="<?=IMAGE_URL?>books/090.jpg" alt="Books images" /><h5 class="card-title">ಭಾಷಾಂತರ ಪಾಠ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/090"><img src="<?=IMAGE_URL?>books/090.jpg" alt="Books images" /><h5 class="card-title">भाषान्तरपाठः</h5></a>
 					</div>
 					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/022"><img src="<?=IMAGE_URL?>books/022.jpg" alt="Books images" /><h5 class="card-title">ಗೀತಾಜ್ಯೋತಿ-ಸಂಪಾದಕರ ನುಡಿ-ಸ್ವರ್ಣವಲ್ಲೀ ಮಠ </h5></a>
 					</div> -->
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/088"><img src="<?=IMAGE_URL?>books/088.jpg" alt="Books images" /><h5 class="card-title">ಕುಸುಮಾಂಜಲಿಃ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/088"><img src="<?=IMAGE_URL?>books/088.jpg" alt="Books images" /><h5 class="card-title">कुसुमाञ्जलिः</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/102"><img src="<?=IMAGE_URL?>books/102.jpg" alt="Books images" /><h5 class="card-title">ಕುಕ್ಕೆಸುಬ್ರಹ್ಮಣ್ಯ ಸುಪ್ರಭಾತ </h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/103"><img src="<?=IMAGE_URL?>books/103.jpg" alt="Books images" /><h5 class="card-title">ಏಕಚಕ್ರಮ್</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/103"><img src="<?=IMAGE_URL?>books/103.jpg" alt="Books images" /><h5 class="card-title">एकचक्रम्</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/111"><img src="<?=IMAGE_URL?>books/111.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಧರ ಸ್ತುತಿ ಪುಷ್ಪಮಾಲೆ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/112"><img src="<?=IMAGE_URL?>books/112.jpg" alt="Books images" /><h5 class="card-title">ರಂಗನಾಥ ಲೇಖಮಂಜೂಷಾ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/112"><img src="<?=IMAGE_URL?>books/112.jpg" alt="Books images" /><h5 class="card-title">रङ्गनाथलेखमञ्जूषा</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/122"><img src="<?=IMAGE_URL?>books/122.jpg" alt="Books images" /><h5 class="card-title">Samskrita Shabda Chandrika</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/122"><img src="<?=IMAGE_URL?>books/122.jpg" alt="Books images" /><h5 class="card-title">शब्दचन्द्रिका</h5></a>
 					</div>
 				</div>
 			</div>
