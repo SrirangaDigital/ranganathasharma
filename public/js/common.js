@@ -18,6 +18,17 @@ $(document).ready(function() {
         $('.nav-tabs a[href="' + hash + '"]').tab('show');
     }
 
+    $('.nav-href').on('click', function(event){
+
+        var url = $(location).attr('href');
+        console.log('suresh');
+        if(url.indexOf('#') != -1){
+
+            var hash = url.substr(url.indexOf('#') - url.length, url.indexOf('#'));
+            $('.nav-tabs a[href="' + hash + '"]').tab('show');
+        }
+    });
+
     $('.dropdown-item').on('mouseenter', function(event){
 
         $( this ).css( 'background-color', '#DDEDFA' );
