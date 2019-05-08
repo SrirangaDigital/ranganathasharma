@@ -5,6 +5,10 @@ body{
 .english{
   font-family: 'Roboto', sans-serif;
 }
+.sanskrit{
+  font-family: 'Halant', sans-serif;
+  font-size: 16px;
+}
 a {
   color: #1565C0;
 }

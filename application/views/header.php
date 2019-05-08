@@ -48,6 +48,7 @@
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="https://fonts.googleapis.com/css?family=Courgette" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Halant:300&amp;subset=devanagari" rel="stylesheet">
     
     <!-- Favicon
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->

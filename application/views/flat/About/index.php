@@ -4,8 +4,8 @@
 		<a class="col-md-2 text-center nav-item nav-link" id="nav-article-tab" data-toggle="tab" href="#nav-article" role="tab" aria-controls="nav-article" aria-selected="false">ಶರ್ಮರ ಕೃತಿಗಳು</a>
 		<a class="col-md-2 text-center nav-item nav-link" id="nav-paper-article-tab" data-toggle="tab" href="#nav-paper-article" role="tab" aria-controls="nav-paper-article" aria-selected="false">ಪತ್ರಿಕಾ ವರದಿಗಳು</a>
 		<a class="col-md-2 text-center nav-item nav-link" id="nav-award-tab" data-toggle="tab" href="#nav-award" role="tab" aria-controls="nav-award" aria-selected="false">ಪ್ರಶಸ್ತಿಗಳು</a>
-		<a class="col-md-2 text-center nav-item nav-link" id="nav-sanskrit-tab" data-toggle="tab" href="#nav-sanskrit" role="tab" aria-controls="nav-sanskrit" aria-selected="false">संस्कुत</a>
-		<a class="col-md-2 text-center nav-item nav-link" id="nav-english-tab" data-toggle="tab" href="#nav-english" role="tab" aria-controls="nav-english" aria-selected="false">English</a>
+		<a class="col-md-2 text-center nav-item nav-link sanskrit" id="nav-sanskrit-tab" data-toggle="tab" href="#nav-sanskrit" role="tab" aria-controls="nav-sanskrit" aria-selected="false">संस्कुत</a>
+		<a class="col-md-2 text-center nav-item nav-link english" id="nav-english-tab" data-toggle="tab" href="#nav-english" role="tab" aria-controls="nav-english" aria-selected="false">English</a>
 	</nav>
 	<div class="tab-content about-content" id="nav-tabContent">
 		<div class="tab-pane fade show active" id="nav-about" role="tabpanel" aria-labelledby="nav-about-tab">
@@ -658,7 +658,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="tab-pane fade" id="nav-sanskrit" role="tabpanel" aria-labelledby="nav-sanskrit-tab">
+		<div class="tab-pane fade sanskrit" id="nav-sanskrit" role="tabpanel" aria-labelledby="nav-sanskrit-tab">
 			<div class="container bio">
 				<div class="row" id="viewimages">
 					<div class="col-md-12">
