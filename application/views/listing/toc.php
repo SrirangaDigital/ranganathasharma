@@ -1,7 +1,7 @@
 <div class="container dynamic-page">
 	<!-- <h6>Table of content of</h6> -->
-	<div class="row justify-content-center mt-5">
-		<div class="col-md-7 toc">
+	<div class="row justify-content-center">
+		<div class="col-md-7 toc mt-4">
 			<?php 
 				foreach ($data as $line) {
 
@@ -21,13 +21,13 @@
 				}
 			?>
 		</div>
-		<div class="col-md-2 text-center">
+		<div class="col-md-2 text-center mt-4">
 			<img src="<?=PUBLIC_URL?>images/books/<?=$bookID?>.jpg" alt="images" />
 		</div>
 		<?php
 			$copyrightDetails = $viewHelper->getcopyrightDetails($bookID);
 		?>
-		<div class="col-md-3 copyright">
+		<div class="col-md-3 copyright mt-4">
 			<dl>
 			<?php foreach ($copyrightDetails as $key => $value) { ?>
 				<dt><?=$key?></dt>

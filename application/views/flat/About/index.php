@@ -1,7 +1,7 @@
 <div class="container"><br />
 	<nav class="nav nav-tabs justify-content-around about-tabs" id="myTab" role="tablist">
 		<a class="col-md-2 text-center nav-item nav-link active" id="nav-about-tab" data-toggle="tab" href="#nav-about" role="tab" aria-controls="nav-about" aria-selected="true">ಶರ್ಮರ ಪರಿಚಯ</a>
-		<a class="col-md-2 text-center nav-item nav-link" id="nav-article-tab" data-toggle="tab" href="#nav-article" role="tab" aria-controls="nav-article" aria-selected="false">ಶರ್ಮರ ಕೃತಿಗಳು</a>
+		<a class="col-md-2 text-center nav-item nav-link" id="nav-article-tab" data-toggle="tab" href="#nav-article" role="tab" aria-controls="nav-article" aria-selected="false">ಶರ್ಮರ ಕುರಿತು</a>
 		<a class="col-md-2 text-center nav-item nav-link" id="nav-paper-article-tab" data-toggle="tab" href="#nav-paper-article" role="tab" aria-controls="nav-paper-article" aria-selected="false">ಪತ್ರಿಕಾ ವರದಿಗಳು</a>
 		<a class="col-md-2 text-center nav-item nav-link" id="nav-award-tab" data-toggle="tab" href="#nav-award" role="tab" aria-controls="nav-award" aria-selected="false">ಪ್ರಶಸ್ತಿಗಳು</a>
 		<a class="col-md-2 text-center nav-item nav-link sanskrit" id="nav-sanskrit-tab" data-toggle="tab" href="#nav-sanskrit" role="tab" aria-controls="nav-sanskrit" aria-selected="false">संस्कुत</a>
