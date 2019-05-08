@@ -943,7 +943,7 @@
 						<p>Sri. Sharma was constantly communicating his thoughts to the public through regular writings for various daily, weekly and monthly magazines. Leading an extremely fruitful life, he has contributed more than 90 texts to Sanskrit and Kannada literature, including articles, dramas, stotras, translations and much more. He took part in various scholarly meetings across the country, and was constantly engaged in the service of Goddess Sarasvati. He used to take part in assemblies of all mathas, without any distinction of caste or creed.</p>
 						<h4>Awards and Honours</h4>
 						<p>Sri. Ranganatha Sharma was an outstanding scholar. Hundreds of awards came to him in honour of his achievements. From an affectionate felicitation by the simple villagers of Nadahalli, to the President’s award, he has been the recipient of all kinds of honours. Several mathas, universities, public organisations and the Government have honoured themselves by conferring awards on him.</p>
-						<p>Sri. Sharma was born in Nadahalli, spent his student and professional life in Bangalore, and later, lived happily with his son Sadananda in Mysore. When he passed away on 25-01-2014, India lost a great pillar of knowledge. <a href="#nav-award" >more...</a></p>
+						<p>Sri. Sharma was born in Nadahalli, spent his student and professional life in Bangalore, and later, lived happily with his son Sadananda in Mysore. When he passed away on 25-01-2014, India lost a great pillar of knowledge. <a class="nav-href" href="#nav-award">more...</a></p>
 					</div>
 				</div>
 				<div class="row">
