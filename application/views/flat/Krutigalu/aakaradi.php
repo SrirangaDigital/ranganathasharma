@@ -90,7 +90,7 @@
 							<li><a href="<?=BASE_URL?>listing/toc/094">ಸಂಸ್ಕೃತ ಭಾಷಾ ದೀಪಿಕಾ - ೩</a></li>
 							<li>ಸಂಸ್ಕೃತ ಭಾಷಾಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ</li>
 							<li><a href="<?=BASE_URL?>listing/toc/091">ಸಂಸ್ಕೃತ ಶಬ್ದ ಚಂದ್ರಿಕಾ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/116">ಸಾಂಖ್ಯಕಾರಿಕಾ ಭಾಷ್ಯ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/076">ಸಾಂಖ್ಯಕಾರಿಕಾ ಭಾಷ್ಯ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/001">ಸುಭಾಷಿತ ಮಂಜರೀ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/051">ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ - ೧</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/052">ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ - ೨</a></li>
