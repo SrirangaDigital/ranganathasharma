@@ -10,6 +10,6 @@
 	<!-- Javascript calls
     –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js?v=1.2"></script>
-    <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js?v=1.3"></script>
+    <script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js?v=1.4"></script>
 </body>
 </html>
