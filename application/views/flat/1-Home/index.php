@@ -12,7 +12,7 @@
 					<div class="carousel-item active">
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel1.jpg" alt="ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
-							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ</p>
+							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ ಸಮಾರಂಭ</p>
 						</div>
 					</div>
 					<div class="carousel-item">

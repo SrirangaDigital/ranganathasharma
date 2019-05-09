@@ -1,7 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
             <div class="col-md-12 text-center">
-                <!-- <p><small>© Mysuru, INDIA</small></p> -->
+                <p><small>© ೨೦೧೯ - ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ವಿದ್ವಾನ್ ಎನ್. ರಂಗನಾಥಶರ್ಮಾ ಅಂತರ್ಜಾಲತಾಣ  ನಿರ್ಮಾಣ ಸಮಿತಿ, ಬೆಂಗಳೂರು</small></p>
             </div>
         </div>
     </div>
