@@ -15,8 +15,8 @@
 	<div class="row">
 		<div class="col-md-12 english">
 			<h2 class="text-center my-3">A note of gratitude</h2>
-			<p>We are happy to announce that our father 'Mahamahopadhyaya Sri Vidwan Dr. N. Ranganatha Sharma’s complete works has been released today for public views on the Internet.</p>
-			<p>Today happens to be our father’s birthday and Sri Jagadguru Shankaracharya’s Jayanti as well.</p>
+			<p>We are happy to announce that our father 'Mahamahopadhyaya Sri Vidwan Dr. N. Ranganatha Sharma’s complete work has been released today for public views on the Internet.</p>
+			<p>Today, Sri Jagadguru Shankaracharya’s Jayanti, happens to be our father’s birthday as well.</p>
 			<p>Our heartfelt gratitude and sincere thanks go to Sri Vidwan Dr. Ramakrishna Bhat who has been the ‘Architect’ of this grand project. Because of him, the entire literary work of our father has been immortalized in its original form. The version present in this website has been proof-read by our father himself.</p>
 			<p class="text-right">May 9, 2019</p>
 		</div>
