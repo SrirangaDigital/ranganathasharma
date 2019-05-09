@@ -45,13 +45,13 @@
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg" />
-									<figcaption>ಶಿಷ್ಯರೊಡಗೂಡಿದ ಪ್ರೀತಿಯ ನಾಯಿಯೊಂದಿಗೆ</figcaption>
+									<figcaption>ಶಿಷ್ಯಪರಂಪರೆಯೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು.</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg" />
-									<figcaption>ಮೊಮ್ಮಗ ಅಭಿರಾಮನಿಗೆ ಸಂಧ್ಯಾವಂದನೆ ಪಾಠ</figcaption>
+									<figcaption>ಆಪ್ತಶಿಷ್ಯ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಜಿ.ಮಹಾಬಲೇಶ್ವರ ಭಟ್ಟರೊಂದಿಗೆ</figcaption>
 								</figure>
 							</div>
 						</div>
@@ -418,6 +418,12 @@
 				</div>
 				<div class="col-md-3 text-center">
 					<figure>
+						<img class="img-fluid" data-original="" src="http://advaitasharada.sringeri.net/public/images/logo-circle.png" alt="ದಕ್ಷಿಣಾಮ್ನಾಯ ಶ್ರೀ ಶಾರದಾಪೀಠ ಶೃಂಗೇರಿಯಿಂದ ಸ್ವರ್ಣಾಂಗುಲೀಯಕ ಅನುಗ್ರಹ – ೨೦೦೬" />
+						<figcaption>ದಕ್ಷಿಣಾಮ್ನಾಯ ಶ್ರೀ ಶಾರದಾಪೀಠ ಶೃಂಗೇರಿಯಿಂದ ಸ್ವರ್ಣಾಂಗುಲೀಯಕ ಅನುಗ್ರಹ – ೨೦೦೬</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-3 text-center">
+					<figure>
 						<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/015.jpg" src="<?=IMAGE_URL?>awards/thumbs/015.jpg" alt="ಸಮ್ಮಾನ – ವೈಯಾಕರಣಸಮಾವೇಶಸಂಚಾಲನಸಮಿತಿ, ಬೆಂಗಳೂರು – ೮-೧೦-೨೦೦೬" />
 						<figcaption>सम्माननम् – वैयाकरणसमावेशसञ्चालनसमितिः, बेङ्गलूरु – ८।१०।२००६</figcaption>
 					</figure>
@@ -688,13 +694,13 @@
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg" />
-									<figcaption>शिष्यैः समावृतः प्रीतिपात्रशुनकेन सहितश्च</figcaption>
+									<figcaption>रङ्गनाथशर्मणां शिष्यसमूहः</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg" />
-									<figcaption>पौत्रस्य अभिरामस्य सन्ध्यावन्दनपाठः</figcaption>
+									<figcaption>प्रियशिष्यमहबलेश्वरभट्टैः सह</figcaption>
 								</figure>
 							</div>
 						</div>
@@ -911,13 +917,13 @@
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg" />
-									<figcaption>With his disciples and beloved dog</figcaption>
+									<figcaption>With his disciples</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg" />
-									<figcaption>Teaching Sandhyavandana to grandson Abhirama</figcaption>
+									<figcaption>With Asthana Vidwan Sri G. Mahabaleshwara Bhat</figcaption>
 								</figure>
 							</div>
 						</div>

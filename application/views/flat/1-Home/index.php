@@ -12,19 +12,19 @@
 					<div class="carousel-item active">
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel1.jpg" alt="ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
-							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ ಸಮಾರಂಭ</p>
+							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ</p>
 						</div>
 					</div>
 					<div class="carousel-item">
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel2.jpg" alt="ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿ ಡಾ|| ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
-							<p class="caption-content">ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿ ಡಾ॥ ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು</p>
+							<p class="caption-content">ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿಗಳಾದ ಡಾ॥ ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು</p>
 						</div>
 					</div>
 					<div class="carousel-item">
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel3.jpg" alt="ಡಿ.ವಿ.ಜಿ. ಬಳಗದಿಂದ ಸಮ್ಮಾನ">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
-							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ</p>
+							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ</p>
 						</div>
 					</div>
 					<div class="carousel-item">

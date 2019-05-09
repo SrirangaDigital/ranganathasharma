@@ -88,6 +88,12 @@
 		</div>
 		<div class="col-md-3 text-center">
 			<figure>
+				<img class="img-fluid" data-original="" src="http://advaitasharada.sringeri.net/public/images/logo-circle.png" alt="ದಕ್ಷಿಣಾಮ್ನಾಯ ಶ್ರೀ ಶಾರದಾಪೀಠದಿಂದ ಸ್ವರ್ಣಾಂಗುಲೀಯಕ ಅನುಗ್ರಹ" />
+				<figcaption>ದಕ್ಷಿಣಾಮ್ನಾಯ ಶ್ರೀ ಶಾರದಾಪೀಠದಿಂದ ಸ್ವರ್ಣಾಂಗುಲೀಯಕ ಅನುಗ್ರಹ</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
 				<img class="img-fluid" data-original="<?=IMAGE_URL?>awards/main/015.jpg" src="<?=IMAGE_URL?>awards/thumbs/015.jpg" alt="ಸಮ್ಮಾನ – ವೈಯಾಕರಣಸಮಾವೇಶಸಂಚಾಲನಸಮಿತಿ, ಬೆಂಗಳೂರು – ೮-೧೦-೨೦೦೬" />
 				<figcaption>ಸಮ್ಮಾನ – ವೈಯಾಕರಣಸಮಾವೇಶಸಂಚಾಲನಸಮಿತಿ, ಬೆಂಗಳೂರು – ೮-೧೦-೨೦೦೬</figcaption>
 			</figure>
