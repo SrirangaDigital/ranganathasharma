@@ -94,6 +94,9 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=PUBLIC_URL?>pdf/117.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/117.jpg" alt="Books images" /><h5 class="card-title">ಒಂದು ಚಿಂತನೆ</h5></a>
 					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/021"><img src="<?=IMAGE_URL?>books/021.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣಮ್</h5></a>
+					</div>
 					<!-- <div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/123"><img src="<?=IMAGE_URL?>books/123.jpg" alt="Books images" /><h5 class="card-title">ವಿದ್ವಾನ್. ಶ್ರೀ ನಡಹಳ್ಳಿ ರಂಗನಾಥಶರ್ಮ</h5></a>
 					</div>

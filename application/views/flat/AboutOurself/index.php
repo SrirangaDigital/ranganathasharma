@@ -15,10 +15,16 @@
 	<div class="row">
 		<div class="col-md-12 english">
 			<h2 class="text-center my-3">A note of gratitude</h2>
+		</div>
+		<div class="col-md-6 english">
 			<p>We are happy to announce that our father 'Mahamahopadhyaya Sri Vidwan Dr. N. Ranganatha Sharma’s complete work has been released today for public views on the Internet.</p>
 			<p>Today, Sri Jagadguru Shankaracharya’s Jayanti, happens to be our father’s birthday as well.</p>
 			<p>Our heartfelt gratitude and sincere thanks go to Sri Vidwan Dr. Ramakrishna Bhat who has been the ‘Architect’ of this grand project. Because of him, the entire literary work of our father has been immortalized in its original form. The version present in this website has been proof-read by our father himself.</p>
 			<p class="text-right">Proud children<br />May 9, 2019</p>
+		</div>
+		<div class="col-md-6 english">
+			<p>Dr. K. Ramakrishna Bhat, is my father's student's student. He had been in constant touch with my father during his lifetime. He had coined the idea of bringing all my father's works on website. My father has given him a written consent for doing it. I am happy to inform that Dr. Bhat's hard work has fructified today. The web site has been launched today to coincide with my father's birthday.</p>
+			<p class="text-right">N. R. Sadananda<br />Eldest Son<br />May 9, 2019</p>
 		</div>
 	</div>
 	<div class="row mt-4" id="contact">

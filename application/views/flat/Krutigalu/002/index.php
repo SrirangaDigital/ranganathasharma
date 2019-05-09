@@ -109,9 +109,6 @@
 								<a href="<?=BASE_URL?>listing/toc/054"><img src="<?=IMAGE_URL?>books/054.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣ</h5></a>
 							</div>
 							<div class="col-md-3 booksCollection">
-								<a href="<?=BASE_URL?>listing/toc/021"><img src="<?=IMAGE_URL?>books/021.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣಮ್</h5></a>
-							</div>
-							<div class="col-md-3 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/105"><img src="<?=IMAGE_URL?>books/105.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀದೇವೀ ಸ್ತೋತ್ರಮಾಲಾ</h5></a>
 							</div>
 						</div>

@@ -32,7 +32,7 @@
 							<li><a href="<?=BASE_URL?>listing/toc/057">ಮಾಧವೀಯ ಶಂಕರ ದಿಗ್ವಿಜಯ - ೧</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/058">ಮಾಧವೀಯ ಶಂಕರ ದಿಗ್ವಿಜಯ - ೨</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/028">ಮಾನವ ಧರ್ಮಶಾಸ್ತ್ರ ಮತ್ತು ಮಹಿಳೆ</a></li>
-							<li>ಯುಗ ಪುರುಷ ಶಂಕರ</li>
+							<li><a href="<?=BASE_URL?>listing/toc/027">ಯುಗ ಪುರುಷ ಶಂಕರ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/112">ರಂಗನಾಥ ಲೇಖಮಂಜೂಷಾ (ಸಂಸ್ಕೃತ ಲೇಖನಗಳ ಸಂಗ್ರಹ) </a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/085">ರಾಘವಾಂಕನ ಹರಿಶ್ಚಂದ್ರ ಚರಿತೆ</a></li>
 						</ul>
@@ -42,9 +42,9 @@
 							<li><a href="<?=BASE_URL?>listing/toc/043">ಲಕ್ಷ್ಮೀ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/119">ವ್ಯಾಕರಣ ಪ್ರದೀಪ </a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/030">ವ್ಯಾಕರಣ ಶಾಸ್ತ್ರದ ಪರಿವಾರ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/050">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/050">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಕ)</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/097">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಸಂ)</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/026">ವ್ಯಾಸ ರಹಸ್ಯ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/098">ವ್ಯಾಸತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/035">ವರದ ಪುರದ ವರದ ಯೋಗಿ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/045">ವರದಹಳ್ಳಿ ಶ್ರೀಧರಸ್ವಾಮಿಗಳು</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/041">ವಸಿಷ್ಠ</a></li>
@@ -58,21 +58,23 @@
 							<li><a href="<?=BASE_URL?>listing/toc/125">ಶ್ರೀ ಭಗವನ್ನಾಮಾವಲಿಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/083">ಶ್ರೀಗೀತಾರ್ಥ ಪ್ರಕಾಶ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/072">ಶ್ರೀಗುರುಪರಂಪರಾ ಚರಿತಮ್</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/069">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ಏಕಾದಶ - ದ್ವಾದಶ ಸ್ಕಂಧ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/068">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ದಶಮಸ್ಕಂಧಃ ಉತ್ತರಾರ್ಧ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/067">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ದಶಮಸ್ಕಂಧಃ ಪೂರ್ವಾರ್ಧ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/068">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ದಶಮಸ್ಕಂಧಃ ಉತ್ತರಾರ್ಧ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/069">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ಏಕಾದಶ - ದ್ವಾದಶ ಸ್ಕಂಧಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/059">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಬಾಲ ಕಾಂಡ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/060">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಅಯೋಧ್ಯಾಕಾಂಡ - ೧</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/060">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಅಯೋಧ್ಯಾಕಾಂಡ-೧</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/061">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಅಯೋಧ್ಯಾಕಾಂಡ-೨</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/062">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಅರಣ್ಯ ಕಾಂಡ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/066">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಉತ್ತರ ಕಾಂಡ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/063">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಕಿಷ್ಕಿಂಧಾ ಕಾಂಡ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/124">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಸುಂದರ ಕಾಂಡ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/064">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಯುದ್ಧಕಾಂಡ - ೧</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/065">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಯುದ್ಧಕಾಂಡ - ೨</a></li>
 						</ul>
 					</div>
 					<div class="col-md-4">
 						<ul>
-							<li><a href="<?=BASE_URL?>listing/toc/124">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಸುಂದರ ಕಾಂಡ</a></li>
+							
+							<li><a href="<?=BASE_URL?>listing/toc/066">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿರಾಮಾಯಣ ಉತ್ತರ ಕಾಂಡ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/086">ಶ್ರೀರಾಮ ಕಥಾವೈಭವಮ್</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/032">ಶ್ರೀರಾಮಕಥಾ ಮಂಜರಿ</a></li>
 							<li>ಶ್ರೀರಾಮಚಂದ್ರ</li>
@@ -91,7 +93,7 @@
 							<li>ಸಂಸ್ಕೃತ ಭಾಷಾಶಾಸ್ತ್ರ ಮತ್ತು ಸಾಹಿತ್ಯ ಚರಿತ್ರೆ</li>
 							<li><a href="<?=BASE_URL?>listing/toc/091">ಸಂಸ್ಕೃತ ಶಬ್ದ ಚಂದ್ರಿಕಾ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/076">ಸಾಂಖ್ಯಕಾರಿಕಾ ಭಾಷ್ಯ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/001">ಸುಭಾಷಿತ ಮಂಜರೀ</a></li>
+							<li>ಸುಭಾಷಿತ ಮಂಜರೀ</li>
 							<li><a href="<?=BASE_URL?>listing/toc/051">ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ - ೧</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/052">ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ - ೨</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/053">ಸೂಕ್ತಿ ವ್ಯಾಪ್ತಿ ಭಾಗ - ೩</a></li>
