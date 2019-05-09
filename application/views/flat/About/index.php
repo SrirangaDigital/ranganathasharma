@@ -44,13 +44,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg" />
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg?v=1.0" />
 									<figcaption>ಶಿಷ್ಯಪರಂಪರೆಯೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು.</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg" />
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg?v=1.0" />
 									<figcaption>ಆಪ್ತಶಿಷ್ಯ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಆಸ್ಥಾನ ವಿದ್ವಾನ್ ಜಿ.ಮಹಾಬಲೇಶ್ವರ ಭಟ್ಟರೊಂದಿಗೆ</figcaption>
 								</figure>
 							</div>
@@ -693,13 +693,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg" />
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg?v=1.0" />
 									<figcaption>रङ्गनाथशर्मणां शिष्यसमूहः</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg" />
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg?v=1.0" />
 									<figcaption>प्रियशिष्यमहबलेश्वरभट्टैः सह</figcaption>
 								</figure>
 							</div>
@@ -916,13 +916,13 @@
 						<div class="row">
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg" />
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>career1.jpg?v=1.0" />
 									<figcaption>With his disciples</figcaption>
 								</figure>
 							</div>
 							<div class="col-md-6">
 								<figure class="text-center">
-									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg" />
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>career2.jpg?v=1.0" />
 									<figcaption>With Asthana Vidwan Sri G. Mahabaleshwara Bhat</figcaption>
 								</figure>
 							</div>
