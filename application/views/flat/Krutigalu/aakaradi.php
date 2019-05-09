@@ -22,7 +22,7 @@
 							<li><a href="<?=BASE_URL?>listing/toc/042">ನಾರದ </a></li>
 							<li>ನಾಲ್ವರು ಸಹೋದರರು</li>
 							<li><a href="<?=BASE_URL?>listing/toc/031">ಪಂಚದಶೀ ಪ್ರವಚನ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/039">ಪ್ರಜ್ಞಾರಂಗ (ಕನ್ನಡ ಲೇಖನಗಳ ಸಂಗ್ರಹ)</a></li>
+							<li>ಪ್ರಜ್ಞಾರಂಗ (ಕನ್ನಡ ಲೇಖನಗಳ ಸಂಗ್ರಹ)</li>
 							<li><a href="<?=BASE_URL?>listing/toc/081">ಪ್ರಾರ್ಥನಾ ಶ್ಲೋಕಗಳು</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/039">ಪುರಾಣಗಳ ನೆಲೆ ತತ್ತ್ವ ವಿಚಾರ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/003">ಬೋಧಾಯನೀಯ ಸಂಕ್ಷಿಪ್ತ ಧಾರ್ಮಿಕ ವಿಧಿ</a></li>
