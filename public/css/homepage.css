@@ -71,6 +71,9 @@ a {
 .bio h2, .bio h4{
   color: #1565C0;
 }
+#viewimages img{
+  cursor: pointer;
+}
 .bio, .feedback{
   padding: 10px;
   line-height: 1.5em;

@@ -1,4 +1,4 @@
-<div class="container"><br />
+<div class="container" id="viewimages"><br />
 	<nav class="nav nav-tabs justify-content-around about-tabs" id="myTab" role="tablist">
 		<a class="col-md-2 text-center nav-item nav-link active" id="nav-about-tab" data-toggle="tab" href="#nav-about" role="tab" aria-controls="nav-about" aria-selected="true">ಶರ್ಮರ ಪರಿಚಯ</a>
 		<a class="col-md-2 text-center nav-item nav-link" id="nav-article-tab" data-toggle="tab" href="#nav-article" role="tab" aria-controls="nav-article" aria-selected="false">ಶರ್ಮರ ಕುರಿತು</a>
@@ -11,7 +11,7 @@
 		<div class="tab-pane fade show active" id="nav-about" role="tabpanel" aria-labelledby="nav-about-tab">
 			<!-- about -->
 			<div class="container bio">
-				<div class="row" id="viewimages">
+				<div class="row">
 					<div class="col-md-12">
 						<h2 class="text-center my-3">ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ವಿದ್ವಾನ್ ಎನ್ ರಂಗನಾಥಶರ್ಮಾ</h2>
 						<p>ಪುಣ್ಯಭೂಮಿ – ತಪೋಭೂಮಿ –ಕರ್ಮಭೂಮಿಯೆನಿಸಿದ ಭರತಭೂಮಿಯಲ್ಲಿ ಅದೆಷ್ಟೋ ಜ್ಞಾನಿಗಳು, ವಿಜ್ಞಾನಿಗಳು, ಅವಧೂತರು, ತಪಸ್ವಿಗಳು, ಸಾಧಕರು, ವಿದ್ವಾಂಸರು, ಪುಣ್ಯಾತ್ಮರು ಅವತರಿಸಿ ಜಗಕುಪಕರಿಸಿ ಬದುಕನ್ನು ಸಾರ್ಥಕವನ್ನಾಗಿಸಿದ್ದಾರೆ. ಇಂತಹ ಪರಂಪರೆಯಲ್ಲಿ ಅವತರಿಸಿದ ಸಾಧಕೋತ್ತಮ ವಿದ್ವಾಂಸರು ವಿದ್ವಾನ್ ಎನ್ ರಂಗನಾಥಶರ್ಮರು. ಸಹೃದಯತೆ-ಸದ್ಗುಣ-ಪಾಂಡಿತ್ಯಗಳ ಸಂಗಮಕ್ಕೊಂದು ಉತ್ತಮ ಉದಾಹರಣೆಯೆಂದರೆ ಶ್ರೀಯುತ ಶರ್ಮರು. ಭಾರತದೇಶದ ನೈಋತ್ಯ ಭಾಗದಲ್ಲಿ ದೇಶದ ಯಜಮಾನನೋ ಎಂಬಂತೆ ರಾರಾಜಿಸುತ್ತಿರುವ ರಾಜ್ಯವಾದ ಕರ್ನಾಟಕದಲ್ಲಿ ಮಲೆನಾಡಿನಿಂದಲೇ ಪ್ರಸಿದ್ಧಿಯನ್ನು ಹೊಂದಿದ ಶಿವಮೊಗ್ಗ ಜಿಲ್ಲೆಯ ಸೊರಬ ತಾಲ್ಲೂಕಿನ ನಡಹಳ್ಳಿಯು ಇವರ ಜನ್ಮಸ್ಥಳ. ಭಗವತ್ಪಾದಶಂಕರಾಚಾರ್ಯರು ಜಗಕವತರಿಸಿದ ಪರಮಪವಿತ್ರದಿನವಾದ ವೈಶಾಖಶುದ್ಧ ಪಂಚಮಿಯಂದು ಹಾಗೂ ಮರ್ಯಾದಾ ಪುರುಷೋತ್ತಮನಾದ ಶ್ರೀರಾಮಚಂದ್ರನು ಆವಿರ್ಭವಿಸಿದ ಪುಣ್ಯನಕ್ಷತ್ರವಾದ ಪುನರ್ವಸು ನಕ್ಷತ್ರದಲ್ಲಿ ಶ್ರೀಮತಿ ಜಾನಕಮ್ಮ ತಿಮ್ಮಪ್ಪ ದಂಪತಿಗಳ ಸುಪುತ್ರರಾಗಿ <a href="<?=BASE_URL?>About/birthInfo">೦೭-೦೪-೧೯೧೬<span class="english">(?)</span><sup>*</sup></a> ರಂದು ಜನಿಸಿದರು. ವಿಶ್ವಾಮಿತ್ರ ಗೋತ್ರದ ಬೋಧಾಯನ ಸೂತ್ರದ ಯಜುರ್ವೇದಿಗಳಾದ ಶ್ರೀಯುತರು ಜಗದ್ಗುರು ಶಂಕರಾಚಾರ್ಯ ಮಹಾಸಂಸ್ಥಾನಮ್ – ಶ್ರೀಸಂಸ್ಥಾನ ಗೋಕರ್ಣ – ಶ್ರೀರಾಮಚಂದ್ರಾಪುರ ಮಠದ ಪಾರಂಪರಿಕ ಶಿಷ್ಯಪರಂಪರೆಗೆ ಸೇರಿದ ಸ್ಮಾರ್ತ ಬ್ರಾಹ್ಮಣ ಪಂಗಡಗಳಲ್ಲೊಂದಾದ ಹವ್ಯಕ ಪಂಗಡಕ್ಕೆ ಸೇರಿದವರು.</p>
@@ -330,7 +330,7 @@
 			</div>
 		</div>
 		<div class="tab-pane fade" id="nav-award" role="tabpanel" aria-labelledby="nav-award-tab">
-			<div class="row" id="viewimages">
+			<div class="row">
 				<div class="col-md-12 text-center my-3 bio"><h2>ಪ್ರಶಸ್ತಿಗಳು ಮತ್ತು ಸಮ್ಮಾನಗಳು</h2></div>
 				<div class="col-md-3 text-center">
 					<figure>
@@ -666,7 +666,7 @@
 		</div>
 		<div class="tab-pane fade sanskrit" id="nav-sanskrit" role="tabpanel" aria-labelledby="nav-sanskrit-tab">
 			<div class="container bio">
-				<div class="row" id="viewimages">
+				<div class="row">
 					<div class="col-md-12">
 						<h2 class="text-center my-3">महामहोपाध्यायः विद्वान् न.रङ्गनाथशर्मा</h2>
 						<p>सहृदयता, सद्गुणाः, पाण्डित्यमित्येतेषाम् अपूर्वः समवायः श्रीरङ्गनाथशर्माणः। भारतदेशस्य नैरृत्त्यदिग्भागे कर्णाटकेषु शिवमोग्गमण्डलस्य सोरब-उपमण्डलस्य नडहल्लिग्रामः रङ्गनाथशर्मणां जन्मस्थलम्। भगवत्पादशङ्कराचार्याणाम् अवतारतिथौ परमपवित्रायां वैशाखशुद्धपञ्चम्यां मर्यादापुरुषोत्तमस्य श्रीरामचन्द्रस्य जन्मनक्षत्रे पुनर्वसुनक्षत्रे श्रीमती जानकम्मा, श्रीमान् तिम्मप्पः – इत्येतयोः दम्पत्योः पुत्रत्वेन अवतीर्णाः श्रीरङ्गनाथशर्माणः (07.04.1916). विश्वमित्रगोत्रोद्भवाः, बोधायनसूत्राध्यायिनः, यजुर्वेदिनः, श्रीरङ्गनाथशर्माणः जगद्गुरुशङ्कराचार्यमहासंस्थानं, गोकर्णश्रीरामचन्द्रापुरमठस्य शिष्यपरम्परायां हव्यक – नामके स्मार्तब्राह्मणसमुदाये जन्म प्राप्तवन्तः।</p>
@@ -889,7 +889,7 @@
 		<div class="tab-pane fade english" id="nav-english" role="tabpanel" aria-labelledby="nav-english-tab">
 			<!-- about -->
 			<div class="container bio">
-				<div class="row" id="viewimages">
+				<div class="row">
 					<div class="col-md-12">
 						<h2 class="text-center my-3">Mahamahopadhyaya Vidwan N Ranganathasharma</h2>
 						<p>Bharata is famed as the land of punya (merit), tapas (penance) and karma (action). Innumerable intellectuals, scientists, ascetics, devout seers and scholars have taken birth here, and led fruitful lives dedicated to the welfare of the world. Venerable scholar Vid. N Ranganatha Sharma was born in this great lineage. He was a confluence of scholarship, virtues and a kind heart. He was born in the village of Nadahalli, located in the Soraba Taluk of Shimoga district, in the state of Karnataka. Sri. Sharma was born to Smt. Jaanakamma and Sri. Timmappa on 7th April 1916. That was Vaishaakha Shuddha Panchami – the auspicious day when Bhagavatpaada Shankaraachaarya incarnated on Earth. The star was Punarvasu, the birth-star of Srirama. Sri Sharma was a Yajurvedin of Vishvaamitra Gotra and Bodhaayana Sutra. He belonged to the Havyaka community of Smaarta Brahmins hailing from the lineage of disciples of Jagadguru Shankaracharya Mahasamsthanam – Srisamsthana Gokarna – Sri Ramachandrapura Matha.</p>

@@ -1,5 +1,5 @@
 <div class="container gallery">
-	<div class="row pt-5" id="viewimages">
+	<div class="row pt-5">
 		<div class="col-md-12 text-center my-3 bio">
 			<h2>ಧ್ವನಿಸುರುಳಿ</h2>
 			<p>ಶರ್ಮರ ಕೆಲವು ರಚೆನಗಳು - ಡಾ॥ ಭಾರತೀಯವರ ಧ್ವನಿಯಲ್ಲಿ</p>
@@ -30,8 +30,6 @@
 					<i class="far fa-file-audio fa-4x"></i>
 					<p>ವಾಗ್ದೇವತಾ ಸ್ತುತಿಃ</p>
 				</a>
-			</div>
-			<div class="row justify-content-center">
 			</div>
 		</div>
 	</div>
