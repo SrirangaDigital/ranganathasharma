@@ -6,6 +6,8 @@
 					<li data-target="#carousel" data-slide-to="0" class="active"></li>
 					<li data-target="#carousel" data-slide-to="1"></li>
 					<li data-target="#carousel" data-slide-to="2"></li>
+					<li data-target="#carousel" data-slide-to="4"></li>
+					<li data-target="#carousel" data-slide-to="5"></li>
 					<li data-target="#carousel" data-slide-to="3"></li>
 				</ol>
 				<div class="carousel-inner">
@@ -25,6 +27,18 @@
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel3.jpg" alt="ಡಿ.ವಿ.ಜಿ. ಬಳಗದಿಂದ ಸಮ್ಮಾನ">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಸಂಸ್ಕೃತ ಗ್ರಂಥ ಪುರಸ್ಕಾರ</p>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel5.jpg" alt="">
+						<div class="carousel-caption pos-2-3-left scheme-dark">
+							<p class="caption-content">ಎಡ: ರಾಷ್ಟ್ರದ ಅತ್ಯುತ್ತಮ ಶಿಕ್ಷಕ ಪ್ರಶಸ್ತಿ ಸ್ವೀಕರಿಸುವ ಸಂದರ್ಭ.<br />ಬಲ: ಗೌರವಾನ್ವಿತ ಶಂಕರದಯಾಳ್ ಶರ್ಮಾರವರಿಂದ ರಾಷ್ಟ್ರಪತಿ ಪ್ರಶಸ್ತಿ ಸ್ವೀಕರಿಸುವ ಸಂದರ್ಭ</p>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel6.jpg" alt="">
+						<div class="carousel-caption pos-2-3-left scheme-dark">
+							<p class="caption-content">ರಾಷ್ಟ್ರಿಯ ಸಂಸ್ಕೃತ ವಿದ್ಯಾಪೀಠ ತಿರುಪತಿಯಿಂದ ಮಹಾಮಹೋಪಾಧ್ಯಾಯ ಪ್ರಶಸ್ತಿ ಪ್ರದಾನ</p>
 						</div>
 					</div>
 					<div class="carousel-item">
