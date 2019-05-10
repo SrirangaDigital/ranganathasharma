@@ -66,9 +66,8 @@
 							<li><a href="<?=BASE_URL?>listing/toc/046">ವೀರ ಕಂಪಣರಾಯ</a></li>
 							<li>ವೇದ - ವೇದಾಂತ</li>
 							<li><a href="<?=BASE_URL?>listing/toc/030">ವ್ಯಾಕರಣಶಾಸ್ತ್ರದ ಪರಿವಾರ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/050">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಕ)</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/050">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/026">ವ್ಯಾಸ ರಹಸ್ಯ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/098">ವ್ಯಾಸತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಕ)</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/083">ಶ್ರೀ ಗೀತಾರ್ಥ ಪ್ರಕಾಶ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/125">ಶ್ರೀ ಭಾಗವನ್ನಾಮಾವಲಿಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/118">ಶ್ರೀ ರಾಮಕರ್ಣಾಮೃತಮ್</a></li>
@@ -78,9 +77,10 @@
 							<li><a href="<?=BASE_URL?>listing/toc/072">ಶ್ರೀಗುರುಪರಂಪರಾ ಚರಿತಮ್</a></li>
 							<li>ಶ್ರೀಚಾಮರಾಜೋಕ್ತಿವಿಲಾಸ ಕನ್ನಡ ರಾಮಾಯಣ</li>
 							<li><a href="<?=BASE_URL?>listing/toc/105">ಶ್ರೀದೇವೀ ಸ್ತೋತ್ರಮಾಲಾ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/069">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ಏಕಾದಶ - ದ್ವಾದಶ ಸ್ಕಂಧಃ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/068">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ದಶಮಸ್ಕಂಧಃ ಉತ್ತರಾರ್ಧ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/067">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ದಶಮಸ್ಕಂಧಃ ಪೂರ್ವಾರ್ಧ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/068">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ದಶಮಸ್ಕಂಧಃ ಉತ್ತರಾರ್ಧ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/069">ಶ್ರೀಮದ್ಭಾಗವತಮ್ - ಏಕಾದಶ - ದ್ವಾದಶ ಸ್ಕಂಧಃ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/059">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಬಾಲಕಾಂಡಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/060">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಅಯೋಧ್ಯಾಕಾಂಡಃ - ೧</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/061">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಅಯೋಧ್ಯಾಕಾಂಡಃ - ೨</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/062">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಅರಣ್ಯಕಾಂಡಃ</a></li>
@@ -88,12 +88,11 @@
 					</div>
 					<div class="col-md-4">
 						<ul>
-							<li><a href="<?=BASE_URL?>listing/toc/066">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಉತ್ತರಕಾಂಡಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/063">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಕಿಷ್ಕಿಂಧಾ ಕಾಂಡಃ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/059">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಬಾಲಕಾಂಡಃ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/124">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಸುಂದರಕಾಂಡಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/064">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಯುದ್ಧಕಾಂಡಃ-೧</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/065">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಯುದ್ಧಕಾಂಡಃ-೨</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/124">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಸುಂದರಕಾಂಡಃ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/066">ಶ್ರೀಮದ್ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣಮ್ ಉತ್ತರಕಾಂಡಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/086">ಶ್ರೀರಾಮ ಕಥಾ ವೈಭವಮ್</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/032">ಶ್ರೀರಾಮಕಥಾ ಮಂಜರಿ</a></li>
 							<li>ಶ್ರೀರಾಮಚಂದ್ರ</li>

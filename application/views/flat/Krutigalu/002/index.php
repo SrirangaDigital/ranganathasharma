@@ -75,7 +75,7 @@
 								<a href="<?=BASE_URL?>listing/toc/082"><img src="<?=IMAGE_URL?>books/082.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರುತಿಸಾರಸಮುದ್ಧರಣಮ್</h5></a>
 							</div>
 							<div class="col-md-3 booksCollection">
-								<a href="<?=BASE_URL?>listing/toc/050"><img src="<?=IMAGE_URL?>books/050.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ (ಕ)</h5></a>
+								<a href="<?=BASE_URL?>listing/toc/050"><img src="<?=IMAGE_URL?>books/050.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</h5></a>
 							</div>
 							<div class="col-md-3 booksCollection">
 								<a href="<?=BASE_URL?>listing/toc/057"><img src="<?=IMAGE_URL?>books/057.jpg" alt="Books images" /><h5 class="card-title">ಮಾಧವೀಯ ಶಂಕರ ದಿಗ್ವಿಜಯ - ೧</h5></a>
