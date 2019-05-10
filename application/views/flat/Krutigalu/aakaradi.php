@@ -104,9 +104,6 @@
 							<li><a href="<?=BASE_URL?>listing/toc/029">ಹೊಸಗನ್ನಡ ವ್ಯಾಕರಣ</a></li>
 						</ul>
 					</div>
-					<div class="col-md-4">
-						
-					</div>
 				</div>
 			</div>
 		</div>
