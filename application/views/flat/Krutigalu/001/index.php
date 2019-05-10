@@ -19,7 +19,7 @@
 						<a href="<?=BASE_URL?>listing/toc/045"><img src="<?=IMAGE_URL?>books/045.jpg" alt="Books images" /><h5 class="card-title">ವರದಹಳ್ಳಿ ಶ್ರೀಧರಸ್ವಾಮಿಗಳು</h5></a>
 					</div>					
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/046"><img src="<?=IMAGE_URL?>books/046.jpg" alt="Books images" /><h5 class="card-title">ವೀರಕಂಪಣರಾಯ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/046"><img src="<?=IMAGE_URL?>books/046.jpg" alt="Books images" /><h5 class="card-title">ವೀರ ಕಂಪಣರಾಯ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/048"><img src="<?=IMAGE_URL?>books/048.jpg" alt="Books images" /><h5 class="card-title">ಸಂದರ್ಭ ಸೂಕ್ತಿ</h5></a>
@@ -31,16 +31,16 @@
 						<a href="<?=BASE_URL?>listing/toc/034"><img src="<?=IMAGE_URL?>books/034.jpg" alt="Books images" /><h5 class="card-title">ವಾಲ್ಮೀಕಿ ರಾಮಾಯಣದ ನಾಲ್ಕು ಪಾತ್ರಗಳು</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/025"><img src="<?=IMAGE_URL?>books/025.jpg" alt="Books images" /><h5 class="card-title">ವಾಲ್ಮೀಕಿ ಮುನಿಗಳ ಹಾಸ್ಯ ಪ್ರವೃತ್ತಿ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/025"><img src="<?=IMAGE_URL?>books/025.jpg" alt="Books images" /><h5 class="card-title">ವಾಲ್ಮೀಕಿ ಮುನಿಗಳ ಹಾಸ್ಯಪ್ರವೃತ್ತಿ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/033"><img src="<?=IMAGE_URL?>books/033.jpg" alt="Books images" /><h5 class="card-title">ವಾಲಿವಧಪ್ರಸಂಗ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/033"><img src="<?=IMAGE_URL?>books/033.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ವಾಲಿವಧ ಪ್ರಸಂಗ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/026"><img src="<?=IMAGE_URL?>books/026.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಸ ರಹಸ್ಯ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/027"><img src="<?=IMAGE_URL?>books/027.jpg" alt="Books images" /><h5 class="card-title">ಯುಗ ಪುರುಷ ಶಂಕರ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/027"><img src="<?=IMAGE_URL?>books/027.jpg" alt="Books images" /><h5 class="card-title">ಯುಗಪುರುಷ ಶಂಕರ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/032"><img src="<?=IMAGE_URL?>books/032.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀರಾಮಕಥಾ ಮಂಜರಿ</h5></a>
@@ -52,29 +52,23 @@
 						<a href="<?=BASE_URL?>listing/toc/037"><img src="<?=IMAGE_URL?>books/037.jpg" alt="Books images" /><h5 class="card-title">ದಿವ್ಯಜ್ಯೋತಿ ಶಂಕರ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/030"><img src="<?=IMAGE_URL?>books/030.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಕರಣ ಶಾಸ್ತ್ರದ ಪರಿವಾರ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/030"><img src="<?=IMAGE_URL?>books/030.jpg" alt="Books images" /><h5 class="card-title">ವ್ಯಾಕರಣಶಾಸ್ತ್ರದ ಪರಿವಾರ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/028"><img src="<?=IMAGE_URL?>books/028.jpg" alt="Books images" /><h5 class="card-title">ಮಾನವ ಧರ್ಮಶಾಸ್ತ್ರ ಮತ್ತು ಮಹಿಳೆ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/028"><img src="<?=IMAGE_URL?>books/028.jpg" alt="Books images" /><h5 class="card-title">ಮಾನವ ಧರ್ಮಶಾಸ್ತ್ರ ಮತ್ತು ಮಹಿಳೆಯರು</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/035"><img src="<?=IMAGE_URL?>books/035.jpg" alt="Books images" /><h5 class="card-title">ವರದ ಪುರದ ವರದ ಯೋಗಿ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/035"><img src="<?=IMAGE_URL?>books/035.jpg" alt="Books images" /><h5 class="card-title">ವರದಪುರದ ವರದಯೋಗಿ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/038"><img src="<?=IMAGE_URL?>books/038.jpg" alt="Books images" /><h5 class="card-title">ಆಸ್ತಿಕ ಪರ್ವ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/038"><img src="<?=IMAGE_URL?>books/038.jpg" alt="Books images" /><h5 class="card-title">ಆಸ್ತಿಕಪರ್ವ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/039"><img src="<?=IMAGE_URL?>books/039.jpg" alt="Books images" /><h5 class="card-title">ಪುರಾಣಗಳ ನೆಲೆ ತತ್ತ್ವ ವಿಚಾರ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/039"><img src="<?=IMAGE_URL?>books/039.jpg" alt="Books images" /><h5 class="card-title">ಪುರಾಣಗಳ ನೆಲೆ ಮತ್ತು ತತ್ತ್ವವಿಚಾರ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/029"><img src="<?=IMAGE_URL?>books/029.jpg" alt="Books images" /><h5 class="card-title">ಹೊಸಗನ್ನಡ ವ್ಯಾಕರಣ</h5></a>
 					</div>
-					<!-- <div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/019"><img src="<?=IMAGE_URL?>books/019.jpg" alt="Books images" /><h5 class="card-title">ಭಾರತೀಯರ ಧರ್ಮ ಮತ್ತು ಸಂಸ್ಕೃತಿ-ಚಿಂತನ ಪ್ರಕಾಶ- ಸ್ಮರಣಸಂಚಿಕೆ </h5></a>
-					</div>
-					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/020"><img src="<?=IMAGE_URL?>books/020.jpg" alt="Books images" /><h5 class="card-title">ಋಷಿಗಳ ರಾಷ್ಟ್ರಾಭಿಮಾನ-ದಶಾಸ್ಮರಣಂ-ಹರಿಹರಪುರಮಠ</h5></a>
-					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/049"><img src="<?=IMAGE_URL?>books/049.jpg" alt="Books images" /><h5 class="card-title">ಸಂಜಯ</h5></a>
 					</div>
@@ -90,9 +84,6 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/072"><img src="<?=IMAGE_URL?>books/072.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಗುರುಪರಂಪರಾ ಚರಿತಮ್</h5></a>
 					</div>	
-					<!-- <div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/091"><img src="<?=IMAGE_URL?>books/091.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಶಬ್ದ ಚಂದ್ರಿಕಾ</h5></a>
-					</div>	 -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/055"><img src="<?=IMAGE_URL?>books/055.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಶಂಕರಚರಿತಾಮೃತಮ್</h5></a>
 					</div>	
@@ -105,20 +96,17 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/090"><img src="<?=IMAGE_URL?>books/090.jpg" alt="Books images" /><h5 class="card-title">भाषान्तरपाठः</h5></a>
 					</div>
-					<!-- <div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/022"><img src="<?=IMAGE_URL?>books/022.jpg" alt="Books images" /><h5 class="card-title">ಗೀತಾಜ್ಯೋತಿ-ಸಂಪಾದಕರ ನುಡಿ-ಸ್ವರ್ಣವಲ್ಲೀ ಮಠ </h5></a>
-					</div> -->
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/088"><img src="<?=IMAGE_URL?>books/088.jpg" alt="Books images" /><h5 class="card-title">कुसुमाञ्जलिः</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/102"><img src="<?=IMAGE_URL?>books/102.jpg" alt="Books images" /><h5 class="card-title">ಕುಕ್ಕೆಸುಬ್ರಹ್ಮಣ್ಯ ಸುಪ್ರಭಾತ </h5></a>
+						<a href="<?=BASE_URL?>listing/toc/102"><img src="<?=IMAGE_URL?>books/102.jpg" alt="Books images" /><h5 class="card-title">ಕುಕ್ಕೆ ಶ್ರೀ ಸುಬ್ರಹ್ಮಣ್ಯ ಸ್ವಾಮಿ ಸುಪ್ರಭಾತಂ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/103"><img src="<?=IMAGE_URL?>books/103.jpg" alt="Books images" /><h5 class="card-title">एकचक्रम्</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/111"><img src="<?=IMAGE_URL?>books/111.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀಧರ ಸ್ತುತಿ ಪುಷ್ಪಮಾಲೆ</h5></a>
+						<a href="<?=BASE_URL?>listing/toc/111"><img src="<?=IMAGE_URL?>books/111.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಶ್ರೀಧರಸ್ವಾಮಿಗಳಿಗೆ ಅರ್ಪಿಸಿದ ಸ್ತುತಿಪುಷ್ಪಮಾಲೆ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/112"><img src="<?=IMAGE_URL?>books/112.jpg" alt="Books images" /><h5 class="card-title">रङ्गनाथलेखमञ्जूषा</h5></a>
