@@ -79,10 +79,10 @@
 						<a href="<?=BASE_URL?>listing/toc/049"><img src="<?=IMAGE_URL?>books/049.jpg" alt="Books images" /><h5 class="card-title">ಸಂಜಯ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀರಾಮಚಂದ್ರ</h5></a>
+						<img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀರಾಮಚಂದ್ರ</h5>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a href=""><img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ನಾಲ್ವರು ಸಹೋದರರು</h5></a>
+						<img src="<?=IMAGE_URL?>books/thumb.jpg" alt="Books images" /><h5 class="card-title">ನಾಲ್ವರು ಸಹೋದರರು</h5>
 					</div>
 				</div><br />
 				<h4 class="text-center">ಸಂಸ್ಕೃತ ಪುಸ್ತಕಗಳು</h4><br />
