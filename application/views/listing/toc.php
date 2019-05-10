@@ -13,8 +13,8 @@
 						$pageNumber = $viewHelper->getRelativePage($bookID, $matches[1]);
 						echo '<li><a href="' . PUBLIC_URL .  'pdf/' . $bookID . '.pdf#page=' . $pageNumber . '" target="_blank">' . $matches[3] . '</a></li>';
 					}
-					elseif(preg_match('/<h1 class="title">(.*?)<\/h1>/', $line, $matches)) {
-						echo '<h2>' . $matches[1] . "</h2>\n";
+					elseif(preg_match('/<h1 class="title" data-language="(.*?)">(.*)<\/h1>/', $line, $matches)) {
+						echo '<h2>' . $matches[2] . "</h2>\n";
 					}
 					else
 							echo $line . "\n";
