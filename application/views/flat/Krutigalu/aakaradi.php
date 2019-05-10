@@ -116,8 +116,8 @@
 							<li>ಹರಿಭಕ್ತಿಸಾರ</li>
 							<li><a href="<?=BASE_URL?>listing/toc/036">ಹುಬ್ಬಳ್ಳಿಯ ಸಿದ್ಧಪುರುಷ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/029">ಹೊಸಗನ್ನಡ ವ್ಯಾಕರಣ</a></li>
-							<li class="english"><a href="<?=BASE_URL?>listing/toc/009">Sri Siddharudha Swamiji</a></li>
-							<li class="english"><a href="<?=BASE_URL?>listing/toc/007">Yugapurusha Shankara</a></li>
+							<li class="english">Sri Siddharudha Swamiji</li>
+							<li class="english">Yugapurusha Shankara</li>
 						</ul>
 					</div>
 				</div>	
