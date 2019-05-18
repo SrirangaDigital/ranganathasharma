@@ -57,14 +57,20 @@
 						</div>
 						<h4>ಕೌಟುಂಬಿಕ ಜೀವನ</h4>
 						<p>ಶ್ರೀಯುತ ಶರ್ಮರು ತಮ್ಮ ವೃತ್ತಿಜೀವನವನ್ನಾರಂಭಿಸುತ್ತಿದ್ದಂತೆಯೇ ಸಾಂಸಾರಿಕ ಬದುಕಿನತ್ತ ರತರಾದರು.೧೯೪೧ ರಲ್ಲಿ ಕು. ಕಮಲಾಕ್ಷಮ್ಮನವರೊಡನೆ ವಿವಾಹವಾದರು. ಮುಂದೆ ಸದಾನಂದ, ಶಾರದಾ, ಜಯಶ್ರೀ, ನಾಗಭೂಷಣರೆಂಬ ನಾಲ್ಕು ಮಕ್ಕಳನ್ನು ಪಡೆದರು. ತೃಪ್ತ ಸಂಸಾರವಾಗಿದ್ದರೂ ವಿಧಿನಿಯಮ ಬಲವಾಗಿತ್ತು. ೧೯೭೩ರಲ್ಲಿ ಅನಾರೋಗ್ಯದ ಕಾರಣದಿಂದ ಶ್ರೀಮತೀ ಕಮಲಾಕ್ಷಮ್ಮನವರು ಇಹಲೋಕ ತ್ಯಾಗ ಮಾಡಿದರು. ಶ್ರೀಯುತ ಶರ್ಮರ ಜೀವನದ ಅತ್ಯಂತ ಕಠಿಣ ಸಂದರ್ಭ ಇದಾಯಿತು. ನಾಲ್ಕು ಜನ ಮಕ್ಕಳ ಪಾಲಿನ ತಾಯಿ-ತಂದೆ ಇಬ್ಬರೂ ಶ್ರೀಯುತ ಶರ್ಮರಾದರು.</p>
-						<div class="row">
-							<div class="col-md-6">
+						<div class="row justify-content-center align-items-center">
+							<div class="col-md-3">
+								<figure class="text-center">
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>family3.jpg" />
+									<figcaption>ಶ್ರೀಯುತ ಶರ್ಮರ ಧರ್ಮಪತ್ನಿ ದಿ॥ ಶ್ರೀಮತಿ ಕಮಲಾಕ್ಷಮ್ಮ</figcaption>
+								</figure>
+							</div>
+							<div class="col-md-4">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>family.jpg" />
 									<figcaption>ಶ್ರೀಯುತ ಶರ್ಮರ ಕುಟುಂಬ</figcaption>
 								</figure>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-4">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>family2.jpg" />
 									<figcaption>ಕಿರಿಯಪುತ್ರಿ ಶ್ರೀಮತಿ ಜಯಶ್ರೀಯವರೊಂದಿಗೆ ಶ್ರೀಯುತ ಶರ್ಮರು</figcaption>
@@ -706,14 +712,19 @@
 						</div>
 						<h4>कुटुम्बजीवनम्।</h4>
 						<p>वृत्तिजीवनप्रवेशनसमनन्तरमेव श्रीरङ्गनाथशर्माणः वैवाहिकजीवनमपि आरब्धवन्तः। १९४१ तमे वर्षे कुमार्या कमलाक्षम्मया सह एतेषां विवाहः संपन्नः। अग्रे सदानन्दः, शारदा, जयश्रीः, नागभूषणः इति चत्वारः पुत्राः जाताः। विधिवशात् १९७३ तमे वर्षे अनारोग्यग्रस्ता श्रीमती कमलक्षम्मा दिवङ्गता। श्रीरङ्गनाथशर्मणां जीवने अयं कालः अत्यन्तं दुःखगर्भितः आसीत्। ततः परं चत्वार्यपि अपत्यानि श्रीरङ्गनाथशर्माणः मातापित्रोः उभयोरपि रूपं धृत्वा पलितवन्तः।</p>
-						<div class="row">
-							<div class="col-md-6">
+						<div class="row justify-content-center align-items-center">
+							<div class="col-md-3">
+								<figure class="text-center">
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>family3.jpg" />
+								</figure>
+							</div>
+							<div class="col-md-4">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>family.jpg" />
 									<figcaption>श्रीरङ्गनाथशर्मणां परिवारः</figcaption>
 								</figure>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-4">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>family2.jpg" />
 									<figcaption>कनीयस्या पुत्र्या श्रीमत्या जयश्रिया सह श्रीरङ्गनाथशर्माणः</figcaption>
@@ -929,14 +940,20 @@
 						</div>
 						<h4>Family Life</h4>
 						<p>Sri. Sharma entered into the life of a householder soon after starting his career. He married Kamalakshamma in 1941. The couple had four children – Sadananda, Sharada, Jayashri and Nagabhushana. They led a contented life, but by a twist of fate, Smt. Kamalakshamma passed away in 1973 due to an illness. This was a very difficult period in his life. Sri. Sharma was thereafter both a father and a mother to his four children.</p>
-						<div class="row">
-							<div class="col-md-6">
+						<div class="row justify-content-center align-items-center">
+							<div class="col-md-3">
+								<figure class="text-center">
+									<img class="img-thumbnail" src="<?=IMAGE_URL?>family3.jpg" />
+									<figcaption>Sri Sharma's wife Smt. Kamalakshamma</figcaption>
+								</figure>
+							</div>
+							<div class="col-md-4">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>family.jpg" />
 									<figcaption>Family of Sri.Sharma</figcaption>
 								</figure>
 							</div>
-							<div class="col-md-6">
+							<div class="col-md-4">
 								<figure class="text-center">
 									<img class="img-thumbnail" src="<?=IMAGE_URL?>family2.jpg" />
 									<figcaption>Sri.Sharma with younger daughter Smt.Jayashri</figcaption>
@@ -1054,7 +1071,7 @@
 									<td class="d-flex col-md-4 align-middle">Gurus</td>
 									<td class="col-md-6">
 										<ul>
-											<li>Basic Sanskrit – Vedabrahma Shri Keshavashastri Matturu, </li>
+											<li>Basic Sanskrit – Vedabrahma Shri Keshavashastri Matturu,</li>
 											<li>Vedabrahma Sri Narayana Shastri</li>
 											<li>Vyakarana Shastra – Vedabrahma Sri. Nuggehalli Tirunarayana Ayyangar,</li>
 											<li>Vid. Srikantha Shastri, Vedabrahma Sri. Lakshminarayana Shastri</li>
@@ -1069,7 +1086,7 @@
 										<ul>
 											<li>Sanskrit teacher at Hassan Highschool</li>
 											<li>Sanskrit teacher at Belur Sanskrit Pathashala</li>
-											<li>Lecturer in Vyakarana for 28 years from 1948, Sri Chamarajendra Sanskrit College, </li>
+											<li>Lecturer in Vyakarana for 28 years from 1948, Sri Chamarajendra Sanskrit College,</li>
 											<li>Pampa Mahakavi Road, Chamarajpet, Bangalore 560018, Karnataka.</li>
 										</ul>
 									</td>

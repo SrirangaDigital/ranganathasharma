@@ -471,6 +471,14 @@
 		</div>
 		<div class="col-md-3 text-center">
 			<figure>
+				<img class="img-fluid" data-original="<?=IMAGE_URL?>gallery/main/067.jpg" src="<?=IMAGE_URL?>gallery/thumbs/067.jpg" alt="ಶ್ರೀಯುತ ಶರ್ಮರ ಧರ್ಮಪತ್ನಿ ದಿ॥ ಶ್ರೀಮತಿ ಕಮಲಾಕ್ಷಮ್ಮ" />
+				<figcaption>
+					ಶ್ರೀಯುತ ಶರ್ಮರ ಧರ್ಮಪತ್ನಿ ದಿ॥ ಶ್ರೀಮತಿ ಕಮಲಾಕ್ಷಮ್ಮ
+				</figcaption>
+			</figure>
+		</div>
+		<div class="col-md-3 text-center">
+			<figure>
 				<img class="img-fluid" data-original="<?=IMAGE_URL?>gallery/main/012.jpg" src="<?=IMAGE_URL?>gallery/thumbs/012.jpg" alt="ಶ್ರೀಯುತ ಶರ್ಮರ ಕುಟುಂಬ" />
 				<figcaption>
 					ಶ್ರೀಯುತ ಶರ್ಮರ ಕುಟುಂಬ
