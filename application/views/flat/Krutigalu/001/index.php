@@ -108,9 +108,6 @@
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/111"><img src="<?=IMAGE_URL?>books/111.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಶ್ರೀಧರಸ್ವಾಮಿಗಳಿಗೆ ಅರ್ಪಿಸಿದ ಸ್ತುತಿಪುಷ್ಪಮಾಲೆ</h5></a>
 					</div>
-					<div class="col-md-3 booksCollection">
-						<a href="<?=BASE_URL?>listing/toc/112"><img src="<?=IMAGE_URL?>books/112.jpg" alt="Books images" /><h5 class="card-title">रङ्गनाथलेखमञ्जूषा</h5></a>
-					</div>
 				</div>
 			</div>
 		</div>

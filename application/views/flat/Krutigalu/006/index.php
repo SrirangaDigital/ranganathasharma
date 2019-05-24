@@ -9,9 +9,6 @@
 					<img src="<?=IMAGE_URL?>books/006.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಮದ್ರಾಘವೇಂದ್ರ ಭಾರತೀ ಮಹಾ ಸ್ವಾಮಿಗಳು</h5>
 				</div>
 					<div class="col-md-3 booksCollection">
-						<a href="<?=PUBLIC_URL?>pdf/008.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/008.jpg" alt="Books images" /><h5 class="card-title">ಸಂಸ್ಕೃತ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷ ಭಾಷಣ</h5></a>
-					</div>
-					<div class="col-md-3 booksCollection">
 						<a href="<?=PUBLIC_URL?>pdf/011_1.pdf" target="_blank"><img src="<?=IMAGE_URL?>books/011.jpg" alt="Books images" /><h5 class="card-title">ಶ್ರೀ ಶ್ರೀ ಗಂಗಾಧರೇಂದ್ರ ಸರಸ್ವತೀ ಸ್ವಾಮಿಗಳ ಪೀಠಾರೋಹಣ ದಶಮಾನೋತ್ಸವ ಸ್ಮರಣ ಸಂಪುಟ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
@@ -70,6 +67,9 @@
 					</div>
 					<div class="col-md-3 booksCollection">
 						<a href="<?=BASE_URL?>listing/toc/021"><img src="<?=IMAGE_URL?>books/021.jpg" alt="Books images" /><h5 class="card-title">ಸಂಕ್ಷೇಪ ರಾಮಾಯಣಮ್</h5></a>
+					</div>
+					<div class="col-md-3 booksCollection">
+						<a href="<?=BASE_URL?>listing/toc/112"><img src="<?=IMAGE_URL?>books/112.jpg" alt="Books images" /><h5 class="card-title">रङ्गनाथलेखमञ्जूषा</h5></a>
 					</div>
 				</div>
 				<div class="tab-content">

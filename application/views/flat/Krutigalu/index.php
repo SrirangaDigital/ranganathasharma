@@ -54,7 +54,7 @@
 					</div> -->
 					<div class="col-md-3 text-center my-3">
 						<a href="<?=BASE_URL?>Krutigalu/008">
-							<img class="img-fluid" src="<?=IMAGE_URL?>kruthigalu/kruthi-6.jpg" />
+							<img class="img-fluid" src="<?=IMAGE_URL?>kruthigalu/kruthi-6.jpg?v=1.0" />
 							<div class="card-title text-center">ಭಾಷಾಂತರಗೊಂಡ ಗ್ರಂಥಗಳು</div>
 						</a>
 					</div>

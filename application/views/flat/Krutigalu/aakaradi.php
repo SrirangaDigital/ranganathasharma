@@ -16,7 +16,6 @@
 							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/119">व्याकरणप्रदीपः</a></li>
 							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/097">व्यासतात्पर्यनिर्णयः</a></li>
 							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/122">शब्दचन्द्रिका</a></li>
-							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/120">शाङ्करस्तोत्राणि</a></li>
 							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/089">संस्कृत प्रथम प्रवेशः</a></li>
 							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/100">संस्कृत व्याकरणस्य प्राशस्यम्</a></li>
 							<li class="sanskrit"><a href="<?=BASE_URL?>listing/toc/091">संस्कृत शब्दचन्द्रिका</a></li>
