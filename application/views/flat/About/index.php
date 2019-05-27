@@ -263,7 +263,7 @@
 						<a target="_blank" href="<?=PUBLIC_URL?>pdf/116_1.pdf"><img src="<?=IMAGE_URL?>books/116.jpg" alt="Books images" /><h5 class="card-title">ಲೇ: ಬಿ. ಜಿ. ಸತ್ಯಮೂರ್ತಿ</h5></a>
 					</div>
 					<div class="col-md-3 booksCollection">
-						<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/008.pdf"><img src="<?=IMAGE_URL?>008.jpg" alt="images" /><h5 class="card-title">ಲೇ: ವಿದ್ವಾನ್​ ಅನಂತಶರ್ಮಾ ಭುವನಗಿರಿ</h5></a>
+						<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/015.pdf"><img src="<?=IMAGE_URL?>015.jpg" alt="images" /><h5 class="card-title">ಲೇ: ವಿದ್ವಾನ್​ ಅನಂತಶರ್ಮಾ ಭುವನಗಿರಿ</h5></a>
 					</div>
 				</div>
 			</div>			
@@ -294,6 +294,9 @@
 					<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/007.pdf"><img src="<?=IMAGE_URL?>paper-clipings/007.jpg" alt="images" /></a>
 				</div>
 				<div class="col-md-3 mt-5 text-center">
+					<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/008.pdf"><img src="<?=IMAGE_URL?>paper-clipings/008.jpg" alt="images" /></a>
+				</div>
+				<div class="col-md-3 mt-5 text-center">
 					<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/009.pdf"><img src="<?=IMAGE_URL?>paper-clipings/009.jpg" alt="images" /></a>
 				</div>
 				<div class="col-md-3 mt-5 text-center">
@@ -310,9 +313,6 @@
 				</div>
 				<div class="col-md-3 mt-5 text-center">
 					<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/014.pdf"><img src="<?=IMAGE_URL?>paper-clipings/014.jpg" alt="images" /></a>
-				</div>
-				<div class="col-md-3 mt-5 text-center">
-					<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/015.pdf"><img src="<?=IMAGE_URL?>paper-clipings/015.jpg" alt="images" /></a>
 				</div>
 				<div class="col-md-3 mt-5 text-center">
 					<a target="_blank" href="<?=DOWNLOAD_URL?>pdf/016.pdf"><img src="<?=IMAGE_URL?>paper-clipings/016.jpg" alt="images" /></a>
