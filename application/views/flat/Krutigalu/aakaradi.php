@@ -68,7 +68,7 @@
 							<li><a href="<?=BASE_URL?>listing/toc/050">ವ್ಯಾಸ ತಾತ್ಪರ್ಯ ನಿರ್ಣಯ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/026">ವ್ಯಾಸ ರಹಸ್ಯ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/083">ಶ್ರೀ ಗೀತಾರ್ಥ ಪ್ರಕಾಶ</a></li>
-							<li><a href="<?=BASE_URL?>listing/toc/125">ಶ್ರೀ ಭಾಗವನ್ನಾಮಾವಲಿಃ</a></li>
+							<li><a href="<?=BASE_URL?>listing/toc/125">ಶ್ರೀ ಭಗವನ್ನಾಮಾವಲಿಃ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/118">ಶ್ರೀ ರಾಮಕರ್ಣಾಮೃತಮ್</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/033">ಶ್ರೀ ವಾಲಿವಧ ಪ್ರಸಂಗ</a></li>
 							<li><a href="<?=BASE_URL?>listing/toc/104">ಶ್ರೀ ಶಾಂಕರ ಸೂಕ್ತಿ ಮಣಿಹಾರ</a></li>
