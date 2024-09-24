@@ -3,21 +3,21 @@
 		<div class="col-md-12">
 			<div id="carousel" class="carousel slide" data-ride="carousel">
 				<ol class="carousel-indicators">
-					<li data-target="#carousel" data-slide-to="0" class="active"></li>
-					<li data-target="#carousel" data-slide-to="1"></li>
+					<!-- <li data-target="#carousel" data-slide-to="0" class="active"></li> -->
+					<li data-target="#carousel" data-slide-to="1" class="active"></li>
 					<li data-target="#carousel" data-slide-to="2"></li>
 					<li data-target="#carousel" data-slide-to="3"></li>
 					<li data-target="#carousel" data-slide-to="4"></li>
 					<!-- <li data-target="#carousel" data-slide-to="5"></li> -->
 				</ol>
 				<div class="carousel-inner">
-					<div class="carousel-item active">
+					<!-- <div class="carousel-item active">
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel1.jpg" alt="ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯ ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">ಕರ್ನಾಟಕ ಸಂಸ್ಕೃತ ವಿಶ್ವವಿದ್ಯಾಲಯವು ಶ್ರೀಯುತ ಶರ್ಮರಿಗೆ ನೀಡಿದ ಗೌರವ ಡಾಕ್ಟರೇಟ್ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭ</p>
 						</div>
-					</div>
-					<div class="carousel-item">
+					</div> -->
+					<div class="carousel-item active">
 						<img class="img-responsive " src="<?=IMAGE_URL?>carousel/carousel2.jpg" alt="ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿ ಡಾ|| ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು">
 						<div class="carousel-caption pos-2-3-left scheme-dark">
 							<p class="caption-content">ಧರ್ಮಸ್ಥಳದ ಧರ್ಮಾಧಿಕಾರಿಗಳಾದ ಡಾ॥ ವೀರೇಂದ್ರ ಹೆಗ್ಗಡೆಯವರು ಪುರಸ್ಕರಿಸುತ್ತಿರುವುದು</p>
